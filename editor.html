@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Virtual Model Museum — Caption Editor</title>
+  <style>
+    :root{
+      --bg:#111214;--panel:#1b1d22;--panel2:#24272e;--text:#f4f1ea;--muted:#b9b3aa;
+      --line:rgba(255,255,255,.13);--good:#a7d7a7;--warn:#f0d18a;--danger:#f0a0a0;
+      --shadow:0 18px 60px rgba(0,0,0,.35)
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--text);background:radial-gradient(circle at top left,rgba(255,255,255,.08),transparent 34rem),linear-gradient(180deg,#15171b,var(--bg));min-height:100vh}
+    header{padding:1.4rem 1.2rem;border-bottom:1px solid var(--line);background:rgba(17,18,20,.82);position:sticky;top:0;z-index:10;backdrop-filter:blur(14px)}
+    .top{max-width:1280px;margin:0 auto;display:grid;grid-template-columns:1fr auto;gap:1rem;align-items:center}
+    h1{font-size:1.35rem;margin:.1rem 0}.sub{color:var(--muted);margin:.25rem 0 0;font-size:.95rem;line-height:1.35}
+    button,input,select,textarea{font:inherit;border-radius:12px;border:1px solid var(--line)}
+    button{cursor:pointer;color:var(--text);background:var(--panel2);padding:.72rem .9rem}
+    button:hover{filter:brightness(1.12)} button.primary{background:var(--text);color:#111214}
+    button.danger{color:var(--danger)} button.small{padding:.45rem .6rem;font-size:.9rem}
+    .wrap{max-width:1280px;margin:0 auto;padding:1rem;display:grid;grid-template-columns:390px minmax(0,1fr);gap:1rem}
+    .panel{background:rgba(27,29,34,.92);border:1px solid var(--line);border-radius:20px;box-shadow:var(--shadow);overflow:hidden}
+    .list-tools{padding:.8rem;border-bottom:1px solid var(--line);display:grid;gap:.55rem}
+    input,select,textarea{width:100%;color:var(--text);background:#14161a;padding:.75rem .85rem}
+    .row{display:flex;gap:.55rem}.row>*{flex:1}.row .auto{flex:0 0 auto}
+    .list{height:calc(100vh - 220px);overflow:auto;padding:.6rem;display:grid;gap:.55rem}
+    .item{display:grid;grid-template-columns:70px minmax(0,1fr);gap:.65rem;width:100%;text-align:left;padding:.55rem;border-radius:16px;border:1px solid var(--line);background:var(--panel2)}
+    .item.active{outline:2px solid var(--text)}.item img{width:70px;aspect-ratio:4/3;object-fit:cover;border-radius:11px;background:#07080a}
+    .item-title{display:block;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .item-meta{display:block;color:var(--muted);font-size:.8rem;margin:.12rem 0}
+    .dots{display:flex;flex-wrap:wrap;gap:.18rem;margin-top:.35rem}.dot{width:8px;height:8px;border-radius:50%;background:rgba(255,255,255,.22)}.dot.done{background:var(--good)}
+    .editor{display:grid;grid-template-rows:auto 1fr}
+    .detail-head{padding:1rem;border-bottom:1px solid var(--line);display:grid;grid-template-columns:180px minmax(0,1fr);gap:1rem}
+    .detail-head img{width:100%;border-radius:16px;background:#07080a;aspect-ratio:4/3;object-fit:cover}
+    .meta{color:var(--muted);line-height:1.5}.meta code{color:var(--text)}
+    .tabs{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.8rem}.tab{padding:.5rem .7rem}.tab.active{background:var(--text);color:#111214}
+    .edit-area{padding:1rem;display:grid;gap:.8rem}
+    textarea{min-height:340px;resize:vertical;line-height:1.55;white-space:pre-wrap}
+    .status{color:var(--muted);font-size:.92rem}.status.good{color:var(--good)}.status.warn{color:var(--warn)}
+    .help{padding:.8rem 1rem;background:rgba(255,255,255,.05);border:1px solid var(--line);border-radius:16px;color:var(--muted);line-height:1.45}
+    .empty{padding:2rem;color:var(--muted)}
+    .hidden{display:none!important}
+    @media(max-width:900px){.wrap{grid-template-columns:1fr}.list{height:300px}.detail-head{grid-template-columns:1fr}.top{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <div>
+      <h1>Virtual Model Museum — Caption Editor</h1>
+      <p class="sub">Local editor for captions and translations. It does not modify your original Instagram export.</p>
+    </div>
+    <div class="row">
+      <button id="exportBtn" class="primary" type="button">Export translations-data.js</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="panel">
+    <div class="list-tools">
+      <input id="searchBox" type="search" placeholder="Search title, kit, scale or caption..." autocomplete="off">
+      <div class="row">
+        <select id="languageFilter" title="Language completeness">
+          <option value="">All posts</option>
+          <option value="missing">Missing current language</option>
+          <option value="translated">Translated current language</option>
+        </select>
+        <select id="currentLanguage">
+          <option value="en">🇬🇧 English</option>
+          <option value="it">🇮🇹 Italiano</option>
+          <option value="de">🇩🇪 Deutsch</option>
+          <option value="fr">🇫🇷 Français</option>
+          <option value="ru">🇷🇺 Русский</option>
+          <option value="ja">🇯🇵 日本語</option>
+          <option value="zh">🇨🇳 中文</option>
+        </select>
+      </div>
+      <div class="status" id="listStatus">Loading...</div>
+    </div>
+    <div id="postList" class="list"></div>
+  </section>
+
+  <section class="panel editor">
+    <div id="detailHead" class="detail-head">
+      <div class="empty">Select a model from the list.</div>
+    </div>
+
+    <div id="editArea" class="edit-area hidden">
+      <div class="tabs" id="languageTabs"></div>
+
+      <div class="row">
+        <button id="copyEnglishBtn" type="button">Copy English into this language</button>
+        <button id="clearBtn" class="danger" type="button">Clear this translation</button>
+      </div>
+
+      <label>
+        <span class="status">Caption / description for selected language</span>
+        <textarea id="captionBox" spellcheck="true"></textarea>
+      </label>
+
+      <div class="help">
+        <strong>How saving works:</strong> after editing, click <em>Export translations-data.js</em>.
+        Then copy the downloaded file into <code>assets</code> and replace the old one.
+        Reopen <code>index.html</code> to see the changes.
+      </div>
+
+      <div class="status" id="saveStatus">No changes yet.</div>
+    </div>
+  </section>
+</main>
+
+<script src="assets/posts-data.js"></script>
+<script src="assets/translations-data.js"></script>
+<script src="assets/ferrarese.js"></script>
+<script src="assets/extra-translations-es-sv-cs.js"></script>
+<script>
+const posts = Array.isArray(window.VMM_POSTS) ? window.VMM_POSTS : [];
+let translations = JSON.parse(JSON.stringify(window.VMM_TRANSLATIONS || {}));
+
+const LANGS = [
+  ['en','GB English'], ['it','IT Italiano'], ['fe','FE Frar\u00e9s'], ['de','DE Deutsch'], ['fr','FR Fran\u00e7ais'],
+  ['es','ES Espa\u00f1ol'], ['sv','SV Svenska'], ['cs','CS \u010ce\u0161tina'],
+  ['ru','RU \u0420\u0443\u0441\u0441\u043a\u0438\u0439'], ['ja','JP \u65e5\u672c\u8a9e'], ['zh','CN \u4e2d\u6587']
+];
+
+const PINNED_IDS = ['post-0005', 'post-0004'];
+let selectedId = localStorage.getItem('vmm_editor_selected') || (PINNED_IDS.find(id => posts.some(p => p.id === id)) || (posts[0] && posts[0].id));
+let currentLang = localStorage.getItem('vmm_editor_lang') || 'en';
+let dirty = false;
+
+const $ = id => document.getElementById(id);
+const postList = $('postList'), searchBox = $('searchBox'), languageFilter = $('languageFilter'), currentLanguage = $('currentLanguage');
+const detailHead = $('detailHead'), editArea = $('editArea'), languageTabs = $('languageTabs'), captionBox = $('captionBox');
+const copyEnglishBtn = $('copyEnglishBtn'), clearBtn = $('clearBtn'), exportBtn = $('exportBtn'), saveStatus = $('saveStatus'), listStatus = $('listStatus');
+
+currentLanguage.value = currentLang;
+
+function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));}
+function fixMojibake(s){return String(s||'').replaceAll('â','“').replaceAll('â','”').replaceAll('â','’').replaceAll('â','—').replaceAll('â','–').replaceAll('â¦','…').replaceAll('Â','');}
+function postById(id){return posts.find(p => p.id === id);}
+function isPinned(p){return PINNED_IDS.includes(p.id);}
+function orderedPosts(){
+  const pinned = PINNED_IDS.map(id => posts.find(p => p.id === id)).filter(Boolean);
+  const rest = posts.filter(p => !PINNED_IDS.includes(p.id));
+  return [...pinned, ...rest];
+}
+function descriptionOnly(post){
+  const title = String(post.title || '').trim();
+  const lines = fixMojibake(post.caption || '').split(/\n+/).map(x => x.trim()).filter(Boolean);
+  const out = [];
+  for (const line of lines) {
+    const lower = line.toLowerCase();
+    if (title && line === title) continue;
+    if (lower.startsWith('kit:')) continue;
+    if (lower.startsWith('scale:')) continue;
+    out.push(line);
+  }
+  return out.join('\n');
+}
+function getCaption(post, lang){
+  const tr = translations[post.id] || {};
+  return (tr[lang] && typeof tr[lang].caption === 'string') ? tr[lang].caption : (lang === 'en' ? descriptionOnly(post) : '');
+}
+function effectiveCaption(post, lang){
+  return getCaption(post, lang) || getCaption(post, 'en') || descriptionOnly(post);
+}
+function setCaption(post, lang, value){
+  value = String(value || '').trim();
+  if (!translations[post.id]) translations[post.id] = {};
+  if (value) translations[post.id][lang] = {caption: value};
+  else if (translations[post.id]) delete translations[post.id][lang];
+
+  if (translations[post.id] && Object.keys(translations[post.id]).length === 0) delete translations[post.id];
+  dirty = true;
+  saveStatus.textContent = 'Changes in memory. Export translations-data.js to save them.';
+  saveStatus.className = 'status warn';
+}
+function hasTranslation(post, lang){
+  return Boolean(translations[post.id] && translations[post.id][lang] && translations[post.id][lang].caption);
+}
+function completionDots(post){
+  return LANGS.map(([lang]) => `<span class="dot ${hasTranslation(post, lang) || (lang==='en' && descriptionOnly(post)) ? 'done' : ''}" title="${lang}"></span>`).join('');
+}
+function matches(post){
+  const q = searchBox.value.trim().toLowerCase();
+  const mode = languageFilter.value;
+  if (mode === 'missing' && (currentLang === 'en' || hasTranslation(post, currentLang))) return false;
+  if (mode === 'translated' && !hasTranslation(post, currentLang)) return false;
+  if (!q) return true;
+  const allTr = Object.values(translations[post.id] || {}).map(x => x.caption || '').join(' ');
+  return [post.id, post.title, post.kit, post.scale, post.date, post.caption, allTr].join(' ').toLowerCase().includes(q);
+}
+function renderList(){
+  const filtered = orderedPosts().filter(matches);
+  postList.innerHTML = filtered.map(post => `
+    <button class="item ${post.id === selectedId ? 'active' : ''}" type="button" data-id="${esc(post.id)}">
+      <img src="${esc((post.images && post.images[0]) || '')}" alt="">
+      <span>
+        <span class="item-title">${esc(post.title || post.id)}</span>
+        <span class="item-meta">${esc(post.date || '')}${post.kit ? ' · Kit: '+esc(post.kit) : ''}${post.scale ? ' · Scale: '+esc(post.scale) : ''}</span>
+        <span class="dots">${completionDots(post)}</span>
+      </span>
+    </button>
+  `).join('');
+  listStatus.textContent = `${filtered.length} visible / ${posts.length} total posts`;
+  postList.querySelectorAll('.item').forEach(btn => btn.addEventListener('click', () => selectPost(btn.dataset.id)));
+}
+function renderTabs(){
+  languageTabs.innerHTML = LANGS.map(([lang,label]) => `<button class="tab ${lang===currentLang?'active':''}" type="button" data-lang="${lang}">${label}</button>`).join('');
+  languageTabs.querySelectorAll('.tab').forEach(btn => btn.addEventListener('click', () => {
+    saveTextarea();
+    currentLang = btn.dataset.lang;
+    localStorage.setItem('vmm_editor_lang', currentLang);
+    currentLanguage.value = currentLang;
+    renderEditor();
+    renderList();
+  }));
+}
+function renderEditor(){
+  const post = postById(selectedId);
+  if (!post) {
+    detailHead.innerHTML = '<div class="empty">No post selected.</div>';
+    editArea.classList.add('hidden');
+    return;
+  }
+  editArea.classList.remove('hidden');
+  detailHead.innerHTML = `
+    <img src="${esc((post.images && post.images[0]) || '')}" alt="">
+    <div>
+      <h2>${esc(post.title || post.id)} ${isPinned(post) ? '· Donati' : ''}</h2>
+      <div class="meta">
+        <div><code>${esc(post.id)}</code></div>
+        ${post.date ? `<div>Date: ${esc(post.date)}</div>` : ''}
+        ${post.kit ? `<div>Kit: <code>${esc(post.kit)}</code></div>` : ''}
+        ${post.scale ? `<div>Scale: <code>${esc(post.scale)}</code></div>` : ''}
+        ${post.count ? `<div>Photos: ${esc(post.count)}</div>` : ''}
+      </div>
+    </div>
+  `;
+  renderTabs();
+  captionBox.value = currentLang === 'en' ? effectiveCaption(post, 'en') : getCaption(post, currentLang);
+  saveStatus.textContent = dirty ? 'Changes in memory. Export translations-data.js to save them.' : 'No changes yet.';
+  saveStatus.className = dirty ? 'status warn' : 'status';
+}
+function selectPost(id){
+  saveTextarea();
+  selectedId = id;
+  localStorage.setItem('vmm_editor_selected', selectedId);
+  renderList();
+  renderEditor();
+}
+function saveTextarea(){
+  const post = postById(selectedId);
+  if (!post) return;
+  const currentValue = getCaption(post, currentLang);
+  const newValue = captionBox.value.trim();
+  const englishDefault = currentLang === 'en' ? descriptionOnly(post).trim() : '';
+  if (newValue !== currentValue.trim() && !(currentLang === 'en' && newValue === englishDefault && !hasTranslation(post,'en'))) {
+    setCaption(post, currentLang, newValue);
+  }
+}
+captionBox.addEventListener('input', () => {
+  const post = postById(selectedId);
+  if (!post) return;
+  setCaption(post, currentLang, captionBox.value);
+  renderList();
+});
+copyEnglishBtn.addEventListener('click', () => {
+  const post = postById(selectedId);
+  if (!post) return;
+  captionBox.value = effectiveCaption(post, 'en');
+  setCaption(post, currentLang, captionBox.value);
+  renderList();
+});
+clearBtn.addEventListener('click', () => {
+  const post = postById(selectedId);
+  if (!post) return;
+  if (confirm('Clear this language for the selected model?')) {
+    captionBox.value = '';
+    setCaption(post, currentLang, '');
+    renderList();
+  }
+});
+searchBox.addEventListener('input', renderList);
+languageFilter.addEventListener('change', renderList);
+currentLanguage.addEventListener('change', () => {
+  saveTextarea();
+  currentLang = currentLanguage.value;
+  localStorage.setItem('vmm_editor_lang', currentLang);
+  renderList();
+  renderEditor();
+});
+function cleanTranslations(obj){
+  const out = {};
+  for (const [id, langs] of Object.entries(obj || {})) {
+    const cleanedLangs = {};
+    for (const [lang, val] of Object.entries(langs || {})) {
+      const caption = val && typeof val.caption === 'string' ? val.caption.trim() : '';
+      if (caption) cleanedLangs[lang] = {caption};
+    }
+    if (Object.keys(cleanedLangs).length) out[id] = cleanedLangs;
+  }
+  return out;
+}
+exportBtn.addEventListener('click', () => {
+  saveTextarea();
+  const cleaned = cleanTranslations(translations);
+  const content = 'window.VMM_TRANSLATIONS = ' + JSON.stringify(cleaned, null, 2) + ';\n';
+  const blob = new Blob([content], {type:'text/javascript;charset=utf-8'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'translations-data.js';
+  document.body.appendChild(a);
+  a.click();
+  setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+  dirty = false;
+  saveStatus.textContent = 'Downloaded translations-data.js. Copy it into the assets folder and replace the old file.';
+  saveStatus.className = 'status good';
+});
+
+window.addEventListener('beforeunload', e => {
+  if (dirty) {
+    e.preventDefault();
+    e.returnValue = '';
+  }
+});
+
+if (!posts.length) {
+  detailHead.innerHTML = '<div class="empty">I cannot find <code>assets/posts-data.js</code>. Put this editor in the same folder as <code>index.html</code>.</div>';
+} else {
+  renderList();
+  renderEditor();
+}
+</script>
+</body>
+</html>
+

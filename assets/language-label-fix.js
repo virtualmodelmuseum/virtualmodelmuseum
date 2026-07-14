@@ -3,14 +3,15 @@
   const LABELS = {
     en: ["GB", "English"],
     it: ["IT", "Italiano"],
+    fe: ["FE", "Frar\u00e9s"],
     de: ["DE", "Deutsch"],
     fr: ["FR", "Fran\u00e7ais"],
-    ru: ["RU", "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"],
-    ja: ["JP", "\u65e5\u672c\u8a9e"],
-    zh: ["CN", "\u4e2d\u6587"],
     es: ["ES", "Espa\u00f1ol"],
     sv: ["SV", "Svenska"],
-    cs: ["CS", "\u010ce\u0161tina"]
+    cs: ["CS", "\u010ce\u0161tina"],
+    ru: ["RU", "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"],
+    ja: ["JP", "\u65e5\u672c\u8a9e"],
+    zh: ["CN", "\u4e2d\u6587"]
   };
 
   function makeLabel(button, code, name) {

@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Virtual Model Museum — Add New Model</title>
+  <style>
+    :root{
+      --bg:#111214;--panel:#1b1d22;--panel2:#24272e;--text:#f4f1ea;--muted:#b9b3aa;
+      --line:rgba(255,255,255,.13);--good:#a7d7a7;--warn:#f0d18a;--danger:#f0a0a0;
+      --shadow:0 18px 60px rgba(0,0,0,.35)
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--text);background:radial-gradient(circle at top left,rgba(255,255,255,.08),transparent 34rem),linear-gradient(180deg,#15171b,var(--bg));min-height:100vh}
+    header{padding:1.4rem 1.2rem;border-bottom:1px solid var(--line);background:rgba(17,18,20,.82);position:sticky;top:0;z-index:10;backdrop-filter:blur(14px)}
+    .top,.wrap{max-width:1260px;margin:0 auto}
+    h1{font-size:1.35rem;margin:.1rem 0}.sub{color:var(--muted);margin:.25rem 0 0;font-size:.95rem;line-height:1.35}
+    .wrap{padding:1rem;display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:1rem}
+    .panel{background:rgba(27,29,34,.92);border:1px solid var(--line);border-radius:20px;box-shadow:var(--shadow);overflow:hidden}
+    .section{padding:1rem;border-bottom:1px solid var(--line)}.section:last-child{border-bottom:0}
+    h2{font-size:1rem;margin:0 0 .8rem}.hint{color:var(--muted);font-size:.9rem;line-height:1.45}
+    button,input,select,textarea{font:inherit;border-radius:12px;border:1px solid var(--line)}
+    input,select,textarea{width:100%;color:var(--text);background:#14161a;padding:.75rem .85rem}
+    textarea{min-height:190px;resize:vertical;line-height:1.55;white-space:pre-wrap}
+    label{display:grid;gap:.35rem}.label{color:var(--muted);font-size:.9rem}
+    .grid2{display:grid;grid-template-columns:1fr 1fr;gap:.8rem}.grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:.8rem}
+    .stack{display:grid;gap:.8rem}
+    button{cursor:pointer;color:var(--text);background:var(--panel2);padding:.72rem .9rem}
+    button:hover{filter:brightness(1.12)} button.primary{background:var(--text);color:#111214}.danger{color:var(--danger)}
+    .row{display:flex;gap:.55rem;align-items:center;flex-wrap:wrap}.row>*{flex:1}.row .auto{flex:0 0 auto}
+    .preview-card{overflow:hidden;border-radius:18px;background:var(--panel2);border:1px solid var(--line)}
+    .preview-card img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;background:#07080a}
+    .preview-body{padding:.9rem}.preview-title{font-weight:700;margin:0 0 .4rem}.tags{display:flex;flex-wrap:wrap;gap:.35rem;margin:.45rem 0}
+    .tag{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:.18rem .45rem;color:var(--muted);font-size:.76rem}
+    .caption{color:var(--muted);font-size:.92rem;line-height:1.4;white-space:pre-line}
+    .files{display:grid;gap:.35rem;margin-top:.55rem;color:var(--muted);font-size:.86rem}
+    code{color:var(--text);background:rgba(255,255,255,.07);border-radius:6px;padding:.1rem .25rem}
+    .status{color:var(--muted);font-size:.92rem}.status.good{color:var(--good)}.status.warn{color:var(--warn)}
+    .steps{margin:.4rem 0 0;padding-left:1.2rem;color:var(--muted);line-height:1.5}.steps li{margin:.25rem 0}
+    .lang-tabs{display:flex;flex-wrap:wrap;gap:.4rem}.tab{padding:.5rem .7rem}.tab.active{background:var(--text);color:#111214}
+    .hidden{display:none!important}
+    @media(max-width:900px){.wrap{grid-template-columns:1fr}.grid2,.grid3{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <h1>Virtual Model Museum — Add New Model</h1>
+    <p class="sub">Create a new model card, export updated data files, then copy the photos into the folder shown below.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="panel">
+    <div class="section stack">
+      <h2>1. Model details</h2>
+      <div class="grid2">
+        <label><span class="label">Model title</span><input id="title" placeholder="e.g. Hawker Hurricane Mk.I"></label>
+        <label><span class="label">Kit / maker</span><input id="kit" placeholder="e.g. Airfix"></label>
+      </div>
+      <div class="grid3">
+        <label><span class="label">Scale</span><input id="scale" placeholder="e.g. 1/72"></label>
+        <label><span class="label">Date</span><input id="date" type="date"></label>
+        <label><span class="label">Custom ID</span><input id="customId" placeholder="automatic if empty"></label>
+      </div>
+      <div class="grid2">
+        <label><span class="label">Image folder inside the site</span><input id="folder" placeholder="media/new_models/model-name/"></label>
+        <label><span class="label">Choose model photos</span><input id="photos" type="file" accept="image/*" multiple></label>
+      </div>
+      <p class="hint">The browser cannot copy photos into your site folder automatically. This page will generate the exact folder and filenames; you then copy the photos there manually.</p>
+      <div id="fileList" class="files"></div>
+    </div>
+
+    <div class="section stack">
+      <h2>2. Description template</h2>
+      <div class="row">
+        <button id="insertTemplate" type="button">Insert template</button>
+        <button id="clearTemplate" class="danger" type="button">Clear current language</button>
+      </div>
+      <div class="lang-tabs" id="langTabs"></div>
+      <label>
+        <span class="label" id="captionLabel">English description</span>
+        <textarea id="caption"></textarea>
+      </label>
+      <p class="hint">Write the English text first. Other languages can be filled later using the Caption Editor. Technical names, kit names and scales are stored separately and remain unchanged.</p>
+    </div>
+
+    <div class="section stack">
+      <h2>3. Export</h2>
+      <div class="row">
+        <button id="exportPosts" class="primary" type="button">Export posts-data.js</button>
+        <button id="exportTranslations" type="button">Export translations-data.js</button>
+        <button id="exportChecklist" type="button">Export checklist.txt</button>
+      </div>
+      <p class="status" id="status">Ready.</p>
+    </div>
+  </section>
+
+  <aside class="panel">
+    <div class="section">
+      <h2>Preview</h2>
+      <div class="preview-card">
+        <img id="previewImg" alt="">
+        <div class="preview-body">
+          <p class="preview-title" id="previewTitle">New model</p>
+          <div class="tags" id="previewTags"></div>
+          <p class="caption" id="previewCaption"></p>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <h2>After exporting</h2>
+      <ol class="steps">
+        <li>Copy the selected photos into: <br><code id="targetFolder">media/new_models/model-name/</code></li>
+        <li>Put the downloaded <code>posts-data.js</code> into the <code>assets</code> folder and replace the old file.</li>
+        <li>If you added translations, put <code>translations-data.js</code> into <code>assets</code> as well.</li>
+        <li>Open <code>index.html</code> again.</li>
+      </ol>
+      <p class="hint">Tip: keep photo filenames simple, for example <code>01-front.jpg</code>, <code>02-side.jpg</code>, <code>03-detail.jpg</code>.</p>
+    </div>
+  </aside>
+</main>
+
+<script src="assets/posts-data.js"></script>
+<script src="assets/translations-data.js"></script>
+<script src="assets/ferrarese.js"></script>
+<script src="assets/extra-translations-es-sv-cs.js"></script>
+<script>
+const originalPosts = Array.isArray(window.VMM_POSTS) ? window.VMM_POSTS : [];
+const translations = JSON.parse(JSON.stringify(window.VMM_TRANSLATIONS || {}));
+const LANGS = [
+  ['en','GB English'], ['it','IT Italiano'], ['fe','FE Frar\u00e9s'], ['de','DE Deutsch'], ['fr','FR Fran\u00e7ais'],
+  ['es','ES Espa\u00f1ol'], ['sv','SV Svenska'], ['cs','CS \u010ce\u0161tina'],
+  ['ru','RU \u0420\u0443\u0441\u0441\u043a\u0438\u0439'], ['ja','JP \u65e5\u672c\u8a9e'], ['zh','CN \u4e2d\u6587']
+];
+
+let currentLang = 'en';
+let langCaptions = {en:''};
+let selectedFiles = [];
+
+const $ = id => document.getElementById(id);
+const title = $('title'), kit = $('kit'), scale = $('scale'), date = $('date'), customId = $('customId'), folder = $('folder'), photos = $('photos');
+const caption = $('caption'), fileList = $('fileList'), status = $('status'), targetFolder = $('targetFolder');
+const previewImg = $('previewImg'), previewTitle = $('previewTitle'), previewTags = $('previewTags'), previewCaption = $('previewCaption');
+const langTabs = $('langTabs'), captionLabel = $('captionLabel');
+
+function todayISO(){ return new Date().toISOString().slice(0,10); }
+date.value = todayISO();
+
+function slug(s){
+  return String(s||'model').toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+    .replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').slice(0,60) || 'model';
+}
+function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));}
+function cleanFolder(s){
+  s = String(s||'').replaceAll('\\','/').replace(/^\/+/,'').trim();
+  if (!s.endsWith('/')) s += '/';
+  return s;
+}
+function uniqueId(base){
+  const used = new Set(originalPosts.map(p => p.id));
+  let id = base, i = 2;
+  while (used.has(id)) id = base + '-' + i++;
+  return id;
+}
+function generatedId(){
+  if (customId.value.trim()) return slug(customId.value.trim());
+  const d = (date.value || todayISO()).replaceAll('-','');
+  return uniqueId(`new-${d}-${slug(title.value || 'model')}`);
+}
+function currentFolder(){
+  if (folder.value.trim()) return cleanFolder(folder.value);
+  return `media/new_models/${slug(title.value || 'model')}/`;
+}
+function imageNames(){
+  return selectedFiles.map((f, i) => {
+    const ext = (f.name.match(/\.[^.]+$/) || ['.jpg'])[0].toLowerCase();
+    return `${String(i+1).padStart(2,'0')}-${slug(f.name.replace(/\.[^.]+$/,''))}${ext}`;
+  });
+}
+function imagePaths(){
+  const f = currentFolder();
+  return imageNames().map(n => f + n);
+}
+function saveCurrentLang(){
+  langCaptions[currentLang] = caption.value.trim();
+}
+function switchLang(lang){
+  saveCurrentLang();
+  currentLang = lang;
+  renderTabs();
+  caption.value = langCaptions[currentLang] || '';
+  captionLabel.textContent = LANGS.find(x => x[0] === currentLang)[1] + ' description';
+  updatePreview();
+}
+function renderTabs(){
+  langTabs.innerHTML = LANGS.map(([lang,label]) => `<button class="tab ${lang===currentLang?'active':''}" type="button" data-lang="${lang}">${label}</button>`).join('');
+  langTabs.querySelectorAll('.tab').forEach(btn => btn.addEventListener('click', () => switchLang(btn.dataset.lang)));
+}
+function updateFileList(){
+  const names = imageNames();
+  if (!names.length) {
+    fileList.innerHTML = '<span class="status warn">No photos selected yet.</span>';
+    return;
+  }
+  fileList.innerHTML = names.map((n,i) => `<div>${i+1}. copy as <code>${esc(n)}</code></div>`).join('');
+}
+function updatePreview(){
+  saveCurrentLang();
+  const t = title.value.trim() || 'New model';
+  previewTitle.textContent = t;
+  previewTags.innerHTML = `${kit.value.trim()?`<span class="tag">Kit: ${esc(kit.value.trim())}</span>`:''}${scale.value.trim()?`<span class="tag">Scale: ${esc(scale.value.trim())}</span>`:''}`;
+  previewCaption.textContent = langCaptions[currentLang] || langCaptions.en || '';
+  const paths = imagePaths();
+  if (selectedFiles[0]) {
+    previewImg.src = URL.createObjectURL(selectedFiles[0]);
+  } else if (paths[0]) {
+    previewImg.src = paths[0];
+  } else {
+    previewImg.removeAttribute('src');
+  }
+  targetFolder.textContent = currentFolder();
+}
+function makePost(){
+  saveCurrentLang();
+  const paths = imagePaths();
+  return {
+    id: generatedId(),
+    title: title.value.trim() || 'New model',
+    date: date.value || todayISO(),
+    year: (date.value || todayISO()).slice(0,4),
+    kit: kit.value.trim(),
+    scale: scale.value.trim(),
+    caption: langCaptions.en || '',
+    images: paths,
+    thumbs: paths,
+    count: paths.length || 1
+  };
+}
+function makePostsData(){
+  const newPost = makePost();
+  const filtered = originalPosts.filter(p => p.id !== newPost.id);
+  return [newPost, ...filtered];
+}
+function makeTranslationsData(){
+  const post = makePost();
+  const out = JSON.parse(JSON.stringify(translations || {}));
+  const langs = {};
+  for (const [lang] of LANGS) {
+    const text = (langCaptions[lang] || '').trim();
+    if (text) langs[lang] = {caption: text};
+  }
+  if (Object.keys(langs).length) out[post.id] = langs;
+  return out;
+}
+function download(name, content, type='text/plain;charset=utf-8'){
+  const blob = new Blob([content], {type});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = name;
+  document.body.appendChild(a);
+  a.click();
+  setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+}
+function checklist(){
+  const post = makePost();
+  const names = imageNames();
+  return `Virtual Model Museum — new model checklist
+
+Model:
+${post.title}
+
+New ID:
+${post.id}
+
+1. Create this folder inside the site:
+${currentFolder()}
+
+2. Copy/rename the photos exactly as follows:
+${names.map((n,i)=>`${i+1}. ${n}`).join('\n')}
+
+3. Copy the downloaded posts-data.js into:
+assets/posts-data.js
+
+4. If exported, copy translations-data.js into:
+assets/translations-data.js
+
+5. Reopen index.html.
+`;
+}
+
+$('insertTemplate').addEventListener('click', () => {
+  const t = title.value.trim() || '[model name]';
+  const k = kit.value.trim() || '[kit/maker]';
+  const s = scale.value.trim() || '[scale]';
+  caption.value = `A ${s} model of the ${t}, built from the ${k} kit.
+
+The intention here is not to chase absolute perfection, but to capture the character of the subject and the particular charm of the kit.
+
+Build notes:
+- 
+
+Painting and finish:
+- 
+
+A small historical or personal note:
+- `;
+  updatePreview();
+});
+$('clearTemplate').addEventListener('click', () => { caption.value=''; updatePreview(); });
+photos.addEventListener('change', () => { selectedFiles = [...photos.files]; updateFileList(); updatePreview(); });
+[title,kit,scale,date,customId,folder,caption].forEach(el => el.addEventListener('input', updatePreview));
+$('exportPosts').addEventListener('click', () => {
+  const post = makePost();
+  if (!post.images.length) {
+    status.textContent = 'Please choose at least one photo first.';
+    status.className = 'status warn';
+    return;
+  }
+  download('posts-data.js', 'window.VMM_POSTS = ' + JSON.stringify(makePostsData(), null, 2) + ';\n', 'text/javascript;charset=utf-8');
+  status.textContent = 'Downloaded posts-data.js. Copy it into assets and replace the old file.';
+  status.className = 'status good';
+});
+$('exportTranslations').addEventListener('click', () => {
+  download('translations-data.js', 'window.VMM_TRANSLATIONS = ' + JSON.stringify(makeTranslationsData(), null, 2) + ';\n', 'text/javascript;charset=utf-8');
+  status.textContent = 'Downloaded translations-data.js. Copy it into assets and replace the old file.';
+  status.className = 'status good';
+});
+$('exportChecklist').addEventListener('click', () => {
+  download('new-model-checklist.txt', checklist());
+});
+renderTabs();
+updateFileList();
+updatePreview();
+</script>
+</body>
+</html>
+
