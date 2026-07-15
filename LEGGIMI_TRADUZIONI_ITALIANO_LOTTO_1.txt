@@ -1,0 +1,23 @@
+VIRTUAL MODEL MUSEUM - TRADUZIONI ITALIANE, LOTTO 1
+
+Questo aggiornamento aggiunge le traduzioni italiane delle didascalie per il primo gruppo di modelli:
+post-0001 -> post-0050
+
+Nota:
+- I post Donati 0004 e 0005 erano gia' tradotti e vengono conservati.
+- Alcuni post senza descrizione testuale vera e propria restano senza traduzione perche' non c'e' nulla da tradurre oltre titolo, kit e scala.
+- Le altre lingue non vengono toccate.
+
+Come applicarlo:
+1. Estrai questo ZIP.
+2. Copia la cartella assets nella cartella principale del sito.
+3. Quando Windows chiede, scegli "Sostituisci i file nella destinazione".
+4. Apri index.html in locale.
+5. Seleziona IT e controlla i primi modelli dopo i Donati.
+6. In GitHub Desktop:
+   Summary: Add Italian captions batch 1
+   Commit to main
+   Push origin
+
+Prossimo lotto consigliato:
+post-0051 -> post-0100

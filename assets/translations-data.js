@@ -44,5 +44,230 @@ window.VMM_TRANSLATIONS = {
     "zh": {
       "caption": "虽然这个套件很好地呈现了 Donati 公司在 20 世纪 50 和 60 年代卡车的风格与品牌形象，但从车型本身来说，它并不完全符合历史。模型中的 Opel Blitz 从未真正属于 Donati 的车队。当时的 Donati 是费拉拉主要的饮料经销商之一，实际依靠的是一支规模不大但相当可靠的车队，其中包括两辆 Fiat 615（一辆汽油版、一辆柴油版）、一辆 Lancia Beta，以及两辆三轮 motocarri。\n\n公司由 Agostino Donati 创立，后来由他和儿子 Nello、Franco 作为家族企业经营，在为费拉拉及周边乡村的酒吧和 osterie 供应啤酒与软饮料方面发挥了重要作用。不过，模型上的涂装确实捕捉到了公司鼎盛时期品牌形象的神韵：那是在尘土飞扬的省道上令人熟悉的身影，也是对一个脚踏实地的家族企业的小小致敬——它在几十年间为这片地区带来了清凉。"
     }
+  },
+  "post-0001": {
+    "it": {
+      "caption": "Piccolo kit molto simpatico, con il sistema di cavi del ponte funzionante."
+    }
+  },
+  "post-0002": {
+    "it": {
+      "caption": "Modello di Riccardo Brambilla."
+    }
+  },
+  "post-0003": {
+    "it": {
+      "caption": "Modello di Riccardo Brambilla."
+    }
+  },
+  "post-0006": {
+    "it": {
+      "caption": "Soggetto interessante di un aereo non così comune. Da notare i missili da addestramento, in nome della pace..."
+    }
+  },
+  "post-0007": {
+    "it": {
+      "caption": "In colori RAF, kit enorme; manca ancora un po’ di invecchiamento."
+    }
+  },
+  "post-0008": {
+    "it": {
+      "caption": "Kit interessante di questo aereo dall’aspetto insolito e potente."
+    }
+  },
+  "post-0009": {
+    "it": {
+      "caption": "Interessante kit “what if” di un mortaio pesante montato sullo scafo leggero dello Skoda 38T. Ho provato a riprodurre diversi stili di mimetica. Il modello chiede a gran voce un po’ di invecchiamento."
+    }
+  },
+  "post-0010": {
+    "it": {
+      "caption": "16 FIS, 51 FIW, FT-650 / 9650 “Saggin Dragon”, 1951 - Suwon AB, Corea. Magnifica illustrazione Airfix sulla scatola."
+    }
+  },
+  "post-0011": {
+    "it": {
+      "caption": "Rappresenta una versione ASA ibrida, perché all’aereo mancano le due derive ventrali posteriori invece di una sola. Dovrei aggiungerle..."
+    }
+  },
+  "post-0012": {
+    "it": {
+      "caption": "KG4 Jasta 11, 1927. Questo velivolo fu pilotato da Lothar von Richthofen, fratello del celebre Barone Rosso; sopravvisse alla guerra."
+    }
+  },
+  "post-0013": {
+    "it": {
+      "caption": "Prototipo di caccia a reazione sovietico, costruito in un solo esemplare; primo volo il 18 aprile 1948. Mi scuso per il secondo cannone mancante: devo recuperarlo da qualche parte."
+    }
+  },
+  "post-0014": {
+    "it": {
+      "caption": "Mimetica australiana fittizia, evoluzione dell’MB5, che era un caccia piuttosto avanzato ma arrivò troppo tardi per essere impiegato nella Seconda guerra mondiale."
+    }
+  },
+  "post-0015": {
+    "it": {
+      "caption": "Rappresenta lo scafo dello Sturer Emil in costruzione, dato che ho usato il cannone per un altro progetto, cioè il 12.8 Waffenträger auf Pz IV da World of Tanks."
+    }
+  },
+  "post-0016": {
+    "it": {
+      "caption": "Modello di Sara Donati."
+    }
+  },
+  "post-0017": {
+    "it": {
+      "caption": "Mimetica ispirata a World of Tanks."
+    }
+  },
+  "post-0018": {
+    "it": {
+      "caption": "Un ex kit Matchbox, con graziosi elementi di diorama."
+    }
+  },
+  "post-0019": {
+    "it": {
+      "caption": "Un kit Matchbox che includeva intelligentemente alcuni elementi base di diorama: una bellissima idea che aggiungeva fascino al set."
+    }
+  },
+  "post-0021": {
+    "it": {
+      "caption": "Kit simpatico di un aeroplano insolito. Ai tempi in cui non esisteva ancora un sincronizzatore per la mitragliatrice, una soluzione poteva essere mettere un poveraccio DAVANTI all’elica, permettendogli di mitragliare lo spazio aereo attorno con una certa libertà: assolutamente preposterous, non trovate?"
+    }
+  },
+  "post-0022": {
+    "it": {
+      "caption": "All’epoca, nel 1976, era un kit sorprendente, uno dei primi carri in grande scala. Lo realizzai radiocomandato: affascinante."
+    }
+  },
+  "post-0023": {
+    "it": {
+      "caption": "Ha bisogno di parecchio invecchiamento..."
+    }
+  },
+  "post-0024": {
+    "it": {
+      "caption": "Piccolo microvan simpatico. Il nome deriva da “black Box”."
+    }
+  },
+  "post-0025": {
+    "it": {
+      "caption": "Bel modello in grande scala."
+    }
+  },
+  "post-0026": {
+    "it": {
+      "caption": "Il tipo di sommergibile tedesco tascabile di fine guerra che ebbe maggiore successo."
+    }
+  },
+  "post-0028": {
+    "it": {
+      "caption": "Team Zakspeed, 1979. Le auto del Gruppo 5 erano davvero fantastiche."
+    }
+  },
+  "post-0029": {
+    "it": {
+      "caption": "24 Ore di Le Mans, giugno 1996. Risultato: 2° posto (Hans Joachim Stuck / Thierry Boutsen / Bob Wollek). Livrea davvero stupenda."
+    }
+  },
+  "post-0031": {
+    "it": {
+      "caption": "Vincitrice della 24 Ore di Le Mans 1978; interessante soluzione aerodinamica con abitacolo parzialmente carenato."
+    }
+  },
+  "post-0032": {
+    "it": {
+      "caption": "Replica della Lotus Seven, ancora disponibile sul mercato. Naturalmente verniciata in British racing green."
+    }
+  },
+  "post-0033": {
+    "it": {
+      "caption": "Stagione agonistica 2008."
+    }
+  },
+  "post-0034": {
+    "it": {
+      "caption": "No. 24 Sqn. RFC 5964 (Lanoe Hawker). Fu abbattuto il 23 novembre 1916 da Manfred von Richthofen - Bertangles, Francia."
+    }
+  },
+  "post-0035": {
+    "it": {
+      "caption": "894 NAS FAA, HMS Albion, 1960. Ex kit Matchbox; la livrea della crisi di Suez è sempre molto attraente, soggetto interessante e di dimensioni piuttosto imponenti."
+    }
+  },
+  "post-0036": {
+    "it": {
+      "caption": "Pilota: Mark Martin."
+    }
+  },
+  "post-0037": {
+    "it": {
+      "caption": "Carro pesante apparso proprio alla fine della Seconda guerra mondiale, troppo tardi per partecipare ai combattimenti."
+    }
+  },
+  "post-0038": {
+    "it": {
+      "caption": "Splendido design da funny car di Tom Daniel."
+    }
+  },
+  "post-0039": {
+    "it": {
+      "caption": "Fan car, GP di Svezia F1 ad Anderstorp, 17 giugno 1978: prima gara, prima vittoria, poi bandita."
+    }
+  },
+  "post-0040": {
+    "it": {
+      "caption": "Versione usata nella stagione F1 1978."
+    }
+  },
+  "post-0041": {
+    "it": {
+      "caption": "Oggi tutte le vetture di Formula 1 sembrano uguali, a parte la verniciatura; ma ci fu un tempo in cui si potevano avere tre versioni radicalmente diverse della stessa macchina. La BT46B, con il ventilatore, fu una di quelle idee meravigliosamente folli."
+    }
+  },
+  "post-0042": {
+    "it": {
+      "caption": "Arkansas Traveller, pilota Lt. Owen Fincher, 392 FS, 367 FG, Jovincourt 1945. Anche in questo caso un kit enorme e impressionante; dovrei decisamente dedicargli un po’ più di lavoro."
+    }
+  },
+  "post-0043": {
+    "it": {
+      "caption": "Signore e signori, ecco uno dei miei kit preferiti: linee dell’auto bellissime, dimensioni del modello perfette, né troppo grande né troppo piccolo."
+    }
+  },
+  "post-0044": {
+    "it": {
+      "caption": "Il kit arrivò sul mercato in un periodo in cui i dati sul B-2 erano ancora un sogno lontano, rendendolo una creazione del tutto immaginaria — se non addirittura un po’ strampalata. Proprio per questo è interessante."
+    }
+  },
+  "post-0045": {
+    "it": {
+      "caption": "VMA-331 Bumble Bees, 152072, 1984. Versione modificata e migliorata dell’Harrier originale, con un’interessante ala in fibra di carbonio."
+    }
+  },
+  "post-0046": {
+    "it": {
+      "caption": "All’inizio del 1945, 275 Ki-100 furono ricavati da Ki-61 modificati in emergenza per accogliere un motore radiale Mitsubishi Ha-112-II a 14 cilindri al posto dell’originario motore in linea raffreddato a liquido. Un esempio molto efficace di adattamento riuscito."
+    }
+  },
+  "post-0047": {
+    "it": {
+      "caption": "Regia Aeronautica, 360ª Squadriglia."
+    }
+  },
+  "post-0048": {
+    "it": {
+      "caption": "Kit enorme e impressionante!!"
+    }
+  },
+  "post-0049": {
+    "it": {
+      "caption": "T= 389 Bomber Squadron, 312 Bomber Group, South East Pacific. Bel soggetto in questa scala; bel video proprio su questo aereo: https://www.google.com"
+    }
+  },
+  "post-0050": {
+    "it": {
+      "caption": "Il kit riproduceva originariamente la versione britannica, includendo Land Rover e missile Bloodhound, ma io preferivo la mimetica Vietnam. È appena assemblato e richiederà ancora parecchio lavoro."
+    }
   }
 };
