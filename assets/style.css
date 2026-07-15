@@ -45,3 +45,21 @@
 }
 .top-contact-button:hover{filter:brightness(1.08)}
 @media(max-width:760px){.top-contact-box{grid-template-columns:1fr}.top-contact-button{width:100%}}
+
+
+/* Virtual Model Museum - caption translation fallback notice */
+.caption-note{
+  margin:.45rem 0 0;
+  color:var(--muted);
+  font-size:.82rem;
+  line-height:1.35;
+  font-style:italic;
+}
+.viewer-caption-note{
+  display:block;
+  margin-top:.85rem;
+  color:var(--muted);
+  font-size:.92rem;
+  line-height:1.4;
+  font-style:italic;
+}

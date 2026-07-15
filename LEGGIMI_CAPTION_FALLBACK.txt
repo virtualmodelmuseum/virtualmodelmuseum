@@ -1,0 +1,30 @@
+VIRTUAL MODEL MUSEUM - CAPTION FALLBACK NOTICE UPDATE
+
+Questo aggiornamento non traduce ancora tutte le 966 didascalie.
+Serve a rendere chiaro il comportamento del sito:
+
+- se la didascalia esiste nella lingua scelta, viene mostrata la traduzione;
+- se la didascalia non esiste ancora, viene mostrato l'inglese originale;
+- in quel caso compare una nota discreta nella lingua selezionata:
+  "Descrizione disponibile per ora in inglese."
+
+Questo evita che il visitatore pensi che il cambio lingua sia rotto.
+
+Include anche il filtro categorie gia' corretto:
+- post-0130 -> Navi
+- post-0935 -> Aerei
+- post-0700 -> Mezzi militari
+- post-0961 -> Mezzi militari
+
+Come applicarlo:
+1. Estrai questo ZIP.
+2. Copia index.html, add_model.html e la cartella assets nella cartella principale del sito.
+3. Quando Windows chiede, scegli "Sostituisci i file nella destinazione".
+4. Apri index.html in locale e prova una lingua diversa da GB.
+5. In GitHub Desktop:
+   Summary: Add caption fallback notice
+   Commit to main
+   Push origin
+
+Prossimo passo:
+Tradurre davvero le didascalie a blocchi, partendo dall'italiano.

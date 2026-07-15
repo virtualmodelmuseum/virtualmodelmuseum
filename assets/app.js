@@ -35,7 +35,8 @@ const I18N = {
     "categoryMilitary": "Military vehicles",
     "categoryMotorcycles": "Motorcycles",
     "categoryShips": "Ships",
-    "categoryUnclassified": "To check"
+    "categoryUnclassified": "To check",
+    "captionFallback": "Caption currently available in English."
   },
   "it": {
     "kicker": "Benvenuti nella mia collezione!",
@@ -67,7 +68,8 @@ const I18N = {
     "categoryMilitary": "Mezzi militari",
     "categoryMotorcycles": "Moto",
     "categoryShips": "Navi",
-    "categoryUnclassified": "Da verificare"
+    "categoryUnclassified": "Da verificare",
+    "captionFallback": "Descrizione disponibile per ora in inglese."
   },
   "fe": {
     "kicker": "Benvegnù int la mi culizion!",
@@ -99,7 +101,8 @@ const I18N = {
     "categoryMilitary": "Méz militèr",
     "categoryMotorcycles": "Motò",
     "categoryShips": "Nav",
-    "categoryUnclassified": "Da cuntrulàr"
+    "categoryUnclassified": "Da cuntrulàr",
+    "captionFallback": "Descrizion par adès disponìbil in inglès."
   },
   "de": {
     "kicker": "Willkommen in meiner Sammlung!",
@@ -131,7 +134,8 @@ const I18N = {
     "categoryMilitary": "Militärfahrzeuge",
     "categoryMotorcycles": "Motorräder",
     "categoryShips": "Schiffe",
-    "categoryUnclassified": "Zu prüfen"
+    "categoryUnclassified": "Zu prüfen",
+    "captionFallback": "Beschreibung derzeit auf Englisch verfügbar."
   },
   "fr": {
     "kicker": "Bienvenue dans ma collection !",
@@ -163,7 +167,8 @@ const I18N = {
     "categoryMilitary": "Véhicules militaires",
     "categoryMotorcycles": "Motos",
     "categoryShips": "Navires",
-    "categoryUnclassified": "À vérifier"
+    "categoryUnclassified": "À vérifier",
+    "captionFallback": "Description disponible pour le moment en anglais."
   },
   "es": {
     "kicker": "¡Bienvenido a mi colección!",
@@ -195,7 +200,8 @@ const I18N = {
     "categoryMilitary": "Vehículos militares",
     "categoryMotorcycles": "Motos",
     "categoryShips": "Barcos",
-    "categoryUnclassified": "Por revisar"
+    "categoryUnclassified": "Por revisar",
+    "captionFallback": "Descripción disponible por ahora en inglés."
   },
   "sv": {
     "kicker": "Välkommen till min samling!",
@@ -227,7 +233,8 @@ const I18N = {
     "categoryMilitary": "Militärfordon",
     "categoryMotorcycles": "Motorcyklar",
     "categoryShips": "Fartyg",
-    "categoryUnclassified": "Att kontrollera"
+    "categoryUnclassified": "Att kontrollera",
+    "captionFallback": "Beskrivningen finns för närvarande på engelska."
   },
   "cs": {
     "kicker": "Vítejte v mé sbírce!",
@@ -259,7 +266,8 @@ const I18N = {
     "categoryMilitary": "Vojenská vozidla",
     "categoryMotorcycles": "Motocykly",
     "categoryShips": "Lodě",
-    "categoryUnclassified": "Ke kontrole"
+    "categoryUnclassified": "Ke kontrole",
+    "captionFallback": "Popis je zatím k dispozici v angličtině."
   },
   "ru": {
     "kicker": "Добро пожаловать в мою коллекцию!",
@@ -291,7 +299,8 @@ const I18N = {
     "categoryMilitary": "Военная техника",
     "categoryMotorcycles": "Мотоциклы",
     "categoryShips": "Корабли",
-    "categoryUnclassified": "Проверить"
+    "categoryUnclassified": "Проверить",
+    "captionFallback": "Описание пока доступно на английском."
   },
   "ja": {
     "kicker": "私のコレクションへようこそ！",
@@ -323,7 +332,8 @@ const I18N = {
     "categoryMilitary": "軍用車両",
     "categoryMotorcycles": "オートバイ",
     "categoryShips": "船舶",
-    "categoryUnclassified": "要確認"
+    "categoryUnclassified": "要確認",
+    "captionFallback": "説明は現在英語のみです。"
   },
   "zh": {
     "kicker": "欢迎来到我的收藏！",
@@ -355,7 +365,8 @@ const I18N = {
     "categoryMilitary": "军用车辆",
     "categoryMotorcycles": "摩托车",
     "categoryShips": "船舶",
-    "categoryUnclassified": "待确认"
+    "categoryUnclassified": "待确认",
+    "captionFallback": "说明目前仅提供英文。"
   }
 };
 
@@ -421,6 +432,16 @@ function localizedDescription(post){
   return (tr[currentLang] && tr[currentLang].caption) || (tr.en && tr.en.caption) || descriptionOnly(post);
 }
 
+function hasCaptionTranslation(post){
+  const tr = POST_TRANSLATIONS[post.id] || {};
+  return Boolean(tr[currentLang] && tr[currentLang].caption);
+}
+
+function usesEnglishFallback(post){
+  if (currentLang === 'en') return false;
+  return !hasCaptionTranslation(post);
+}
+
 function searchText(post){
   const tr = POST_TRANSLATIONS[post.id] || {};
   const texts = [post.title, post.caption, post.kit, post.scale, post.category, post.date, descriptionOnly(post), localizedDescription(post)];
@@ -483,6 +504,7 @@ function tags(post){
 
 function cardHtml(post, featured=false){
   const desc = localizedDescription(post);
+  const fallbackNote = usesEnglishFallback(post) ? `<p class="caption-note">${esc(t('captionFallback'))}</p>` : '';
   const badge = featured ? `<span class="featured-badge">${esc(t('featured'))}</span>` : '';
   const photoLabel = `${post.count} ${plural(post.count, 'photo', 'photos')}`;
   return `<button class="card ${featured ? 'featured-card' : ''}" data-id="${esc(post.id)}" type="button">
@@ -492,6 +514,7 @@ function cardHtml(post, featured=false){
       <h2 class="card-title">${esc(post.title)}</h2>
       <span class="card-tags">${tags(post)}</span>
       ${desc ? `<p class="card-caption">${esc(desc)}</p>` : ''}
+      ${fallbackNote}
       <span class="card-meta"><span>${esc(post.date || '')}</span><span>${esc(photoLabel)}</span></span>
     </span>
   </button>`;
@@ -542,7 +565,9 @@ function updateViewer(){
   viewerCounter.textContent = imgs.length > 1 ? `${activeImage + 1} / ${imgs.length}` : '';
   viewerTitle.textContent = activePost.title || '';
   viewerTags.innerHTML = tags(activePost);
-  viewerCaption.textContent = localizedDescription(activePost) || '';
+  const caption = localizedDescription(activePost) || '';
+  const fallbackNote = usesEnglishFallback(activePost) ? `<span class="viewer-caption-note">${esc(t('captionFallback'))}</span>` : '';
+  viewerCaption.innerHTML = `${esc(caption)}${fallbackNote}`;
   prev.style.display = next.style.display = imgs.length > 1 ? '' : 'none';
 }
 
