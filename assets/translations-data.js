@@ -269,5 +269,215 @@ window.VMM_TRANSLATIONS = {
     "it": {
       "caption": "Il kit riproduceva originariamente la versione britannica, includendo Land Rover e missile Bloodhound, ma io preferivo la mimetica Vietnam. È appena assemblato e richiederà ancora parecchio lavoro."
     }
+  },
+  "post-0051": {
+    "it": {
+      "caption": "Liberamente ispirato ai progetti tedeschi di caccia di fine guerra, era difficile da pilotare e non ebbe grande successo."
+    }
+  },
+  "post-0052": {
+    "it": {
+      "caption": "KFOR King's Royal Hussars, Kosovo, giugno 1999. Anche in questo caso, un piccolo kit molto grazioso."
+    }
+  },
+  "post-0053": {
+    "it": {
+      "caption": "KFOR 6974 0006 Petitmont, giugno 1999, Kosovo Peacekeeping - Kosovska Mitrovica, XK. Un piccolo kit molto grazioso."
+    }
+  },
+  "post-0054": {
+    "it": {
+      "caption": "Svenska Flygvapnet. Foto bonus aggiunta: le due varianti, monoposto e biposto, allegramente insieme."
+    }
+  },
+  "post-0055": {
+    "it": {
+      "caption": "Svenska Flygvapnet."
+    }
+  },
+  "post-0056": {
+    "it": {
+      "caption": "Vecchio kit dell’Estremo Oriente, motorizzato, sia a scafo intero sia waterline."
+    }
+  },
+  "post-0057": {
+    "it": {
+      "caption": "Variante insolita, kit di seconda mano; ho dovuto termoformare il tettuccio."
+    }
+  },
+  "post-0058": {
+    "it": {
+      "caption": "Strano caccia turboelica tail-sitter, con primo volo, vincolato, il 19 aprile 1954. Molto difficile da far atterrare: dal punto di vista operativo era chiaramente un vicolo cieco, ma resta comunque una notevole impresa ingegneristica."
+    }
+  },
+  "post-0059": {
+    "it": {
+      "caption": "Splendido vecchio kit Revell che contiene l’SST sia in configurazione di crociera sia in configurazione di decollo e atterraggio: un’idea superba. L’ala a geometria variabile applicata a un aereo di linea era davvero qualcosa di speciale.\n\nIn più, guardiamo con nostalgia alla vecchia livrea Pan Am, ormai scomparsa, che un tempo era quasi sinonimo stesso di viaggio aereo."
+    }
+  },
+  "post-0060": {
+    "it": {
+      "caption": "Mi spiace, ma volevo vedere che aspetto avrebbe avuto questo progetto, piuttosto controverso e forse immaginario, in scala 1/32. Dovrei anche preparare un tettuccio termoformato per completarlo."
+    }
+  },
+  "post-0061": {
+    "it": {
+      "caption": "Livrea del primo prototipo davvero d’impatto. Il volo inaugurale ufficiale di 90 minuti fu effettuato all’Air Force Flight Test Center di Edwards AFB, in California, il 2 febbraio 1974; in precedenza, il 29 gennaio, avvenne un primo volo “non ufficiale” durante una prova di rullaggio ad alta velocità."
+    }
+  },
+  "post-0062": {
+    "it": {
+      "caption": "Insolita livrea militare USAAC."
+    }
+  },
+  "post-0063": {
+    "it": {
+      "caption": "Newair Denmark, gennaio 2004."
+    }
+  },
+  "post-0064": {
+    "it": {
+      "caption": "Segelflugschule Zürich, 1988. Un altro bel kit Revell di aliante; la livrea svizzera è piuttosto elegante."
+    }
+  },
+  "post-0065": {
+    "it": {
+      "caption": "Segelfluggruppe Bern. Kit insolito e di dimensioni notevoli in questa scala, con un’apertura alare del modello di 62 cm, dedicato a un aliante ad alte prestazioni."
+    }
+  },
+  "post-0066": {
+    "it": {
+      "caption": "Bel kit minuscolo; questo semovente M12 si può giocare in World of Tanks ed è piuttosto valido."
+    }
+  },
+  "post-0067": {
+    "it": {
+      "caption": "Discendente della leggendaria A110, con una linea piuttosto futuristica e molto anni Settanta. Modello minuscolo in questa scala."
+    }
+  },
+  "post-0068": {
+    "it": {
+      "caption": "Parliamo di aerei dall’aspetto strano? L’apparenza da doppietta è notevole. Maggiori informazioni qui: https://www.youtube.com/watch?v=DtIFHBHrgiU&ab_channel=IHYLS #il40"
+    }
+  },
+  "post-0069": {
+    "it": {
+      "caption": "Aereo pilotato dalla Luftstreitkräfte der Nationalen Volksarmee, Germania Est, base aerea di Brasov, 1962. #mig17"
+    }
+  },
+  "post-0070": {
+    "it": {
+      "caption": "Prototipo per un caccia d’alta quota liberamente basato sul Me 109. #1/72 #Airmodel #vacform #Luft46 #BV155"
+    }
+  },
+  "post-0071": {
+    "it": {
+      "caption": "3./KampfGeschwader 2 “Holzhammer”. #1/72 #Italeri #do217k"
+    }
+  },
+  "post-0072": {
+    "it": {
+      "caption": "Versione definitiva da caccia notturno del Do217, con fusoliera aerodinamica e quattro cannoni da 20 mm “Schräge Musik”. #Do217N2 #1/72 #conversion"
+    }
+  },
+  "post-0075": {
+    "it": {
+      "caption": "Progetto Lippisch per un caccia con statoreattore alimentato a carbone. #1/72 #scratchbuilt #Luft46 #P13b"
+    }
+  },
+  "post-0076": {
+    "it": {
+      "caption": "1./KampfGeschwader 66 F5+AT. #1/72 #Italeri #Ju188"
+    }
+  },
+  "post-0077": {
+    "it": {
+      "caption": "Intercettore a statoreattore: il pilota era disteso prono sopra lo statoreattore, in stile Barone di Münchhausen. Ahimè, l’ala in resina ha ceduto alle ingiurie del tempo e al peso opprimente, ed è ormai deformata come un cavatappi particolarmente ostinato. #1/72 #resin #Luft46 #SkodaKauba"
+    }
+  },
+  "post-0078": {
+    "it": {
+      "caption": "Progetto di caccia a reazione di fine guerra per il “Jägernotprogramm”. #1/72 #SpecialHobby #Luft46 #Blohm&VossP211"
+    }
+  },
+  "post-0081": {
+    "it": {
+      "caption": "Un congegno deliziosamente folle, se mi passate l’espressione. #PayenPa22 #1/72 #resinkit #Luft46"
+    }
+  },
+  "post-0083": {
+    "it": {
+      "caption": "Prima versione d’alta quota del Me109. #1/72 #MPM #Me109H1"
+    }
+  },
+  "post-0086": {
+    "it": {
+      "caption": "Ultima variante del Messerschmitt Me109 prodotta in Cecoslovacchia con motori Jumo. #1/72 #KOPRO #AviaS199"
+    }
+  },
+  "post-0087": {
+    "it": {
+      "caption": "Conversione Airfix in caccia d’assalto pesante, Jagdgeschwader 4, novembre 1944. #1/72 #conversion #FW190A8"
+    }
+  },
+  "post-0088": {
+    "it": {
+      "caption": "Aspetto intrigante e futuristico. #1/72 #Italeri #YF23"
+    }
+  },
+  "post-0089": {
+    "it": {
+      "caption": "Questo congegno, concepito come grande successore del venerabile Me 109, si rivelò purtroppo un affare piuttosto deludente: più un esercizio di follia ingegneristica che un degno erede del suo illustre predecessore. #1/72 #HUMA"
+    }
+  },
+  "post-0091": {
+    "it": {
+      "caption": "È piuttosto evidente che la superficie della deriva è troppo piccola. #1/72 #conversion #Me509"
+    }
+  },
+  "post-0092": {
+    "it": {
+      "caption": "Volevo vedere che aspetto avrebbe avuto un Ta154 ad ala bassa, per migliorare la visibilità del pilota. Deve però essere un tail-sitter, altrimenti la lunghezza del carrello anteriore sarebbe eccessiva. In ogni caso, con tutto il rispetto per il professor Tank, il Mosquito resta insuperato. #1/72 #conversion"
+    }
+  },
+  "post-0093": {
+    "it": {
+      "caption": "6 rosso della 238ª Squadriglia, 101° Gruppo Tuffatori, 5° Stormo Assalto, Regia Aeronautica, Manduria, estate 1943. #1/72 #Supermodel #Re2002"
+    }
+  },
+  "post-0094": {
+    "it": {
+      "caption": "Purtroppo incompleto. #1/72 #MPM #He100"
+    }
+  },
+  "post-0095": {
+    "it": {
+      "caption": "Mi piaceva l’aspetto del Mirage biposto, così ho realizzato la conversione con un nuovo tettuccio termoformato. #1/72 #conversion #MirageIII"
+    }
+  },
+  "post-0096": {
+    "it": {
+      "caption": "Aereo personale di un Geschwader Kommodore. #1/72 #KOPRO #Ar96"
+    }
+  },
+  "post-0097": {
+    "it": {
+      "caption": "Tipico progetto di caccia del dopoguerra, molto debitore ai progetti tedeschi. #1/72 #Matchbox #SAABJ29"
+    }
+  },
+  "post-0098": {
+    "it": {
+      "caption": "Strano congegno dall’aspetto bizzarro per un aereo passeggeri, eh? Quella dannata cosa si alzò in volo come un’anatra di piombo, o forse no... #1/72 #Airmodel #vacform #FW19"
+    }
+  },
+  "post-0099": {
+    "it": {
+      "caption": "Evoluzione dell’Arado 96 costruita con materiali non strategici. #1/72 #Airmodel #vacform #Ar396"
+    }
+  },
+  "post-0100": {
+    "it": {
+      "caption": "Aereo d’assalto notturno, con linee molto pulite per essere un biplano. #1/72 #resinkit #Go145"
+    }
   }
 };

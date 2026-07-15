@@ -1,0 +1,21 @@
+VIRTUAL MODEL MUSEUM - TRADUZIONI ITALIANE - LOTTO 2
+
+Questo pacchetto aggiunge le didascalie italiane per:
+post-0051 -> post-0100
+
+Il file assets/translations-data.js contenuto qui include anche il lotto precedente
+post-0001 -> post-0050, quindi puo' sostituire direttamente quello attuale.
+
+Come applicarlo:
+1. Estrai questo ZIP.
+2. Copia la cartella assets nella cartella principale del sito.
+3. Quando Windows chiede, scegli "Sostituisci i file nella destinazione".
+4. Apri index.html in locale.
+5. Scegli IT e controlla i post fino a post-0100.
+6. In GitHub Desktop:
+   Summary: Add Italian captions batch 2
+   Commit to main
+   Push origin
+
+Nota:
+Alcuni post composti solo da titolo, kit, scala o hashtag non hanno bisogno di una vera traduzione narrativa.
