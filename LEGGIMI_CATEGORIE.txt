@@ -1,0 +1,49 @@
+VIRTUAL MODEL MUSEUM - CATEGORY FILTER UPDATE
+
+Questo aggiornamento v2 aggiunge un filtro per categoria nella pagina principale.
+
+Categorie aggiunte:
+- aircraft = Aerei
+- car = Auto e veicoli stradali
+- military = Mezzi militari terrestri
+- motorcycle = Moto
+- ship = Navi
+- vuoto = Da verificare / incerto
+
+Risultato della classificazione automatica:
+- Aerei: 564
+- Auto e veicoli stradali: 247
+- Mezzi militari: 122
+- Moto: 14
+- Navi: 17
+- Da verificare: 2
+
+Voci lasciate senza categoria:
+- post-0130 — #1/1200 #Revell
+- - post-0935 — TBD
+- 
+File inclusi:
+- index.html
+- add_model.html
+- assets/app.js
+- assets/style.css
+- assets/posts-data.js
+- category_review.csv
+- category_uncertain.txt
+
+Come applicarlo:
+1. Estrai questo ZIP.
+2. Copia index.html, add_model.html e la cartella assets nella cartella principale del sito.
+3. Quando Windows chiede conferma, scegli di sostituire i file.
+4. Apri index.html in locale e prova il nuovo filtro categoria.
+5. Se funziona, usa GitHub Desktop:
+   Summary: Add category filter
+   Commit to main
+   Push origin
+
+Note:
+- La categoria è nascosta nei dati dei modelli tramite il campo "category".
+- Il filtro è visibile nella barra dei controlli.
+- Le categorie non vengono mostrate sulle schede dei modelli, per mantenere la pagina pulita.
+- add_model.html ora include anche il campo Category per i nuovi modelli.
+- category_review.csv serve solo a controllare o correggere l'assegnazione automatica.

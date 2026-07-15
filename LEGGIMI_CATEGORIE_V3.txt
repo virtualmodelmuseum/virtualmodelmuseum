@@ -1,0 +1,16 @@
+VIRTUAL MODEL MUSEUM - CATEGORY FILTER UPDATE V3
+
+Correzioni incluse:
+- post-0130 -> Navi
+- post-0935 -> Aerei
+- post-0700 -> Mezzi militari
+- post-0961 -> Mezzi militari
+
+Dopo l'applicazione non restano post senza categoria.
+
+Come applicarlo:
+1. Estrai questo ZIP.
+2. Copia index.html, add_model.html e la cartella assets nella cartella principale del sito.
+3. Quando Windows chiede, scegli "Sostituisci i file nella destinazione".
+4. Apri index.html e prova il filtro categorie.
+5. In GitHub Desktop: Summary "Complete category filter", Commit to main, Push origin.

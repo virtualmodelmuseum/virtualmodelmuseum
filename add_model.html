@@ -60,6 +60,16 @@
       </div>
       <div class="grid3">
         <label><span class="label">Scale</span><input id="scale" placeholder="e.g. 1/72"></label>
+        <label><span class="label">Category</span>
+          <select id="category">
+            <option value="">To check / not sure</option>
+            <option value="aircraft">Aircraft</option>
+            <option value="car">Cars & road vehicles</option>
+            <option value="military">Military vehicles</option>
+            <option value="motorcycle">Motorcycles</option>
+            <option value="ship">Ships</option>
+          </select>
+        </label>
         <label><span class="label">Date</span><input id="date" type="date"></label>
         <label><span class="label">Custom ID</span><input id="customId" placeholder="automatic if empty"></label>
       </div>
@@ -139,7 +149,7 @@ let langCaptions = {en:''};
 let selectedFiles = [];
 
 const $ = id => document.getElementById(id);
-const title = $('title'), kit = $('kit'), scale = $('scale'), date = $('date'), customId = $('customId'), folder = $('folder'), photos = $('photos');
+const title = $('title'), kit = $('kit'), scale = $('scale'), category = $('category'), date = $('date'), customId = $('customId'), folder = $('folder'), photos = $('photos');
 const caption = $('caption'), fileList = $('fileList'), status = $('status'), targetFolder = $('targetFolder');
 const previewImg = $('previewImg'), previewTitle = $('previewTitle'), previewTags = $('previewTags'), previewCaption = $('previewCaption');
 const langTabs = $('langTabs'), captionLabel = $('captionLabel');
@@ -153,6 +163,9 @@ function slug(s){
     .replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').slice(0,60) || 'model';
 }
 function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));}
+function categoryLabel(value){
+  return ({aircraft:'Aircraft', car:'Cars & road vehicles', military:'Military vehicles', motorcycle:'Motorcycles', ship:'Ships'}[value] || '');
+}
 function cleanFolder(s){
   s = String(s||'').replaceAll('\\','/').replace(/^\/+/,'').trim();
   if (!s.endsWith('/')) s += '/';
@@ -210,7 +223,7 @@ function updatePreview(){
   saveCurrentLang();
   const t = title.value.trim() || 'New model';
   previewTitle.textContent = t;
-  previewTags.innerHTML = `${kit.value.trim()?`<span class="tag">Kit: ${esc(kit.value.trim())}</span>`:''}${scale.value.trim()?`<span class="tag">Scale: ${esc(scale.value.trim())}</span>`:''}`;
+  previewTags.innerHTML = `${kit.value.trim()?`<span class="tag">Kit: ${esc(kit.value.trim())}</span>`:''}${scale.value.trim()?`<span class="tag">Scale: ${esc(scale.value.trim())}</span>`:''}${category.value?`<span class="tag">Category: ${esc(categoryLabel(category.value))}</span>`:''}`;
   previewCaption.textContent = langCaptions[currentLang] || langCaptions.en || '';
   const paths = imagePaths();
   if (selectedFiles[0]) {
@@ -232,6 +245,7 @@ function makePost(){
     year: (date.value || todayISO()).slice(0,4),
     kit: kit.value.trim(),
     scale: scale.value.trim(),
+    category: category.value,
     caption: langCaptions.en || '',
     images: paths,
     thumbs: paths,
@@ -274,6 +288,9 @@ ${post.title}
 New ID:
 ${post.id}
 
+Category:
+${categoryLabel(post.category) || 'To check / not sure'}
+
 1. Create this folder inside the site:
 ${currentFolder()}
 
@@ -311,6 +328,7 @@ A small historical or personal note:
 $('clearTemplate').addEventListener('click', () => { caption.value=''; updatePreview(); });
 photos.addEventListener('change', () => { selectedFiles = [...photos.files]; updateFileList(); updatePreview(); });
 [title,kit,scale,date,customId,folder,caption].forEach(el => el.addEventListener('input', updatePreview));
+category.addEventListener('change', updatePreview);
 $('exportPosts').addEventListener('click', () => {
   const post = makePost();
   if (!post.images.length) {

@@ -28,7 +28,14 @@ const I18N = {
     "image": "image",
     "images": "images",
     "photo": "photo",
-    "photos": "photos"
+    "photos": "photos",
+    "allCategories": "All categories",
+    "categoryAircraft": "Aircraft",
+    "categoryCars": "Cars & road vehicles",
+    "categoryMilitary": "Military vehicles",
+    "categoryMotorcycles": "Motorcycles",
+    "categoryShips": "Ships",
+    "categoryUnclassified": "To check"
   },
   "it": {
     "kicker": "Benvenuti nella mia collezione!",
@@ -53,7 +60,14 @@ const I18N = {
     "image": "immagine",
     "images": "immagini",
     "photo": "foto",
-    "photos": "foto"
+    "photos": "foto",
+    "allCategories": "Tutte le categorie",
+    "categoryAircraft": "Aerei",
+    "categoryCars": "Auto e veicoli stradali",
+    "categoryMilitary": "Mezzi militari",
+    "categoryMotorcycles": "Moto",
+    "categoryShips": "Navi",
+    "categoryUnclassified": "Da verificare"
   },
   "fe": {
     "kicker": "Benvegnù int la mi culizion!",
@@ -78,7 +92,14 @@ const I18N = {
     "image": "imàgin",
     "images": "imàgin",
     "photo": "foto",
-    "photos": "foto"
+    "photos": "foto",
+    "allCategories": "Tùt al categorìi",
+    "categoryAircraft": "Aeroplàn",
+    "categoryCars": "Màchin e méz da strà",
+    "categoryMilitary": "Méz militèr",
+    "categoryMotorcycles": "Motò",
+    "categoryShips": "Nav",
+    "categoryUnclassified": "Da cuntrulàr"
   },
   "de": {
     "kicker": "Willkommen in meiner Sammlung!",
@@ -103,7 +124,14 @@ const I18N = {
     "image": "Bild",
     "images": "Bilder",
     "photo": "Foto",
-    "photos": "Fotos"
+    "photos": "Fotos",
+    "allCategories": "Alle Kategorien",
+    "categoryAircraft": "Flugzeuge",
+    "categoryCars": "Autos und Straßenfahrzeuge",
+    "categoryMilitary": "Militärfahrzeuge",
+    "categoryMotorcycles": "Motorräder",
+    "categoryShips": "Schiffe",
+    "categoryUnclassified": "Zu prüfen"
   },
   "fr": {
     "kicker": "Bienvenue dans ma collection !",
@@ -128,7 +156,14 @@ const I18N = {
     "image": "image",
     "images": "images",
     "photo": "photo",
-    "photos": "photos"
+    "photos": "photos",
+    "allCategories": "Toutes les catégories",
+    "categoryAircraft": "Avions",
+    "categoryCars": "Autos et véhicules routiers",
+    "categoryMilitary": "Véhicules militaires",
+    "categoryMotorcycles": "Motos",
+    "categoryShips": "Navires",
+    "categoryUnclassified": "À vérifier"
   },
   "es": {
     "kicker": "¡Bienvenido a mi colección!",
@@ -153,7 +188,14 @@ const I18N = {
     "image": "imagen",
     "images": "imágenes",
     "photo": "foto",
-    "photos": "fotos"
+    "photos": "fotos",
+    "allCategories": "Todas las categorías",
+    "categoryAircraft": "Aviones",
+    "categoryCars": "Coches y vehículos de carretera",
+    "categoryMilitary": "Vehículos militares",
+    "categoryMotorcycles": "Motos",
+    "categoryShips": "Barcos",
+    "categoryUnclassified": "Por revisar"
   },
   "sv": {
     "kicker": "Välkommen till min samling!",
@@ -178,7 +220,14 @@ const I18N = {
     "image": "bild",
     "images": "bilder",
     "photo": "foto",
-    "photos": "foton"
+    "photos": "foton",
+    "allCategories": "Alla kategorier",
+    "categoryAircraft": "Flygplan",
+    "categoryCars": "Bilar och vägfordon",
+    "categoryMilitary": "Militärfordon",
+    "categoryMotorcycles": "Motorcyklar",
+    "categoryShips": "Fartyg",
+    "categoryUnclassified": "Att kontrollera"
   },
   "cs": {
     "kicker": "Vítejte v mé sbírce!",
@@ -203,7 +252,14 @@ const I18N = {
     "image": "obrázek",
     "images": "obrázky",
     "photo": "fotografie",
-    "photos": "fotografie"
+    "photos": "fotografie",
+    "allCategories": "Všechny kategorie",
+    "categoryAircraft": "Letadla",
+    "categoryCars": "Auta a silniční vozidla",
+    "categoryMilitary": "Vojenská vozidla",
+    "categoryMotorcycles": "Motocykly",
+    "categoryShips": "Lodě",
+    "categoryUnclassified": "Ke kontrole"
   },
   "ru": {
     "kicker": "Добро пожаловать в мою коллекцию!",
@@ -228,7 +284,14 @@ const I18N = {
     "image": "изображение",
     "images": "изображения",
     "photo": "фото",
-    "photos": "фото"
+    "photos": "фото",
+    "allCategories": "Все категории",
+    "categoryAircraft": "Самолёты",
+    "categoryCars": "Автомобили и дорожная техника",
+    "categoryMilitary": "Военная техника",
+    "categoryMotorcycles": "Мотоциклы",
+    "categoryShips": "Корабли",
+    "categoryUnclassified": "Проверить"
   },
   "ja": {
     "kicker": "私のコレクションへようこそ！",
@@ -253,7 +316,14 @@ const I18N = {
     "image": "枚の画像",
     "images": "枚の画像",
     "photo": "枚の写真",
-    "photos": "枚の写真"
+    "photos": "枚の写真",
+    "allCategories": "すべてのカテゴリー",
+    "categoryAircraft": "航空機",
+    "categoryCars": "自動車・道路車両",
+    "categoryMilitary": "軍用車両",
+    "categoryMotorcycles": "オートバイ",
+    "categoryShips": "船舶",
+    "categoryUnclassified": "要確認"
   },
   "zh": {
     "kicker": "欢迎来到我的收藏！",
@@ -278,7 +348,14 @@ const I18N = {
     "image": "张图片",
     "images": "张图片",
     "photo": "张照片",
-    "photos": "张照片"
+    "photos": "张照片",
+    "allCategories": "所有类别",
+    "categoryAircraft": "飞机",
+    "categoryCars": "汽车与道路车辆",
+    "categoryMilitary": "军用车辆",
+    "categoryMotorcycles": "摩托车",
+    "categoryShips": "船舶",
+    "categoryUnclassified": "待确认"
   }
 };
 
@@ -288,6 +365,7 @@ const pinnedGrid = $('pinnedGrid');
 const search = $('search');
 const yearFilter = $('yearFilter');
 const scaleFilter = $('scaleFilter');
+const categoryFilter = $('categoryFilter');
 const reset = $('reset');
 const postCount = $('postCount');
 const imageCount = $('imageCount');
@@ -345,7 +423,7 @@ function localizedDescription(post){
 
 function searchText(post){
   const tr = POST_TRANSLATIONS[post.id] || {};
-  const texts = [post.title, post.caption, post.kit, post.scale, post.date, descriptionOnly(post), localizedDescription(post)];
+  const texts = [post.title, post.caption, post.kit, post.scale, post.category, post.date, descriptionOnly(post), localizedDescription(post)];
   Object.values(tr).forEach(v => { if (v && v.caption) texts.push(v.caption); });
   return texts.join(' ').toLowerCase();
 }
@@ -385,6 +463,13 @@ function matches(post){
   const q = search.value.trim().toLowerCase();
   if (yearFilter.value && post.year !== yearFilter.value) return false;
   if (scaleFilter.value && post.scale !== scaleFilter.value) return false;
+  if (categoryFilter.value) {
+    if (categoryFilter.value === '_blank') {
+      if (post.category) return false;
+    } else if ((post.category || '') !== categoryFilter.value) {
+      return false;
+    }
+  }
   if (!q) return true;
   return searchText(post).includes(q);
 }
@@ -470,7 +555,8 @@ function close(){
 search.addEventListener('input', render);
 yearFilter.addEventListener('change', render);
 scaleFilter.addEventListener('change', render);
-reset.addEventListener('click', () => { search.value = ''; yearFilter.value = ''; scaleFilter.value = ''; render(); });
+categoryFilter.addEventListener('change', render);
+reset.addEventListener('click', () => { search.value = ''; yearFilter.value = ''; scaleFilter.value = ''; categoryFilter.value = ''; render(); });
 closeViewer.addEventListener('click', close);
 prev.addEventListener('click', () => { activeImage--; updateViewer(); });
 next.addEventListener('click', () => { activeImage++; updateViewer(); });

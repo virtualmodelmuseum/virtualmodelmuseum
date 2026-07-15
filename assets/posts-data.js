@@ -11,7 +11,8 @@ window.VMM_POSTS = [
       "media/posts/18080060888496937.jpg",
       "media/posts/17856026991498907.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0002",
@@ -25,7 +26,8 @@ window.VMM_POSTS = [
       "media/posts/18078731383757862.jpg",
       "media/posts/18396595750185017.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0003",
@@ -39,7 +41,8 @@ window.VMM_POSTS = [
       "media/posts/18072160420854299.jpg",
       "media/posts/17855519595490265.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0004",
@@ -57,7 +60,8 @@ window.VMM_POSTS = [
       "media/posts/17869090473285637.jpg",
       "media/posts/18067806932065093.jpg"
     ],
-    "count": 6
+    "count": 6,
+    "category": "car"
   },
   {
     "id": "post-0005",
@@ -71,7 +75,8 @@ window.VMM_POSTS = [
       "media/posts/18087096550710487.jpg",
       "media/posts/18510606085063039.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0006",
@@ -89,7 +94,8 @@ window.VMM_POSTS = [
       "media/posts/18103961125519994.jpg",
       "media/posts/18062310461024679.jpg"
     ],
-    "count": 6
+    "count": 6,
+    "category": "aircraft"
   },
   {
     "id": "post-0007",
@@ -107,7 +113,8 @@ window.VMM_POSTS = [
       "media/posts/17862476007403918.jpg",
       "media/posts/18269220973286491.jpg"
     ],
-    "count": 6
+    "count": 6,
+    "category": "aircraft"
   },
   {
     "id": "post-0008",
@@ -123,7 +130,8 @@ window.VMM_POSTS = [
       "media/posts/17960560616786015.jpg",
       "media/posts/18278288992250793.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "aircraft"
   },
   {
     "id": "post-0009",
@@ -144,7 +152,8 @@ window.VMM_POSTS = [
       "media/posts/17979613328696786.jpg",
       "media/posts/18007827311577777.jpg"
     ],
-    "count": 9
+    "count": 9,
+    "category": "military"
   },
   {
     "id": "post-0010",
@@ -160,7 +169,8 @@ window.VMM_POSTS = [
       "media/posts/18046301585605315.jpg",
       "media/posts/18170520499330142.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "aircraft"
   },
   {
     "id": "post-0011",
@@ -181,7 +191,8 @@ window.VMM_POSTS = [
       "media/posts/18066465869072272.jpg",
       "media/posts/18038691014550542.jpg"
     ],
-    "count": 9
+    "count": 9,
+    "category": "aircraft"
   },
   {
     "id": "post-0012",
@@ -197,7 +208,8 @@ window.VMM_POSTS = [
       "media/posts/18113587228467093.jpg",
       "media/posts/18171376024332997.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "aircraft"
   },
   {
     "id": "post-0013",
@@ -212,7 +224,8 @@ window.VMM_POSTS = [
       "media/posts/18064648843994925.jpg",
       "media/posts/18346322482157264.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0014",
@@ -228,7 +241,8 @@ window.VMM_POSTS = [
       "media/posts/18049483574340685.jpg",
       "media/posts/18053624957261381.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "aircraft"
   },
   {
     "id": "post-0015",
@@ -245,7 +259,8 @@ window.VMM_POSTS = [
       "media/posts/18043656494383838.jpg",
       "media/posts/18313717207227477.jpg"
     ],
-    "count": 5
+    "count": 5,
+    "category": "military"
   },
   {
     "id": "post-0016",
@@ -260,7 +275,8 @@ window.VMM_POSTS = [
       "media/posts/17959494821783205.jpg",
       "media/posts/18077434954826469.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "military"
   },
   {
     "id": "post-0017",
@@ -276,7 +292,8 @@ window.VMM_POSTS = [
       "media/posts/18043439639425916.jpg",
       "media/posts/18002873372756692.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "military"
   },
   {
     "id": "post-0018",
@@ -291,7 +308,8 @@ window.VMM_POSTS = [
       "media/posts/18456913120077685.jpg",
       "media/posts/18048367664085931.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "military"
   },
   {
     "id": "post-0019",
@@ -307,7 +325,8 @@ window.VMM_POSTS = [
       "media/posts/18267667393273313.jpg",
       "media/posts/17857149789356502.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "military"
   },
   {
     "id": "post-0020",
@@ -322,7 +341,8 @@ window.VMM_POSTS = [
       "media/posts/18325824739166470.jpg",
       "media/posts/18123788746435303.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0021",
@@ -337,7 +357,8 @@ window.VMM_POSTS = [
       "media/posts/17967416912856537.jpg",
       "media/posts/17999587655782406.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0022",
@@ -356,7 +377,8 @@ window.VMM_POSTS = [
       "media/posts/18089630749595388.jpg",
       "media/posts/18046545947376176.jpg"
     ],
-    "count": 7
+    "count": 7,
+    "category": "military"
   },
   {
     "id": "post-0023",
@@ -374,7 +396,8 @@ window.VMM_POSTS = [
       "media/posts/17842607982452595.jpg",
       "media/posts/17861255580307992.jpg"
     ],
-    "count": 6
+    "count": 6,
+    "category": "military"
   },
   {
     "id": "post-0024",
@@ -390,7 +413,8 @@ window.VMM_POSTS = [
       "media/posts/17941467116980785.jpg",
       "media/posts/18157828846344825.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0025",
@@ -406,7 +430,8 @@ window.VMM_POSTS = [
       "media/posts/17910727122046157.jpg",
       "media/posts/17887142529235650.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0026",
@@ -421,7 +446,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18059889242043359.jpg",
       "media/posts/202503/17902720857139202.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "ship"
   },
   {
     "id": "post-0027",
@@ -436,7 +462,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18306586267224346.jpg",
       "media/posts/202503/18348772954149557.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0028",
@@ -451,7 +478,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17907192774102157.jpg",
       "media/posts/202503/17928759887930293.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0029",
@@ -466,7 +494,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17962826471860087.jpg",
       "media/posts/202503/17898407979165078.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0030",
@@ -481,7 +510,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17960997197767178.jpg",
       "media/posts/202503/18056359229326395.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "military"
   },
   {
     "id": "post-0031",
@@ -496,7 +526,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18060879287077359.jpg",
       "media/posts/202503/18073587109830322.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0032",
@@ -515,7 +546,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18037343618259291.jpg",
       "media/posts/202503/18042597323421900.jpg"
     ],
-    "count": 7
+    "count": 7,
+    "category": "car"
   },
   {
     "id": "post-0033",
@@ -530,7 +562,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17968893443731955.jpg",
       "media/posts/202503/18036541706264180.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0034",
@@ -545,7 +578,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18216452377292653.jpg",
       "media/posts/202503/17939756486865566.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0035",
@@ -564,7 +598,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17882759712257477.jpg",
       "media/posts/202503/18046041578092768.jpg"
     ],
-    "count": 7
+    "count": 7,
+    "category": "aircraft"
   },
   {
     "id": "post-0036",
@@ -580,7 +615,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17931257435908591.jpg",
       "media/posts/202503/18168172222334043.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0037",
@@ -595,7 +631,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17852311932379050.jpg",
       "media/posts/202503/17930645508009522.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "military"
   },
   {
     "id": "post-0038",
@@ -611,7 +648,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17914844273983422.jpg",
       "media/posts/202503/18078275422664432.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0039",
@@ -625,7 +663,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18127466815424107.jpg",
       "media/posts/202503/18058634444017428.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0040",
@@ -639,7 +678,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18034855589561796.jpg",
       "media/posts/202503/18054952931177406.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0041",
@@ -657,7 +697,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18294901744172937.jpg",
       "media/posts/202503/18068822530905693.jpg"
     ],
-    "count": 6
+    "count": 6,
+    "category": "car"
   },
   {
     "id": "post-0042",
@@ -674,7 +715,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17901977988148721.jpg",
       "media/posts/202503/18083839804628081.jpg"
     ],
-    "count": 5
+    "count": 5,
+    "category": "aircraft"
   },
   {
     "id": "post-0043",
@@ -696,7 +738,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18018261143690745.jpg",
       "media/posts/202503/18009525920719543.jpg"
     ],
-    "count": 10
+    "count": 10,
+    "category": "car"
   },
   {
     "id": "post-0044",
@@ -711,7 +754,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18003419213585554.jpg",
       "media/posts/202503/18023019395671906.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0045",
@@ -725,7 +769,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18035076818290979.jpg",
       "media/posts/202503/18035862440539849.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0046",
@@ -739,7 +784,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18054407075129425.jpg",
       "media/posts/202503/18022083218467213.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0047",
@@ -753,7 +799,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18263579065277044.jpg",
       "media/posts/202503/18034331801540596.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0048",
@@ -767,7 +814,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18343411945155602.jpg",
       "media/posts/202503/17858001444329235.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0049",
@@ -781,7 +829,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17974964189823299.jpg",
       "media/posts/202503/18062595187820816.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0050",
@@ -795,7 +844,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18064867138938043.jpg",
       "media/posts/202503/18101432026455667.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0051",
@@ -809,7 +859,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18039908555395899.jpg",
       "media/posts/202503/18045222782353883.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0052",
@@ -823,7 +874,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18151079365366703.jpg",
       "media/posts/202503/17950680005806797.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0053",
@@ -837,7 +889,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18051244499468590.jpg",
       "media/posts/202503/18051343760468755.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0054",
@@ -853,7 +906,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18084781753612018.jpg",
       "media/posts/202503/18148291486370630.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "aircraft"
   },
   {
     "id": "post-0055",
@@ -867,7 +921,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18045510362084217.jpg",
       "media/posts/202503/18045757370080663.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0056",
@@ -882,7 +937,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18048809234339038.jpg",
       "media/posts/202503/18023800082444705.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "ship"
   },
   {
     "id": "post-0057",
@@ -896,7 +952,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17863083894287591.jpg",
       "media/posts/202503/18086621677592501.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0058",
@@ -911,7 +968,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18055492112172978.jpg",
       "media/posts/202503/18049864847223176.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0059",
@@ -927,7 +985,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18002925989735935.jpg",
       "media/posts/202503/18073492282824460.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "aircraft"
   },
   {
     "id": "post-0060",
@@ -941,7 +1000,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18001791062743874.jpg",
       "media/posts/202503/18058603097043733.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0061",
@@ -955,7 +1015,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18466762045067883.jpg",
       "media/posts/202503/18061974286822894.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0062",
@@ -969,7 +1030,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17952821723929935.jpg",
       "media/posts/202503/18087048847600726.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0063",
@@ -983,7 +1045,8 @@ window.VMM_POSTS = [
       "media/posts/202503/17909778710997909.jpg",
       "media/posts/202503/18056895755118293.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0064",
@@ -997,7 +1060,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18059018786093596.jpg",
       "media/posts/202503/18034889666271300.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0065",
@@ -1010,7 +1074,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18035393195574079.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0066",
@@ -1024,7 +1089,8 @@ window.VMM_POSTS = [
       "media/posts/202503/18083357530721004.jpg",
       "media/posts/202503/18053239703166675.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0067",
@@ -1038,7 +1104,8 @@ window.VMM_POSTS = [
       "media/posts/202502/18086089366603975.jpg",
       "media/posts/202502/18059189767953231.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0068",
@@ -1052,7 +1119,8 @@ window.VMM_POSTS = [
       "media/posts/202502/17920447779047386.jpg",
       "media/posts/202502/17956384595870834.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0069",
@@ -1066,7 +1134,8 @@ window.VMM_POSTS = [
       "media/posts/202502/18046953032211556.jpg",
       "media/posts/202502/18291972094243635.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0070",
@@ -1080,7 +1149,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18048350872752180.jpg",
       "media/posts/202409/17984305151724237.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0071",
@@ -1094,7 +1164,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18057643561741571.jpg",
       "media/posts/202409/18046302697815236.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0072",
@@ -1108,7 +1179,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18019405424406227.jpg",
       "media/posts/202409/18041969291081092.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0073",
@@ -1122,7 +1194,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18278892376214126.jpg",
       "media/posts/202409/18322050724153725.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0074",
@@ -1136,7 +1209,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18040779332037046.jpg",
       "media/posts/202409/18062079541709264.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0075",
@@ -1150,7 +1224,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17964909011672612.jpg",
       "media/posts/202409/18457414312016177.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0076",
@@ -1164,7 +1239,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18041060885100755.jpg",
       "media/posts/202409/17937453521906905.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0077",
@@ -1179,7 +1255,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18137387251356775.jpg",
       "media/posts/202409/17861859159235320.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0078",
@@ -1193,7 +1270,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18324704263157428.jpg",
       "media/posts/202409/17864105469226739.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0079",
@@ -1207,7 +1285,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17873568729173029.jpg",
       "media/posts/202409/18037578518142668.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0080",
@@ -1221,7 +1300,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18462659725016170.jpg",
       "media/posts/202409/18058180363682745.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0081",
@@ -1235,7 +1315,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18140056861350540.jpg",
       "media/posts/202409/18040857554097465.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0082",
@@ -1249,7 +1330,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18070886251587698.jpg",
       "media/posts/202409/18047096434771335.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0083",
@@ -1263,7 +1345,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17845700265306108.jpg",
       "media/posts/202409/17891830974087223.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0084",
@@ -1277,7 +1360,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18044119135950607.jpg",
       "media/posts/202409/18046387813785678.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0085",
@@ -1291,7 +1375,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18458118637009701.jpg",
       "media/posts/202409/18079174897525542.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0086",
@@ -1305,7 +1390,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18043778620989663.jpg",
       "media/posts/202409/18044161777974821.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0087",
@@ -1319,7 +1405,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18030763730251279.jpg",
       "media/posts/202409/18071740786577828.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0088",
@@ -1333,7 +1420,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17979825062746116.jpg",
       "media/posts/202409/18017097980289067.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0089",
@@ -1347,7 +1435,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18053042260859520.jpg",
       "media/posts/202409/17940168725894375.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0090",
@@ -1362,7 +1451,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18248609839260317.jpg",
       "media/posts/202409/17893444868999803.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0091",
@@ -1376,7 +1466,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18461235193060712.jpg",
       "media/posts/202409/17852585454275988.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0092",
@@ -1390,7 +1481,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18141569893343221.jpg",
       "media/posts/202409/18027522089519524.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0093",
@@ -1404,7 +1496,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17983370168598113.jpg",
       "media/posts/202409/17874604992098850.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0094",
@@ -1418,7 +1511,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18043345201994970.jpg",
       "media/posts/202409/18015690491317580.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0095",
@@ -1432,7 +1526,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17928653744940863.jpg",
       "media/posts/202409/17868279765197522.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0096",
@@ -1446,7 +1541,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18033754136007270.jpg",
       "media/posts/202409/18046562371944471.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0097",
@@ -1460,7 +1556,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18090281167488083.jpg",
       "media/posts/202409/18020284742214461.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0098",
@@ -1474,7 +1571,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17858119485202581.jpg",
       "media/posts/202409/18058131622776425.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0099",
@@ -1488,7 +1586,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18053231452693779.jpg",
       "media/posts/202409/18370431907102719.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0100",
@@ -1503,7 +1602,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18058782286737831.jpg",
       "media/posts/202409/18057015433698879.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0101",
@@ -1517,7 +1617,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18079338781523482.jpg",
       "media/posts/202409/18035189993189175.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0102",
@@ -1531,7 +1632,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18450828445043521.jpg",
       "media/posts/202409/17883306186102015.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0103",
@@ -1545,7 +1647,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18030569747053376.jpg",
       "media/posts/202409/18240581605285568.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0104",
@@ -1559,7 +1662,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18059574154666034.jpg",
       "media/posts/202409/17853474975274081.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0105",
@@ -1573,7 +1677,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17956329527817149.jpg",
       "media/posts/202409/18065359636621140.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0106",
@@ -1587,7 +1692,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18043303567971384.jpg",
       "media/posts/202409/18072720631566096.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0107",
@@ -1601,7 +1707,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18458985463026131.jpg",
       "media/posts/202409/18027265910356620.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0108",
@@ -1616,7 +1723,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17941304426886860.jpg",
       "media/posts/202409/17986406189717511.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0109",
@@ -1630,7 +1738,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18018749672602365.jpg",
       "media/posts/202409/17846300247283313.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0110",
@@ -1646,7 +1755,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17967936650792146.jpg",
       "media/posts/202409/18068180878608771.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0111",
@@ -1661,7 +1771,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17980884392740789.jpg",
       "media/posts/202409/17970272915645671.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0112",
@@ -1675,7 +1786,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18034083410233270.jpg",
       "media/posts/202409/17970382133788320.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0113",
@@ -1689,7 +1801,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17988002852569930.jpg",
       "media/posts/202409/18035015258473710.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0114",
@@ -1703,7 +1816,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17850710019290413.jpg",
       "media/posts/202409/18041617262317382.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0115",
@@ -1718,7 +1832,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17897502719984568.jpg",
       "media/posts/202409/18042008978061168.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "military"
   },
   {
     "id": "post-0116",
@@ -1732,7 +1847,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18017932655545929.jpg",
       "media/posts/202409/17862049131234546.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0117",
@@ -1746,7 +1862,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18006851075443922.jpg",
       "media/posts/202409/17873888259168887.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0118",
@@ -1760,7 +1877,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18065749219621265.jpg",
       "media/posts/202409/18069279868590925.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0119",
@@ -1774,7 +1892,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18041727668082637.jpg",
       "media/posts/202409/18032312762251508.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0120",
@@ -1788,7 +1907,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18058479712707003.jpg",
       "media/posts/202409/18035649916979603.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0121",
@@ -1802,7 +1922,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17876146848155279.jpg",
       "media/posts/202409/18020593814580901.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0122",
@@ -1816,7 +1937,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18090008764470635.jpg",
       "media/posts/202409/18017300663609243.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0123",
@@ -1830,7 +1952,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18044691331831514.jpg",
       "media/posts/202409/18041029049012463.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0124",
@@ -1844,7 +1967,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18340797952120225.jpg",
       "media/posts/202409/17954475686822700.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0125",
@@ -1858,7 +1982,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18435252835070516.jpg",
       "media/posts/202409/17918644364882076.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0126",
@@ -1871,7 +1996,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18261052537300123.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0127",
@@ -1886,7 +2012,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18085066714496726.jpg",
       "media/posts/202409/18038727635114437.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0128",
@@ -1900,7 +2027,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17925352508957718.jpg",
       "media/posts/202409/17862845274229217.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0129",
@@ -1914,7 +2042,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18017276480606674.jpg",
       "media/posts/202409/18057690565779898.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "ship"
   },
   {
     "id": "post-0130",
@@ -1928,7 +2057,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18022258043436817.jpg",
       "media/posts/202409/17988317090563422.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "ship"
   },
   {
     "id": "post-0131",
@@ -1942,7 +2072,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18071630962597929.jpg",
       "media/posts/202409/18131519335368954.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0132",
@@ -1956,7 +2087,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17910369503915373.jpg",
       "media/posts/202409/18036557480163792.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "ship"
   },
   {
     "id": "post-0133",
@@ -1970,7 +2102,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17901855017962350.jpg",
       "media/posts/202409/17858042499202377.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "ship"
   },
   {
     "id": "post-0134",
@@ -1984,7 +2117,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18052465147844431.jpg",
       "media/posts/202409/18065916391628652.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0135",
@@ -1997,7 +2131,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18031050152215751.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0136",
@@ -2010,7 +2145,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17920558079974600.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0137",
@@ -2024,7 +2160,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18019623470596244.jpg",
       "media/posts/202409/17846233917284056.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0138",
@@ -2038,7 +2175,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18033923345270023.jpg",
       "media/posts/202409/18041315675075438.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0139",
@@ -2051,7 +2189,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17857301961252927.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0140",
@@ -2067,7 +2206,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17921393549966492.jpg",
       "media/posts/202409/17904116640038238.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0141",
@@ -2081,7 +2221,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17859696093246722.jpg",
       "media/posts/202409/17947750025745457.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0142",
@@ -2095,7 +2236,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18036228968135845.jpg",
       "media/posts/202409/18010008719633137.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "ship"
   },
   {
     "id": "post-0143",
@@ -2109,7 +2251,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18057121285755355.jpg",
       "media/posts/202409/18064048807576475.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0144",
@@ -2123,7 +2266,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18103908895430504.jpg",
       "media/posts/202409/18056096659836825.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0145",
@@ -2136,7 +2280,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17856287241256209.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0146",
@@ -2150,7 +2295,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18018351272574824.jpg",
       "media/posts/202409/18076655245544691.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0147",
@@ -2166,7 +2312,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18061209685638871.jpg",
       "media/posts/202409/18223503505304103.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0148",
@@ -2180,7 +2327,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17961802712681280.jpg",
       "media/posts/202409/18049205113910159.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0149",
@@ -2194,7 +2342,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18105502216383740.jpg",
       "media/posts/202409/18037344509126980.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0150",
@@ -2210,7 +2359,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18020456942590176.jpg",
       "media/posts/202409/18079923304476496.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0151",
@@ -2224,7 +2374,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18248671336301819.jpg",
       "media/posts/202409/17937792014905582.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0152",
@@ -2238,7 +2389,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18093020200425319.jpg",
       "media/posts/202409/17843470587305110.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0153",
@@ -2252,7 +2404,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18127365997373591.jpg",
       "media/posts/202409/17882433177126247.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0154",
@@ -2266,7 +2419,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18048843637908071.jpg",
       "media/posts/202409/18350918848186228.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0155",
@@ -2280,7 +2434,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18027199541360665.jpg",
       "media/posts/202409/18133241779362503.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0156",
@@ -2294,7 +2449,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17897241756061246.jpg",
       "media/posts/202409/17852565609241969.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0157",
@@ -2308,7 +2464,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18138334495351153.jpg",
       "media/posts/202409/17874390072159695.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0158",
@@ -2322,7 +2479,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17862714585228537.jpg",
       "media/posts/202409/17900546840963663.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0159",
@@ -2337,7 +2495,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18074007439501362.jpg",
       "media/posts/202409/17845254402308312.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0160",
@@ -2351,7 +2510,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18031527839042119.jpg",
       "media/posts/202409/18041506373043067.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0161",
@@ -2367,7 +2527,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18052358476861671.jpg",
       "media/posts/202409/17940730526776543.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "military"
   },
   {
     "id": "post-0162",
@@ -2381,7 +2542,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17860966122181156.jpg",
       "media/posts/202409/18020438483232656.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0163",
@@ -2395,7 +2557,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18037663876916058.jpg",
       "media/posts/202409/18063285613650600.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0164",
@@ -2410,7 +2573,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18028013003098148.jpg",
       "media/posts/202409/18164118952312489.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "military"
   },
   {
     "id": "post-0165",
@@ -2424,7 +2588,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17995888730513665.jpg",
       "media/posts/202409/18052748380850535.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0166",
@@ -2438,7 +2603,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18145784896333167.jpg",
       "media/posts/202409/18102124702436366.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0167",
@@ -2452,7 +2618,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18061812793591686.jpg",
       "media/posts/202409/18067004014556010.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0168",
@@ -2466,7 +2633,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18062592931583145.jpg",
       "media/posts/202409/18359361211112165.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0169",
@@ -2480,7 +2648,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17882836773129512.jpg",
       "media/posts/202409/17859962802238548.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0170",
@@ -2494,7 +2663,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18039361613101194.jpg",
       "media/posts/202409/18076974586544499.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0171",
@@ -2508,7 +2678,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18455176384026856.jpg",
       "media/posts/202409/18033968843225107.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0172",
@@ -2522,7 +2693,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17931898136816511.jpg",
       "media/posts/202409/18044034553976916.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0173",
@@ -2536,7 +2708,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17857797654200314.jpg",
       "media/posts/202409/18065592364719939.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0174",
@@ -2550,7 +2723,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18062431849641005.jpg",
       "media/posts/202409/17939960720889926.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0175",
@@ -2564,7 +2738,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18024796169139398.jpg",
       "media/posts/202409/18029395934069144.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0176",
@@ -2578,7 +2753,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18046410931793002.jpg",
       "media/posts/202409/17938809725785265.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0177",
@@ -2592,7 +2768,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18055689082763427.jpg",
       "media/posts/202409/18059262166678643.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0178",
@@ -2607,7 +2784,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18040463117033448.jpg",
       "media/posts/202409/17883323244050713.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0179",
@@ -2620,7 +2798,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18332176078176210.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0180",
@@ -2634,7 +2813,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17990834999536311.jpg",
       "media/posts/202409/18122616217378185.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0181",
@@ -2648,7 +2828,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18061060393601505.jpg",
       "media/posts/202409/18033239954516426.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0182",
@@ -2662,7 +2843,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17880191367120735.jpg",
       "media/posts/202409/17914471632003327.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0183",
@@ -2676,7 +2858,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18090819868470910.jpg",
       "media/posts/202409/18076954810539164.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0184",
@@ -2690,7 +2873,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18006178211458072.jpg",
       "media/posts/202409/17890979037011821.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0185",
@@ -2705,7 +2889,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18006392582455784.jpg",
       "media/posts/202409/18253413589251719.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0186",
@@ -2719,7 +2904,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18035025532986705.jpg",
       "media/posts/202409/18057448990744838.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0187",
@@ -2733,7 +2919,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18035087888175349.jpg",
       "media/posts/202409/18104979763427550.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0188",
@@ -2747,7 +2934,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18031735208225950.jpg",
       "media/posts/202409/18324109558195621.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0189",
@@ -2761,7 +2949,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18041850755055574.jpg",
       "media/posts/202409/17845906239300054.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0190",
@@ -2775,7 +2964,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18101023843431606.jpg",
       "media/posts/202409/18056638897760298.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0191",
@@ -2789,7 +2979,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18061555294635300.jpg",
       "media/posts/202409/18052833427871329.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0192",
@@ -2804,7 +2995,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18010415414356035.jpg",
       "media/posts/202409/18014403749544476.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0193",
@@ -2818,7 +3010,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18436475083067314.jpg",
       "media/posts/202409/17870416437189288.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0194",
@@ -2832,7 +3025,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18042331409060225.jpg",
       "media/posts/202409/17946783545850278.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0195",
@@ -2846,7 +3040,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18043839268974303.jpg",
       "media/posts/202409/17957847746697464.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0196",
@@ -2860,7 +3055,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17969784074787436.jpg",
       "media/posts/202409/18042876529855235.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0197",
@@ -2874,7 +3070,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18062583223713918.jpg",
       "media/posts/202409/18024743141133466.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0198",
@@ -2888,7 +3085,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18047006635942007.jpg",
       "media/posts/202409/18004542974479404.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0199",
@@ -2902,7 +3100,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18040772039041810.jpg",
       "media/posts/202409/18024195119152631.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0200",
@@ -2916,7 +3115,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18060094909672619.jpg",
       "media/posts/202409/18040459694040298.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0201",
@@ -2930,7 +3130,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17868457932194637.jpg",
       "media/posts/202409/17980813571740902.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0202",
@@ -2944,7 +3145,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18452790829063915.jpg",
       "media/posts/202409/17844945036307975.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0203",
@@ -2958,7 +3160,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17950192460735210.jpg",
       "media/posts/202409/18057896248780700.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0204",
@@ -2972,7 +3175,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17873079498172313.jpg",
       "media/posts/202409/17925514013845103.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0205",
@@ -2986,7 +3190,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17847714609298084.jpg",
       "media/posts/202409/18045827719943939.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0206",
@@ -3001,7 +3206,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17967776105790241.jpg",
       "media/posts/202409/18045920710794861.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0207",
@@ -3016,7 +3222,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18051466876894732.jpg",
       "media/posts/202409/17923919273951014.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0208",
@@ -3030,7 +3237,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18045695599800237.jpg",
       "media/posts/202409/18097340629445842.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0209",
@@ -3044,7 +3252,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17860068963238036.jpg",
       "media/posts/202409/18014816777624521.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0210",
@@ -3058,7 +3267,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18039788516482592.jpg",
       "media/posts/202409/18044301775966182.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0211",
@@ -3072,7 +3282,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17843125083317142.jpg",
       "media/posts/202409/18461581531023123.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0212",
@@ -3086,7 +3297,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18018513404258639.jpg",
       "media/posts/202409/17982456089720427.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0213",
@@ -3100,7 +3312,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17940286058886278.jpg",
       "media/posts/202409/18063485770572894.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0214",
@@ -3114,7 +3327,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17925928040950129.jpg",
       "media/posts/202409/18053008270884650.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0215",
@@ -3128,7 +3342,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18040592573015907.jpg",
       "media/posts/202409/17893269345077275.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0216",
@@ -3142,7 +3357,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18147049540332003.jpg",
       "media/posts/202409/18040181597021784.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0217",
@@ -3156,7 +3372,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17878138185138657.jpg",
       "media/posts/202409/17937380792875583.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0218",
@@ -3170,7 +3387,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18025642124132230.jpg",
       "media/posts/202409/17852316783241942.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0219",
@@ -3184,7 +3402,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18013582898551873.jpg",
       "media/posts/202409/18039305306501224.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0220",
@@ -3198,7 +3417,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18105491188390337.jpg",
       "media/posts/202409/18019954160526438.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0221",
@@ -3214,7 +3434,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17908098170931801.jpg",
       "media/posts/202409/18136908538358244.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "military"
   },
   {
     "id": "post-0222",
@@ -3228,7 +3449,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17954024063820941.jpg",
       "media/posts/202409/18058921822735871.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0223",
@@ -3242,7 +3464,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18454529113016855.jpg",
       "media/posts/202409/17879864958131118.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0224",
@@ -3256,7 +3479,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17932962791916390.jpg",
       "media/posts/202409/17924154983958562.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0225",
@@ -3270,7 +3494,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18083438557508484.jpg",
       "media/posts/202409/18043896643830449.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0226",
@@ -3283,7 +3508,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18059332648681783.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0227",
@@ -3297,7 +3523,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18454938181032793.jpg",
       "media/posts/202409/17924724020955247.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0228",
@@ -3311,7 +3538,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17845180923302598.jpg",
       "media/posts/202409/18283899376228740.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0229",
@@ -3325,7 +3553,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18162371947314420.jpg",
       "media/posts/202409/17919991604970290.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0230",
@@ -3339,7 +3568,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18044201428981127.jpg",
       "media/posts/202409/18040355570298883.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0231",
@@ -3353,7 +3583,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18054651826839256.jpg",
       "media/posts/202409/17858368710249054.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0232",
@@ -3367,7 +3598,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18068104975609218.jpg",
       "media/posts/202409/18072106636511652.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0233",
@@ -3381,7 +3613,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17983479749593655.jpg",
       "media/posts/202409/18110881060375346.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0234",
@@ -3395,7 +3628,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18007122473419914.jpg",
       "media/posts/202409/18069567499594125.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0235",
@@ -3409,7 +3643,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17901684477044089.jpg",
       "media/posts/202409/18148269943328605.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0236",
@@ -3423,7 +3658,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17863238070218921.jpg",
       "media/posts/202409/18042690799855959.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0237",
@@ -3437,7 +3673,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18007491698409861.jpg",
       "media/posts/202409/18032566586229444.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0238",
@@ -3451,7 +3688,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18020515919208586.jpg",
       "media/posts/202409/18048257992919253.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0239",
@@ -3465,7 +3703,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18045545866799221.jpg",
       "media/posts/202409/18062104036651033.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0240",
@@ -3479,7 +3718,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18045137536962935.jpg",
       "media/posts/202409/18037860907900441.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0241",
@@ -3493,7 +3733,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18033726404229526.jpg",
       "media/posts/202409/17900934753045387.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0242",
@@ -3507,7 +3748,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18036037366951306.jpg",
       "media/posts/202409/17883840708105487.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0243",
@@ -3521,7 +3763,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18038047178492780.jpg",
       "media/posts/202409/18036690689149468.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0244",
@@ -3535,7 +3778,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18041069024020404.jpg",
       "media/posts/202409/17913383775004647.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0245",
@@ -3549,7 +3793,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17967275300657239.jpg",
       "media/posts/202409/18023396072581622.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0246",
@@ -3563,7 +3808,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18071618104605210.jpg",
       "media/posts/202409/17937820604904857.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0247",
@@ -3577,7 +3823,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18336313249126643.jpg",
       "media/posts/202409/17875446060154881.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0248",
@@ -3591,7 +3838,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18045761851791460.jpg",
       "media/posts/202409/18006448724646440.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0249",
@@ -3605,7 +3853,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18031381415202176.jpg",
       "media/posts/202409/18025305215376606.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0250",
@@ -3619,7 +3868,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17937597920874314.jpg",
       "media/posts/202409/18355980640115933.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0251",
@@ -3633,7 +3883,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18455759311007703.jpg",
       "media/posts/202409/18059697280665100.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0252",
@@ -3647,7 +3898,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18018328310268488.jpg",
       "media/posts/202409/17968985570787680.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0253",
@@ -3661,7 +3913,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18072878767507604.jpg",
       "media/posts/202409/17880962496107100.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "ship"
   },
   {
     "id": "post-0254",
@@ -3675,7 +3928,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18337755730130833.jpg",
       "media/posts/202409/17842264992318939.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0255",
@@ -3689,7 +3943,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18058408957780116.jpg",
       "media/posts/202409/18013198043620446.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0256",
@@ -3703,7 +3958,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17940679142887805.jpg",
       "media/posts/202409/17914480916901068.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0257",
@@ -3717,7 +3973,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18003883535649944.jpg",
       "media/posts/202409/17900356226964114.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0258",
@@ -3731,7 +3988,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18140033860353788.jpg",
       "media/posts/202409/18054710173667606.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0259",
@@ -3745,7 +4003,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18041693306306453.jpg",
       "media/posts/202409/18046870330904364.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0260",
@@ -3759,7 +4018,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18017221256301262.jpg",
       "media/posts/202409/18048400603918482.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0261",
@@ -3774,7 +4034,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17943921050852033.jpg",
       "media/posts/202409/17969500577646766.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0262",
@@ -3788,7 +4049,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18023004761457030.jpg",
       "media/posts/202409/17868899253192648.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0263",
@@ -3802,7 +4064,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18138564748348918.jpg",
       "media/posts/202409/17996208347680363.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0264",
@@ -3816,7 +4079,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18060742096732782.jpg",
       "media/posts/202409/17999294999505498.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0265",
@@ -3830,7 +4094,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18042295526017828.jpg",
       "media/posts/202409/18059317639671662.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0266",
@@ -3844,7 +4109,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18461351185045417.jpg",
       "media/posts/202409/18047775283900328.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0267",
@@ -3858,7 +4124,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17875910802151857.jpg",
       "media/posts/202409/18120587134378383.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0268",
@@ -3872,7 +4139,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17865941760145323.jpg",
       "media/posts/202409/18040261489892989.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0269",
@@ -3886,7 +4154,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18050710492879784.jpg",
       "media/posts/202409/17970710996642102.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0270",
@@ -3900,7 +4169,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17879035566136085.jpg",
       "media/posts/202409/17861134857234501.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0271",
@@ -3914,7 +4184,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18062800132712833.jpg",
       "media/posts/202409/18059144812668562.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0272",
@@ -3928,7 +4199,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18042893536955291.jpg",
       "media/posts/202409/18041375306054337.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "ship"
   },
   {
     "id": "post-0273",
@@ -3942,7 +4214,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18133673527323708.jpg",
       "media/posts/202409/18102794350434212.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0274",
@@ -3956,7 +4229,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18024527879132975.jpg",
       "media/posts/202409/18436307356068478.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0275",
@@ -3970,7 +4244,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18028620002351404.jpg",
       "media/posts/202409/18022063202190600.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0276",
@@ -3984,7 +4259,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18240240424272270.jpg",
       "media/posts/202409/18098912590451923.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0277",
@@ -3998,7 +4274,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18016959428291364.jpg",
       "media/posts/202409/17933625587915338.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0278",
@@ -4013,7 +4290,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18254287063253689.jpg",
       "media/posts/202409/17983931312712899.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0279",
@@ -4027,7 +4305,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17892034881085269.jpg",
       "media/posts/202409/18038345705489510.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0280",
@@ -4041,7 +4320,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17936702999909679.jpg",
       "media/posts/202409/18044467078950447.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0281",
@@ -4055,7 +4335,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18145526470332827.jpg",
       "media/posts/202409/18006944348429457.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0282",
@@ -4069,7 +4350,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17898549060049954.jpg",
       "media/posts/202409/18042548114061690.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0283",
@@ -4084,7 +4366,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17922263678856425.jpg",
       "media/posts/202409/17857528206203485.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0284",
@@ -4098,7 +4381,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18057617227691125.jpg",
       "media/posts/202409/18002293298657481.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0285",
@@ -4113,7 +4397,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17941455269891602.jpg",
       "media/posts/202409/18035784023156329.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0286",
@@ -4127,7 +4412,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18008388197637952.jpg",
       "media/posts/202409/18064436308717336.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0287",
@@ -4141,7 +4427,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18019910474435105.jpg",
       "media/posts/202409/18251016850254495.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0288",
@@ -4155,7 +4442,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17972209088777436.jpg",
       "media/posts/202409/17939785820879733.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0289",
@@ -4169,7 +4457,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18008165996392327.jpg",
       "media/posts/202409/18057650635736689.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0290",
@@ -4183,7 +4472,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18008835311633900.jpg",
       "media/posts/202409/18044922574792217.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0291",
@@ -4197,7 +4487,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17864182200215605.jpg",
       "media/posts/202409/18016751264564338.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0292",
@@ -4211,7 +4502,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18019429781602880.jpg",
       "media/posts/202409/18035820176171541.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0293",
@@ -4225,7 +4517,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18021703280195186.jpg",
       "media/posts/202409/18089011327487551.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0294",
@@ -4239,7 +4532,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18053227201871120.jpg",
       "media/posts/202409/18116421661404005.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "motorcycle"
   },
   {
     "id": "post-0295",
@@ -4254,7 +4548,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18035288486327945.jpg",
       "media/posts/202409/18056931790781675.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0296",
@@ -4268,7 +4563,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18018248507267307.jpg",
       "media/posts/202409/18037705549902513.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0297",
@@ -4282,7 +4578,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18037496122897722.jpg",
       "media/posts/202409/17867930901194876.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0298",
@@ -4296,7 +4593,8 @@ window.VMM_POSTS = [
       "media/posts/18240746365279243.jpg",
       "media/posts/18044341012826920.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0299",
@@ -4310,7 +4608,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17857432293199592.jpg",
       "media/posts/202409/18086821969495373.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0300",
@@ -4324,7 +4623,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18085210576496603.jpg",
       "media/posts/202409/17946978338747013.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0301",
@@ -4338,7 +4638,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18061447942711464.jpg",
       "media/posts/202409/18007903394638816.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0302",
@@ -4352,7 +4653,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17869834173188218.jpg",
       "media/posts/202409/18061854049645311.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0303",
@@ -4366,7 +4668,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18032539544249234.jpg",
       "media/posts/202409/17929274546928148.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0304",
@@ -4380,7 +4683,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18064621951627719.jpg",
       "media/posts/202409/17878762845120580.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0305",
@@ -4394,7 +4698,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17938933880783104.jpg",
       "media/posts/202409/18045576922805188.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0306",
@@ -4408,7 +4713,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17921273609960403.jpg",
       "media/posts/202409/17872765920171673.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0307",
@@ -4422,7 +4728,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17903329074031230.jpg",
       "media/posts/202409/17876726781148470.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "motorcycle"
   },
   {
     "id": "post-0308",
@@ -4436,7 +4743,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17973974756776849.jpg",
       "media/posts/202409/17938495115906179.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0309",
@@ -4451,7 +4759,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18044180566818876.jpg",
       "media/posts/202409/18007647767406356.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0310",
@@ -4464,7 +4773,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18034421642178772.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0311",
@@ -4477,7 +4787,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17949274016836571.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0312",
@@ -4491,7 +4802,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17929847738931327.jpg",
       "media/posts/202409/18084849994448967.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0313",
@@ -4504,7 +4816,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18038968883028675.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0314",
@@ -4517,7 +4830,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18063546802565479.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0315",
@@ -4530,7 +4844,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17906577896940215.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0316",
@@ -4543,7 +4858,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18139218481353975.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0317",
@@ -4556,7 +4872,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17990610356701505.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0318",
@@ -4569,7 +4886,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18119646877383340.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0319",
@@ -4582,7 +4900,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17868090057193953.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0320",
@@ -4596,7 +4915,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18042055159863719.jpg",
       "media/posts/202409/17912631272990525.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0321",
@@ -4609,7 +4929,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17981911205731585.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0322",
@@ -4623,7 +4944,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18063511552576501.jpg",
       "media/posts/202409/18119004025390090.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0323",
@@ -4637,7 +4959,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17971110953783488.jpg",
       "media/posts/202409/18019044389247937.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0324",
@@ -4650,7 +4973,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17939051276783060.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0325",
@@ -4664,7 +4988,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18351605497185206.jpg",
       "media/posts/202409/18070352581523448.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0326",
@@ -4678,7 +5003,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17999337245666204.jpg",
       "media/posts/202409/17901894774026722.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0327",
@@ -4692,7 +5018,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17852228550273860.jpg",
       "media/posts/202409/17953207754712835.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0328",
@@ -4706,7 +5033,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17940163814863567.jpg",
       "media/posts/202409/18005710094446471.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0329",
@@ -4722,7 +5050,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17881796847055401.jpg",
       "media/posts/202409/17915637941988421.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0330",
@@ -4736,7 +5065,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17956173653818530.jpg",
       "media/posts/202409/18370085092100458.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0331",
@@ -4750,7 +5080,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18017984195250273.jpg",
       "media/posts/202409/17926012607949058.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0332",
@@ -4764,7 +5095,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17909662325917824.jpg",
       "media/posts/202409/18243359080280371.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0333",
@@ -4778,7 +5110,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18052630516717019.jpg",
       "media/posts/202409/18454252705061014.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0334",
@@ -4792,7 +5125,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17857434573249713.jpg",
       "media/posts/202409/18304125493166704.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0335",
@@ -4806,7 +5140,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18061415119638837.jpg",
       "media/posts/202409/18017655596278245.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0336",
@@ -4819,7 +5154,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18021282947432690.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0337",
@@ -4832,7 +5168,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18077320975532284.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0338",
@@ -4845,7 +5182,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18468980521019073.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0339",
@@ -4858,7 +5196,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18066796999548088.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0340",
@@ -4871,7 +5210,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17914621571993922.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0341",
@@ -4884,7 +5224,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17957406584814896.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0342",
@@ -4897,7 +5238,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18032100860336563.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0343",
@@ -4910,7 +5252,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18449303059012617.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0344",
@@ -4923,7 +5266,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18130979026368935.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0345",
@@ -4936,7 +5280,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17983191290724921.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0346",
@@ -4949,7 +5294,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18331238875183577.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0347",
@@ -4962,7 +5308,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18035928509138402.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0348",
@@ -4975,7 +5322,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18019031966441603.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0349",
@@ -4988,7 +5336,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17881206657123962.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0350",
@@ -5001,7 +5350,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18042704038953688.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0351",
@@ -5014,7 +5364,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18048918313918339.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0352",
@@ -5027,7 +5378,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18026959643107959.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0353",
@@ -5040,7 +5392,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18336235666120176.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0354",
@@ -5053,7 +5406,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18332166589181214.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0355",
@@ -5066,7 +5420,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18039912697889471.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0356",
@@ -5079,7 +5434,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18061583659646304.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0357",
@@ -5092,7 +5448,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18035951236963652.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0358",
@@ -5105,7 +5462,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18061944139648459.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0359",
@@ -5118,7 +5476,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18055452181802029.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0360",
@@ -5131,7 +5490,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18056358910767287.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0361",
@@ -5144,7 +5504,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17899995422962727.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0362",
@@ -5157,7 +5518,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18035231123174009.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0363",
@@ -5170,7 +5532,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18283886515229999.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0364",
@@ -5183,7 +5546,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17925764798948710.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0365",
@@ -5196,7 +5560,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17938955222783113.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0366",
@@ -5209,7 +5574,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18017454005574824.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0367",
@@ -5222,7 +5588,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17924391977952238.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0368",
@@ -5235,7 +5602,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18094895560459274.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0369",
@@ -5248,7 +5616,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18114668611365110.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0370",
@@ -5261,7 +5630,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17870810781180777.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0371",
@@ -5274,7 +5644,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17847071580296810.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0372",
@@ -5287,7 +5658,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18111458035410414.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0373",
@@ -5300,7 +5672,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17909293353007717.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0374",
@@ -5313,7 +5686,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18070559416602677.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0375",
@@ -5326,7 +5700,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18271459060244812.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0376",
@@ -5339,7 +5714,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18040965818042973.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0377",
@@ -5352,7 +5728,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18009881204620312.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0378",
@@ -5365,7 +5742,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18045531634790158.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0379",
@@ -5378,7 +5756,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17958263384809450.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0380",
@@ -5391,7 +5770,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18076493917534922.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0381",
@@ -5404,7 +5784,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18068567467596610.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0382",
@@ -5417,7 +5798,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17874341694157630.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0383",
@@ -5430,7 +5812,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18013184792542041.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0384",
@@ -5443,7 +5826,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18031673606008473.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0385",
@@ -5456,7 +5840,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18350521810185259.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0386",
@@ -5469,7 +5854,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18052065886698593.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0387",
@@ -5482,7 +5868,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18335234620179486.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0388",
@@ -5495,7 +5882,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17896700805062049.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0389",
@@ -5508,7 +5896,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18301124383166819.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0390",
@@ -5521,7 +5910,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18041223203011207.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0391",
@@ -5534,7 +5924,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18019489097226039.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0392",
@@ -5547,7 +5938,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18163103137311761.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0393",
@@ -5560,7 +5952,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18042515833997307.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0394",
@@ -5573,7 +5966,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18042919838000992.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0395",
@@ -5586,7 +5980,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18063316375628954.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0396",
@@ -5599,7 +5994,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18040403312040111.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0397",
@@ -5612,7 +6008,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17866702923197690.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0398",
@@ -5625,7 +6022,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18042697180955302.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0399",
@@ -5638,7 +6036,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17982010307721219.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0400",
@@ -5651,7 +6050,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18090947023476228.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0401",
@@ -5664,7 +6064,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17984462147587902.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0402",
@@ -5677,7 +6078,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17902522344024927.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0403",
@@ -5690,7 +6092,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18055083034752284.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0404",
@@ -5703,7 +6106,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18053614312832562.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0405",
@@ -5716,7 +6120,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18451540366022151.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0406",
@@ -5729,7 +6134,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17950732232829745.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0407",
@@ -5742,7 +6148,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18110714884406978.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0408",
@@ -5755,7 +6162,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17903511687031440.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0409",
@@ -5768,7 +6176,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17853868392267870.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0410",
@@ -5781,7 +6190,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18044941570941831.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0411",
@@ -5794,7 +6204,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18055480933753208.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0412",
@@ -5807,7 +6218,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18035728139472168.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0413",
@@ -5820,7 +6232,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18030084053195287.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0414",
@@ -5833,7 +6246,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17888166768021751.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0415",
@@ -5846,7 +6260,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18276542833171106.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0416",
@@ -5859,7 +6274,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18079789279521322.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0417",
@@ -5872,7 +6288,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18036830153483011.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0418",
@@ -5885,7 +6302,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18018322991260356.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0419",
@@ -5898,7 +6316,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18082484857511256.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0420",
@@ -5911,7 +6330,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18313893832082420.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0421",
@@ -5924,7 +6344,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18020402318203720.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0422",
@@ -5937,7 +6358,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18019261166446040.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0423",
@@ -5950,7 +6372,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18352401802185717.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0424",
@@ -5963,7 +6386,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17878729215072570.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0425",
@@ -5976,7 +6400,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18039540347039246.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0426",
@@ -5989,7 +6414,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17948753321838665.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0427",
@@ -6002,7 +6428,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18043425436827742.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0428",
@@ -6015,7 +6442,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17909897688006125.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0429",
@@ -6028,7 +6456,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17955563771819165.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0430",
@@ -6041,7 +6470,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18160987825314166.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0431",
@@ -6054,7 +6484,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17868751521191756.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0432",
@@ -6067,7 +6498,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17932160792807907.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0433",
@@ -6080,7 +6512,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18034899464275224.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0434",
@@ -6093,7 +6526,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18332893837176237.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0435",
@@ -6106,7 +6540,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18358496932114701.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0436",
@@ -6119,7 +6554,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18108290899415592.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0437",
@@ -6132,7 +6568,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17896258034982870.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0438",
@@ -6145,7 +6582,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18030962030028001.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0439",
@@ -6158,7 +6596,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18017043407271820.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0440",
@@ -6171,7 +6610,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18017821043256265.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0441",
@@ -6184,7 +6624,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18030303386039882.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0442",
@@ -6197,7 +6638,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17864407800212747.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0443",
@@ -6210,7 +6652,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18240620539277008.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0444",
@@ -6223,7 +6666,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17896275218986075.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0445",
@@ -6236,7 +6680,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18022373405585246.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0446",
@@ -6249,7 +6694,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18019999553409973.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0447",
@@ -6262,7 +6708,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18045902512782226.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0448",
@@ -6275,7 +6722,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18334271620122970.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0449",
@@ -6288,7 +6736,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18312575803086272.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0450",
@@ -6301,7 +6750,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18027256331349833.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0451",
@@ -6314,7 +6764,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18328847599176269.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0452",
@@ -6327,7 +6778,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18089831500481376.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0453",
@@ -6340,7 +6792,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18221003137304869.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0454",
@@ -6353,7 +6806,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18104830708384797.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0455",
@@ -6366,7 +6820,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18245930644256778.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0456",
@@ -6379,7 +6834,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18020159645212252.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0457",
@@ -6392,7 +6848,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18136048201355196.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0458",
@@ -6405,7 +6862,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18251092342301882.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0459",
@@ -6418,7 +6876,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17962829339797641.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0460",
@@ -6431,7 +6890,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17892306266998424.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0461",
@@ -6444,7 +6904,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18078278566522702.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0462",
@@ -6457,7 +6918,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18005963195449511.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0463",
@@ -6471,7 +6933,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18085260199496610.jpg",
       "media/posts/202409/18032794955187528.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0464",
@@ -6484,7 +6947,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18018341240611239.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0465",
@@ -6497,7 +6961,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18024517886369198.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0466",
@@ -6510,7 +6975,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17968477238785842.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0467",
@@ -6523,7 +6989,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18040519601046809.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0468",
@@ -6536,7 +7003,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18060077704661399.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0469",
@@ -6549,7 +7017,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18058110271740939.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0470",
@@ -6562,7 +7031,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18309568447095496.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0471",
@@ -6575,7 +7045,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18018866018595291.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0472",
@@ -6588,7 +7059,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17918017562972305.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0473",
@@ -6601,7 +7073,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18009817487352671.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0474",
@@ -6614,7 +7087,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18039681109885236.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0475",
@@ -6627,7 +7101,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18140480821342322.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0476",
@@ -6640,7 +7115,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17959172567802134.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0477",
@@ -6653,7 +7129,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18106360900420536.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0478",
@@ -6666,7 +7143,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18015697940544824.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0479",
@@ -6679,7 +7157,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18248717821258598.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0480",
@@ -6692,7 +7171,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18060016528730660.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0481",
@@ -6705,7 +7185,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18021443039190534.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0482",
@@ -6718,7 +7199,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18021703619405414.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "ship"
   },
   {
     "id": "post-0483",
@@ -6731,7 +7213,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17984067236588969.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "ship"
   },
   {
     "id": "post-0484",
@@ -6744,7 +7227,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17852719068268310.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "ship"
   },
   {
     "id": "post-0485",
@@ -6757,7 +7241,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18327507235177849.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0486",
@@ -6770,7 +7255,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18069162523588958.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0487",
@@ -6783,7 +7269,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17977609331752726.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0488",
@@ -6796,7 +7283,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17863339119213939.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0489",
@@ -6809,7 +7297,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18039362930104468.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0490",
@@ -6822,7 +7311,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18044191813822691.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0491",
@@ -6835,7 +7325,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18001352624652285.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0492",
@@ -6848,7 +7339,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18039810820885773.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0493",
@@ -6861,7 +7353,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18090777979466768.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0494",
@@ -6874,7 +7367,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18014772122572488.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0495",
@@ -6887,7 +7381,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17934423716912449.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0496",
@@ -6900,7 +7395,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18051504970713565.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0497",
@@ -6913,7 +7409,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17917873472974767.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0498",
@@ -6926,7 +7423,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17862572460162148.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0499",
@@ -6939,7 +7437,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17926631033943504.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0500",
@@ -6952,7 +7451,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18059816269727097.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0501",
@@ -6965,7 +7465,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17984714261719631.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0502",
@@ -6978,7 +7479,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18021794225587811.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0503",
@@ -6991,7 +7493,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18039845891314321.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0504",
@@ -7004,7 +7507,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18348120088189974.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0505",
@@ -7017,7 +7521,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18042303002000048.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0506",
@@ -7030,7 +7535,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18000276221656604.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0507",
@@ -7043,7 +7549,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17878710948133022.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0508",
@@ -7056,7 +7563,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17929657136927782.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0509",
@@ -7069,7 +7577,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18006968057634992.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0510",
@@ -7082,7 +7591,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18352205491189119.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0511",
@@ -7095,7 +7605,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18449874382005047.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0512",
@@ -7108,7 +7619,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18017382560529830.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0513",
@@ -7121,7 +7633,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18267520996219219.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0514",
@@ -7134,7 +7647,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18036679433320631.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0515",
@@ -7147,7 +7661,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18040150720871584.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0516",
@@ -7160,7 +7675,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17893532889073237.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0517",
@@ -7173,7 +7689,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18016074185569556.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0518",
@@ -7186,7 +7703,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18057407932737686.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0519",
@@ -7199,7 +7717,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18091278601473616.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0520",
@@ -7212,7 +7731,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18040946909046725.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0521",
@@ -7225,7 +7745,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17851522269245134.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0522",
@@ -7238,7 +7759,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18027103625090141.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0523",
@@ -7251,7 +7773,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18037210415156664.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0524",
@@ -7264,7 +7787,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18031820303267411.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0525",
@@ -7277,7 +7801,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18054619363761399.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0526",
@@ -7290,7 +7815,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18463735861032409.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0527",
@@ -7303,7 +7829,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18060981364658945.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0528",
@@ -7316,7 +7843,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17972448230773734.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0529",
@@ -7329,7 +7857,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18035537831144035.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0530",
@@ -7342,7 +7871,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18034967768142498.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0531",
@@ -7355,7 +7885,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17924787677841483.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0532",
@@ -7368,7 +7899,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18038678000033089.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0533",
@@ -7381,7 +7913,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18004567040466401.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0534",
@@ -7394,7 +7927,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18064427482622891.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0535",
@@ -7407,7 +7941,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17845033491283719.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0536",
@@ -7420,7 +7955,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18030001625057737.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0537",
@@ -7433,7 +7969,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18037306784505837.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0538",
@@ -7446,7 +7983,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18084669985496724.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0539",
@@ -7459,7 +7997,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17917254800975679.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0540",
@@ -7472,7 +8011,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17952968570712615.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0541",
@@ -7485,7 +8025,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17959783574806044.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0542",
@@ -7498,7 +8039,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18343163449131640.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0543",
@@ -7511,7 +8053,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17896077980984212.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0544",
@@ -7524,7 +8067,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18033394736180707.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0545",
@@ -7537,7 +8081,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17888519424018379.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0546",
@@ -7550,7 +8095,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18022150187171115.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0547",
@@ -7563,7 +8109,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18004250465642262.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0548",
@@ -7576,7 +8123,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18027654128337581.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0549",
@@ -7589,7 +8137,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17964034607668233.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0550",
@@ -7602,7 +8151,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18060392722724668.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0551",
@@ -7615,7 +8165,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17998782005663676.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0552",
@@ -7628,7 +8179,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17994089639651169.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0553",
@@ -7641,7 +8193,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18055222900743917.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0554",
@@ -7654,7 +8207,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18044801626941031.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0555",
@@ -7667,7 +8221,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18320486923157581.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0556",
@@ -7680,7 +8235,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18050538553846620.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0557",
@@ -7693,7 +8249,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18092753791461183.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0558",
@@ -7706,7 +8263,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18020198180424107.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0559",
@@ -7719,7 +8277,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17926200494945121.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0560",
@@ -7732,7 +8291,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18035667512475883.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0561",
@@ -7745,7 +8305,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17853209499267743.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0562",
@@ -7758,7 +8319,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18056187148701962.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0563",
@@ -7771,7 +8333,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18019678394213322.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0564",
@@ -7784,7 +8347,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18241744294274897.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0565",
@@ -7797,7 +8361,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17885821953096656.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0566",
@@ -7810,7 +8375,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17903881250948951.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0567",
@@ -7823,7 +8389,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17970242081777591.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0568",
@@ -7836,7 +8403,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18053497360841127.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0569",
@@ -7849,7 +8417,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17931815333798773.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0570",
@@ -7862,7 +8431,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18303840700164101.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0571",
@@ -7875,7 +8445,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17938277123884493.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0572",
@@ -7888,7 +8459,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18018200156246092.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0573",
@@ -7901,7 +8473,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18117220015384661.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0574",
@@ -7914,7 +8487,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18033480311229261.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0575",
@@ -7927,7 +8501,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18031945511238784.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0576",
@@ -7940,7 +8515,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18002865854643001.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0577",
@@ -7953,7 +8529,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18036623866927532.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0578",
@@ -7966,7 +8543,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18012848183329794.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0579",
@@ -7979,7 +8557,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18037214837113799.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0580",
@@ -7992,7 +8571,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18023768063137604.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0581",
@@ -8005,7 +8585,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18246977716282187.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0582",
@@ -8018,7 +8599,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18036406534929291.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0583",
@@ -8031,7 +8613,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17862320106166331.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0584",
@@ -8044,7 +8627,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18041266339844520.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0585",
@@ -8057,7 +8641,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18030534536193813.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0586",
@@ -8070,7 +8655,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18237676564286951.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0587",
@@ -8083,7 +8669,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18023273675147308.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0588",
@@ -8096,7 +8683,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17985013166578974.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0589",
@@ -8109,7 +8697,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18153907561318314.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0590",
@@ -8122,7 +8711,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18012213764327060.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0591",
@@ -8135,7 +8725,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18016994693271756.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0592",
@@ -8148,7 +8739,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18009674582355665.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0593",
@@ -8161,7 +8753,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18029070503196847.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0594",
@@ -8174,7 +8767,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17872377879169402.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0595",
@@ -8187,7 +8781,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17842589754308423.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0596",
@@ -8200,7 +8795,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18460755751024772.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0597",
@@ -8214,7 +8810,8 @@ window.VMM_POSTS = [
       "media/posts/202409/17980771370724823.jpg",
       "media/posts/202409/17939420591892847.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0598",
@@ -8227,7 +8824,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17968671269646855.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0599",
@@ -8240,7 +8838,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17951081024831583.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0600",
@@ -8253,7 +8852,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18001424717649804.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0601",
@@ -8266,7 +8866,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17871647469170734.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0602",
@@ -8279,7 +8880,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18088311766488034.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0603",
@@ -8292,7 +8894,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17874833634152279.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0604",
@@ -8305,7 +8908,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18427060732070166.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0605",
@@ -8318,7 +8922,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18274284436170281.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0606",
@@ -8331,7 +8936,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17869451400187080.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0607",
@@ -8344,7 +8950,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18019752155402455.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0608",
@@ -8357,7 +8964,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18037380050497062.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0609",
@@ -8370,7 +8978,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18146574559330774.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0610",
@@ -8383,7 +8992,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17931905021801562.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0611",
@@ -8396,7 +9006,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18095456272455006.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0612",
@@ -8409,7 +9020,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18026835269093056.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0613",
@@ -8423,7 +9035,8 @@ window.VMM_POSTS = [
       "media/posts/202409/18456655420014035.jpg",
       "media/posts/202409/17896033367983857.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0614",
@@ -8436,7 +9049,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17991995720526630.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0615",
@@ -8449,7 +9063,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18034218827125940.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0616",
@@ -8462,7 +9077,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17991472901527916.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0617",
@@ -8475,7 +9091,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17842053825303779.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0618",
@@ -8488,7 +9105,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18051622720687544.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0619",
@@ -8501,7 +9119,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18014662601568404.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0620",
@@ -8514,7 +9133,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17891743176077185.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0621",
@@ -8527,7 +9147,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18051938935795450.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0622",
@@ -8540,7 +9161,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18063042409621113.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0623",
@@ -8553,7 +9175,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17989886120528941.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0624",
@@ -8566,7 +9189,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18049888672868217.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0625",
@@ -8579,7 +9203,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17937393077889445.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0626",
@@ -8592,7 +9217,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18456954559042514.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0627",
@@ -8605,7 +9231,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17944628537747563.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0628",
@@ -8618,7 +9245,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18445897318059887.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0629",
@@ -8631,7 +9259,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17935484780899237.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0630",
@@ -8644,7 +9273,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18279615001239124.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0631",
@@ -8657,7 +9287,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18245547688259987.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0632",
@@ -8670,7 +9301,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18024826031108567.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0633",
@@ -8683,7 +9315,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18046060651910271.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0634",
@@ -8696,7 +9329,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18026987192061878.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0635",
@@ -8709,7 +9343,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18196221619294825.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0636",
@@ -8722,7 +9357,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18459717340050529.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0637",
@@ -8735,7 +9371,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18061562008572827.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0638",
@@ -8748,7 +9385,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18017972531214744.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0639",
@@ -8761,7 +9399,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18049813981886310.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0640",
@@ -8774,7 +9413,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18058671973710599.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0641",
@@ -8787,7 +9427,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18043968643940244.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0642",
@@ -8800,7 +9441,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18136762432315382.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0643",
@@ -8813,7 +9455,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18055700347702013.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0644",
@@ -8826,7 +9469,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17854320066252413.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0645",
@@ -8839,7 +9483,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18237446563275172.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0646",
@@ -8852,7 +9497,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18036938141025802.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0647",
@@ -8865,7 +9511,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18012210590321672.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0648",
@@ -8878,7 +9525,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17887997544015636.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0649",
@@ -8891,7 +9539,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18042089143824766.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0650",
@@ -8904,7 +9553,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17934075191911706.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0651",
@@ -8917,7 +9567,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18092155594456955.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0652",
@@ -8930,7 +9581,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17923676141839709.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0653",
@@ -8943,7 +9595,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17986299776559457.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0654",
@@ -8956,7 +9609,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18028597994204893.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0655",
@@ -8970,7 +9624,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18060258166633497.jpg",
       "media/posts/202408/17867607036123298.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0656",
@@ -8983,7 +9638,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17937552494862747.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0657",
@@ -8996,7 +9652,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18072788377553787.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0658",
@@ -9009,7 +9666,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17925705371932045.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0659",
@@ -9022,7 +9680,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17972134415766394.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0660",
@@ -9035,7 +9694,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18011838713330616.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0661",
@@ -9048,7 +9708,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18055885198736625.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0662",
@@ -9061,7 +9722,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18004331306443692.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0663",
@@ -9074,7 +9736,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18045275962749804.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0664",
@@ -9087,7 +9750,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18020929964382059.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0665",
@@ -9100,7 +9764,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18036796217037136.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0666",
@@ -9113,7 +9778,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17977994300726243.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0667",
@@ -9126,7 +9792,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18050194645857130.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0668",
@@ -9139,7 +9806,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17894647493979662.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0669",
@@ -9152,7 +9820,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18016038644260167.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0670",
@@ -9165,7 +9834,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17948767625823994.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0671",
@@ -9178,7 +9848,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18017146370247436.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0672",
@@ -9191,7 +9862,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17912705378988477.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0673",
@@ -9204,7 +9876,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18039531758066528.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0674",
@@ -9217,7 +9890,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18117770128377471.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0675",
@@ -9230,7 +9904,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18098599756432632.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0676",
@@ -9243,7 +9918,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18015576059593267.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0677",
@@ -9256,7 +9932,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18051837955870728.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0678",
@@ -9269,7 +9946,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17968963544772731.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0679",
@@ -9283,7 +9961,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17912369474988419.jpg",
       "media/posts/202408/17900562498021160.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0680",
@@ -9296,7 +9975,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17856186348244086.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0681",
@@ -9309,7 +9989,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17873321463088208.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0682",
@@ -9322,7 +10003,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18033819926142399.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0683",
@@ -9335,7 +10017,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18335442859135700.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0684",
@@ -9349,7 +10032,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17959055939684228.jpg",
       "media/posts/202408/18037900259087278.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "ship"
   },
   {
     "id": "post-0685",
@@ -9362,7 +10046,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18015743660572959.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0686",
@@ -9375,7 +10060,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18035074577117027.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0687",
@@ -9388,7 +10074,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18027785987201390.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0688",
@@ -9402,7 +10089,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18053286727806775.jpg",
       "media/posts/202408/18017728607427937.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0689",
@@ -9415,7 +10103,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18281993242227064.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0690",
@@ -9428,7 +10117,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18075529264546651.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0691",
@@ -9441,7 +10131,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18054052624827145.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0692",
@@ -9454,7 +10145,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18099826717429608.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0693",
@@ -9467,7 +10159,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18093350872460209.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0694",
@@ -9480,7 +10173,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18025170653093632.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0695",
@@ -9493,7 +10187,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18096375880447352.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0696",
@@ -9506,7 +10201,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18043240480790027.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0697",
@@ -9520,7 +10216,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17924598257938835.jpg",
       "media/posts/202408/18069824992577617.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0698",
@@ -9533,7 +10230,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18021344420156164.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0699",
@@ -9546,7 +10244,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17985202145562354.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "ship"
   },
   {
     "id": "post-0700",
@@ -9559,7 +10258,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17999661602656701.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0701",
@@ -9572,7 +10272,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17876139591131097.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0702",
@@ -9585,7 +10286,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18036902066103475.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0703",
@@ -9598,7 +10300,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17860670496215151.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0704",
@@ -9611,7 +10314,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17845137141289176.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0705",
@@ -9624,7 +10328,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18054118378777410.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "ship"
   },
   {
     "id": "post-0706",
@@ -9637,7 +10342,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18065131552607628.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0707",
@@ -9650,7 +10356,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17935800758874281.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0708",
@@ -9663,7 +10370,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17913060095990242.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0709",
@@ -9676,7 +10384,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18073635535556284.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0710",
@@ -9689,7 +10398,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18116582641390779.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0711",
@@ -9702,7 +10412,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17929487072922628.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0712",
@@ -9715,7 +10426,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17934237104875809.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0713",
@@ -9728,7 +10440,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17978743469607831.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0714",
@@ -9741,7 +10454,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18078249820516568.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0715",
@@ -9754,7 +10468,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18040931128954236.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0716",
@@ -9767,7 +10482,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18053280616761940.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0717",
@@ -9781,7 +10497,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18084513538492254.jpg",
       "media/posts/202408/18242090455282157.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0718",
@@ -9794,7 +10511,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18019039547384277.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0719",
@@ -9808,7 +10526,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17938047905896165.jpg",
       "media/posts/202408/18073469377556537.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0720",
@@ -9821,7 +10540,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17872814547151700.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0721",
@@ -9834,7 +10554,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18118368886377440.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0722",
@@ -9847,7 +10568,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18021418967173988.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0723",
@@ -9860,7 +10582,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18355536592113101.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0724",
@@ -9874,7 +10597,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18016476788406392.jpg",
       "media/posts/202408/18014558882529612.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0725",
@@ -9887,7 +10611,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17927089787928683.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0726",
@@ -9900,7 +10625,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18039662803843594.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0727",
@@ -9914,7 +10640,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18057400930679743.jpg",
       "media/posts/202408/18045092494919231.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0728",
@@ -9927,7 +10654,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17860512327217726.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0729",
@@ -9941,7 +10669,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18097745770451288.jpg",
       "media/posts/202408/18016286543604479.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0730",
@@ -9955,7 +10684,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17860908450215931.jpg",
       "media/posts/202408/18244754203260013.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0731",
@@ -9969,7 +10699,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18105218449419661.jpg",
       "media/posts/202408/17925912833930071.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0732",
@@ -9983,7 +10714,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18151549276320249.jpg",
       "media/posts/202408/17974248482757117.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0733",
@@ -9997,7 +10729,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18058643404643041.jpg",
       "media/posts/202408/18307917694087293.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0734",
@@ -10011,7 +10744,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17866697679188385.jpg",
       "media/posts/202408/17890032336073461.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0735",
@@ -10025,7 +10759,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18058246030660252.jpg",
       "media/posts/202408/17929709921922433.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0736",
@@ -10039,7 +10774,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18043123948791437.jpg",
       "media/posts/202408/18316529725155000.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0737",
@@ -10053,7 +10789,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17849419893271293.jpg",
       "media/posts/202408/18276071560213954.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0738",
@@ -10067,7 +10804,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18278449273237061.jpg",
       "media/posts/202408/18037285823019722.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0739",
@@ -10081,7 +10819,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17904786095934885.jpg",
       "media/posts/202408/17987231903549230.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0740",
@@ -10095,7 +10834,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18013019693570438.jpg",
       "media/posts/202408/18052569445745899.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0741",
@@ -10109,7 +10849,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17977993364610390.jpg",
       "media/posts/202408/18008093702629546.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0742",
@@ -10122,7 +10863,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18044829013750723.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0743",
@@ -10136,7 +10878,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17933964203789552.jpg",
       "media/posts/202408/17898794124042672.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0744",
@@ -10149,7 +10892,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17946918080739405.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0745",
@@ -10163,7 +10907,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18015422714579052.jpg",
       "media/posts/202408/17860714218163301.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0746",
@@ -10177,7 +10922,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18453030784056509.jpg",
       "media/posts/202408/18027536561251412.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0747",
@@ -10190,7 +10936,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17913006341987146.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0748",
@@ -10203,7 +10950,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18018189446421908.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0749",
@@ -10216,7 +10964,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18102760732382740.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0750",
@@ -10229,7 +10978,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17903864091009824.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0751",
@@ -10243,7 +10993,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17971268021771376.jpg",
       "media/posts/202408/18035087078143023.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0752",
@@ -10256,7 +11007,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18043224868790065.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0753",
@@ -10270,7 +11022,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18005756420387729.jpg",
       "media/posts/202408/18035070161489446.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0754",
@@ -10284,7 +11037,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18014688293275726.jpg",
       "media/posts/202408/18062322097626588.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0755",
@@ -10297,7 +11051,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18023658035460551.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0756",
@@ -10310,7 +11065,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17927740709818002.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0757",
@@ -10323,7 +11079,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18022804031120160.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0758",
@@ -10336,7 +11093,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18254704636247117.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0759",
@@ -10350,7 +11108,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17880078417053354.jpg",
       "media/posts/202408/18044627128763260.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0760",
@@ -10363,7 +11122,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18036452459495559.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0761",
@@ -10376,7 +11136,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17871754806157251.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0762",
@@ -10390,7 +11151,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17916938390970166.jpg",
       "media/posts/202408/18014571845299594.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0763",
@@ -10403,7 +11165,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18046417231738918.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0764",
@@ -10417,7 +11180,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18024879710341368.jpg",
       "media/posts/202408/17899432365029445.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0765",
@@ -10431,7 +11195,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17980656995722338.jpg",
       "media/posts/202408/18040219436049126.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0766",
@@ -10445,7 +11210,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17911002005992522.jpg",
       "media/posts/202408/17877057681111537.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0767",
@@ -10459,7 +11225,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17974019591621806.jpg",
       "media/posts/202408/18040162633994467.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0768",
@@ -10472,7 +11239,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17915544443882065.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0769",
@@ -10485,7 +11253,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17890382384999334.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0770",
@@ -10499,7 +11268,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18034231319158295.jpg",
       "media/posts/202408/18238253599272081.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0771",
@@ -10512,7 +11282,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17958766643796479.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0772",
@@ -10526,7 +11297,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17895532140052687.jpg",
       "media/posts/202408/18308184127084610.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0773",
@@ -10539,7 +11311,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18049001701845363.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0774",
@@ -10552,7 +11325,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18036443093283392.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0775",
@@ -10565,7 +11339,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18037543622102541.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0776",
@@ -10579,7 +11354,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18045876145916545.jpg",
       "media/posts/202408/18449882578053595.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0777",
@@ -10593,7 +11369,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18010530725539364.jpg",
       "media/posts/202408/17873730957139605.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0778",
@@ -10607,7 +11384,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18057477559675922.jpg",
       "media/posts/202408/18345450478141804.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0779",
@@ -10621,7 +11399,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18327969007180544.jpg",
       "media/posts/202408/18349309318143650.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0780",
@@ -10635,7 +11414,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18276972340213832.jpg",
       "media/posts/202408/17971793186750495.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0781",
@@ -10649,7 +11429,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18323448229146102.jpg",
       "media/posts/202408/18237814261274464.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0782",
@@ -10662,7 +11443,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18051569371831799.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0783",
@@ -10675,7 +11457,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18041367910964546.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0784",
@@ -10689,7 +11472,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18035865302119730.jpg",
       "media/posts/202408/18242952511284594.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0785",
@@ -10703,7 +11487,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18010995386537351.jpg",
       "media/posts/202408/18319415983158432.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0786",
@@ -10717,7 +11502,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18273910780171184.jpg",
       "media/posts/202408/18020625137158860.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0787",
@@ -10731,7 +11517,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17936546543879137.jpg",
       "media/posts/202408/18047141545883151.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0788",
@@ -10745,7 +11532,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18049507591880164.jpg",
       "media/posts/202408/18049694707869527.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0789",
@@ -10759,7 +11547,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18041757175989319.jpg",
       "media/posts/202408/17943902291839998.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0790",
@@ -10774,7 +11563,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18068607013520176.jpg",
       "media/posts/202408/18014923367275777.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0791",
@@ -10789,7 +11579,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18015570734266822.jpg",
       "media/posts/202408/17983025054581552.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0792",
@@ -10804,7 +11595,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17877201813108420.jpg",
       "media/posts/202408/18023318135364900.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0793",
@@ -10819,7 +11611,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18060476167580307.jpg",
       "media/posts/202408/17843200716287830.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0794",
@@ -10834,7 +11627,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18041337724990792.jpg",
       "media/posts/202408/18055637968735597.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0795",
@@ -10849,7 +11643,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18043839268769234.jpg",
       "media/posts/202408/17963123561663030.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0796",
@@ -10864,7 +11659,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17893482528063569.jpg",
       "media/posts/202408/18020060429182636.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0797",
@@ -10879,7 +11675,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17879619561056715.jpg",
       "media/posts/202408/18074741851527918.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0798",
@@ -10894,7 +11691,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17965797509653378.jpg",
       "media/posts/202408/18310891030084666.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0799",
@@ -10909,7 +11707,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18059160232647289.jpg",
       "media/posts/202408/17925758303830606.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0800",
@@ -10924,7 +11723,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18139547188343350.jpg",
       "media/posts/202408/18099609259439692.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0801",
@@ -10941,7 +11741,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18024302972366139.jpg",
       "media/posts/202408/18113197780364989.jpg"
     ],
-    "count": 5
+    "count": 5,
+    "category": "car"
   },
   {
     "id": "post-0802",
@@ -10957,7 +11758,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18048649999849593.jpg",
       "media/posts/202408/17964618116655436.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0803",
@@ -10973,7 +11775,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18016222316579338.jpg",
       "media/posts/202408/18031504475326708.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0804",
@@ -10988,7 +11791,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18032243084182729.jpg",
       "media/posts/202408/18128019262366475.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0805",
@@ -11001,7 +11805,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17923422122841422.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0806",
@@ -11014,7 +11819,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18016453451242950.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0807",
@@ -11027,7 +11833,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18274153864171025.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0808",
@@ -11040,7 +11847,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17899430466024154.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0809",
@@ -11053,7 +11861,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18454371727008214.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "military"
   },
   {
     "id": "post-0810",
@@ -11067,7 +11876,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18153357160316515.jpg",
       "media/posts/202408/18430253188064561.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0811",
@@ -11080,7 +11890,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17948324786729164.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0812",
@@ -11096,7 +11907,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17995852646662941.jpg",
       "media/posts/202408/18088248070474708.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0813",
@@ -11112,7 +11924,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18097596418449074.jpg",
       "media/posts/202408/18057040468661425.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0814",
@@ -11126,7 +11939,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17949934049827825.jpg",
       "media/posts/202408/18257740915247499.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0815",
@@ -11140,7 +11954,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18039062657072451.jpg",
       "media/posts/202408/17887799010088241.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0816",
@@ -11154,7 +11969,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18328584361182220.jpg",
       "media/posts/202408/18039292970062299.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0817",
@@ -11168,7 +11984,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17971833089632015.jpg",
       "media/posts/202408/17920365575951464.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0818",
@@ -11183,7 +12000,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18241688794280671.jpg",
       "media/posts/202408/18039275023858327.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0819",
@@ -11200,7 +12018,8 @@ window.VMM_POSTS = [
       "media/posts/18447921994047795.jpg",
       "media/posts/18050003668702578.jpg"
     ],
-    "count": 5
+    "count": 5,
+    "category": "car"
   },
   {
     "id": "post-0820",
@@ -11215,7 +12034,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17920317857953733.jpg",
       "media/posts/202408/17857554840185146.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0821",
@@ -11228,7 +12048,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18135895510353237.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0822",
@@ -11241,7 +12062,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17868679734172746.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0823",
@@ -11254,7 +12076,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17897540657963627.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0824",
@@ -11268,7 +12091,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17965804286784119.jpg",
       "media/posts/202408/18219865927303440.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0825",
@@ -11283,7 +12107,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18345730273188891.jpg",
       "media/posts/202408/17915945339878708.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0826",
@@ -11296,7 +12121,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17924451173941063.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0827",
@@ -11312,7 +12138,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18011322788541590.jpg",
       "media/posts/202408/18003915593426376.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0828",
@@ -11326,7 +12153,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18274819168212840.jpg",
       "media/posts/202408/17919308606862874.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0829",
@@ -11343,7 +12171,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18043249939937395.jpg",
       "media/posts/202408/18455964823001633.jpg"
     ],
-    "count": 5
+    "count": 5,
+    "category": "car"
   },
   {
     "id": "post-0830",
@@ -11356,7 +12185,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18073254832548527.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0831",
@@ -11370,7 +12200,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18047809204809941.jpg",
       "media/posts/202408/18096695170447038.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0832",
@@ -11383,7 +12214,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18057130405672621.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0833",
@@ -11398,7 +12230,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18014410763613462.jpg",
       "media/posts/202408/18064480420611763.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0834",
@@ -11413,7 +12246,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17886350193089199.jpg",
       "media/posts/202408/18053201668743007.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0835",
@@ -11427,7 +12261,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18346595779189217.jpg",
       "media/posts/202408/18021563897381636.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0836",
@@ -11441,7 +12276,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18030927299323989.jpg",
       "media/posts/202408/17842565688295903.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0837",
@@ -11454,7 +12290,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18359342281110165.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0838",
@@ -11467,7 +12304,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18287698321203482.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0839",
@@ -11480,7 +12318,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18362022397110507.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0840",
@@ -11494,7 +12333,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17876763393111069.jpg",
       "media/posts/202408/18034883891507749.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0841",
@@ -11508,7 +12348,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18450949162025812.jpg",
       "media/posts/202408/18007529576358972.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0842",
@@ -11522,7 +12363,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18022794833521648.jpg",
       "media/posts/202408/17961756440666005.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0843",
@@ -11536,7 +12378,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18243950932257152.jpg",
       "media/posts/202408/18031006466512989.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0844",
@@ -11550,7 +12393,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18017485148388345.jpg",
       "media/posts/202408/17934818621866137.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0845",
@@ -11563,7 +12407,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18041216464987387.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0846",
@@ -11577,7 +12422,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17994034493674154.jpg",
       "media/posts/202408/18056469673668761.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "car"
   },
   {
     "id": "post-0847",
@@ -11593,7 +12439,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18263852719222704.jpg",
       "media/posts/202408/18127789081367502.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "car"
   },
   {
     "id": "post-0848",
@@ -11608,7 +12455,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17973266168756948.jpg",
       "media/posts/202408/18009964667335129.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0849",
@@ -11621,7 +12469,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18100075426430814.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0850",
@@ -11634,7 +12483,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17913112478987390.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0851",
@@ -11647,7 +12497,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18307009150089630.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0852",
@@ -11660,7 +12511,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18098471008437514.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0853",
@@ -11673,7 +12525,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17914141172977661.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0854",
@@ -11686,7 +12539,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18368561668102762.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0855",
@@ -11699,7 +12553,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17846317545265525.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "motorcycle"
   },
   {
     "id": "post-0856",
@@ -11712,7 +12567,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17875156707137029.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0857",
@@ -11725,7 +12581,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18058725472727136.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0858",
@@ -11738,7 +12595,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18069138793569119.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0859",
@@ -11751,7 +12609,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18153097759317320.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0860",
@@ -11764,7 +12623,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18054292810692097.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0861",
@@ -11777,7 +12637,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18061038661564860.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0862",
@@ -11790,7 +12651,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18011598044616845.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0863",
@@ -11803,7 +12665,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17985035474563355.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0864",
@@ -11816,7 +12679,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17861355213209266.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0865",
@@ -11829,7 +12693,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17972141318628562.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0866",
@@ -11842,7 +12707,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18030388304233735.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0867",
@@ -11855,7 +12721,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18037806332311035.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0868",
@@ -11868,7 +12735,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18448063534052188.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0869",
@@ -11881,7 +12749,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17930107475918996.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0870",
@@ -11894,7 +12763,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17906519372992233.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0871",
@@ -11907,7 +12777,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18107104759412827.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0872",
@@ -11920,7 +12791,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18038435930104003.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0873",
@@ -11933,7 +12805,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17934916976897682.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0874",
@@ -11946,7 +12819,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18272775463170230.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0875",
@@ -11959,7 +12833,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18045185215926385.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0876",
@@ -11972,7 +12847,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18056229577707969.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "ship"
   },
   {
     "id": "post-0877",
@@ -11985,7 +12861,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18042618079789716.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "ship"
   },
   {
     "id": "post-0878",
@@ -11998,7 +12875,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18132968341320191.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "ship"
   },
   {
     "id": "post-0879",
@@ -12011,7 +12889,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18055667587665546.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0880",
@@ -12024,7 +12903,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18039244513846912.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0881",
@@ -12037,7 +12917,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18052026952769276.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "car"
   },
   {
     "id": "post-0882",
@@ -12052,7 +12933,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17888021241083658.jpg",
       "media/posts/202408/18017774750413509.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0883",
@@ -12065,7 +12947,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18049111912879154.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0884",
@@ -12078,7 +12961,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18007101830378561.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0885",
@@ -12091,7 +12975,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18246369163257004.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0886",
@@ -12104,7 +12989,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18135555019353517.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0887",
@@ -12117,7 +13003,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17879707212079353.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0888",
@@ -12130,7 +13017,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18014831198527172.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0889",
@@ -12143,7 +13031,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18041594845815941.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0890",
@@ -12156,7 +13045,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17997026345665760.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0891",
@@ -12169,7 +13059,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18273984976171569.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0892",
@@ -12182,7 +13073,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17849306724240201.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0893",
@@ -12195,7 +13087,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18353593108113359.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0894",
@@ -12208,7 +13101,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18022014239522360.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0895",
@@ -12221,7 +13115,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18008888417339177.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0896",
@@ -12234,7 +13129,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18362417329110023.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0897",
@@ -12247,7 +13143,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18049498903803094.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0898",
@@ -12260,7 +13157,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18097096342444044.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0899",
@@ -12273,7 +13171,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18007190756343065.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0900",
@@ -12286,7 +13185,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18033269714165523.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0901",
@@ -12299,7 +13199,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18029991272190422.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0902",
@@ -12312,7 +13213,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17938284362857127.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0903",
@@ -12326,7 +13228,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18028493801213443.jpg",
       "media/posts/202408/17934269087868188.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0904",
@@ -12339,7 +13242,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/18348743275189867.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0905",
@@ -12353,7 +13257,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18057358222665534.jpg",
       "media/posts/202408/18048564520877741.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0906",
@@ -12367,7 +13272,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18060310726652245.jpg",
       "media/posts/202408/18003734738427749.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0907",
@@ -12381,7 +13287,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18043141784298142.jpg",
       "media/posts/202408/18031676423177517.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0908",
@@ -12395,7 +13302,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18014185691613198.jpg",
       "media/posts/202408/17916181826970509.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0909",
@@ -12409,7 +13317,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18054675865692612.jpg",
       "media/posts/202408/18003027149459411.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0910",
@@ -12423,7 +13332,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18011439158561823.jpg",
       "media/posts/202408/18449572504011397.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0911",
@@ -12436,7 +13346,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17950502858824651.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0912",
@@ -12450,7 +13361,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18055950181736848.jpg",
       "media/posts/202408/18004749878418709.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0913",
@@ -12464,7 +13376,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18052621816769003.jpg",
       "media/posts/202408/17898191201961326.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0914",
@@ -12478,7 +13391,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18012017894614366.jpg",
       "media/posts/202408/17962410992795232.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0915",
@@ -12492,7 +13406,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18019461752170951.jpg",
       "media/posts/202408/18450399607057563.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0916",
@@ -12506,7 +13421,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17893708761059404.jpg",
       "media/posts/202408/17924706833936172.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0917",
@@ -12520,7 +13436,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18020839103387296.jpg",
       "media/posts/202408/18058772578646824.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0918",
@@ -12534,7 +13451,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18035441459115112.jpg",
       "media/posts/202408/17996158070507953.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0919",
@@ -12548,7 +13466,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17946684674831464.jpg",
       "media/posts/202408/18014784698580484.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0920",
@@ -12562,7 +13481,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17842422801294979.jpg",
       "media/posts/202408/18116195863385155.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0921",
@@ -12576,7 +13496,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18049131307853472.jpg",
       "media/posts/202408/17904536444935711.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0922",
@@ -12590,7 +13511,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18038140729879323.jpg",
       "media/posts/202408/18017981675584400.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0923",
@@ -12604,7 +13526,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18273637678171894.jpg",
       "media/posts/202408/18049427878855388.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0924",
@@ -12618,7 +13541,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18021565535373567.jpg",
       "media/posts/202408/18028187387195889.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0925",
@@ -12632,7 +13556,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18072865135557716.jpg",
       "media/posts/202408/17942504858847976.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0926",
@@ -12646,7 +13571,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17972790764758751.jpg",
       "media/posts/202408/17933705597790905.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0927",
@@ -12660,7 +13586,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17971614425759121.jpg",
       "media/posts/202408/17874043161117377.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0928",
@@ -12674,7 +13601,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17897500496966230.jpg",
       "media/posts/202408/17875312527135489.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0929",
@@ -12688,7 +13616,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18038738954069118.jpg",
       "media/posts/202408/18011817239553027.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0930",
@@ -12702,7 +13631,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17852157636219708.jpg",
       "media/posts/202408/17966087342784678.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0931",
@@ -12716,7 +13646,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18028716020204038.jpg",
       "media/posts/202408/17868486942172716.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0932",
@@ -12730,7 +13661,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18017389499204088.jpg",
       "media/posts/202408/18038538661997771.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0933",
@@ -12744,7 +13676,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18011525096562006.jpg",
       "media/posts/202408/18134607175355268.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0934",
@@ -12758,7 +13691,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18032819929981449.jpg",
       "media/posts/202408/18053821069778594.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0935",
@@ -12772,7 +13706,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17873273229145932.jpg",
       "media/posts/202408/18095084035454027.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0936",
@@ -12787,7 +13722,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18032762959971258.jpg",
       "media/posts/202408/18064547653607605.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "car"
   },
   {
     "id": "post-0937",
@@ -12801,7 +13737,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17956572365691524.jpg",
       "media/posts/202408/18047725078810114.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0938",
@@ -12816,7 +13753,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17887468071084848.jpg",
       "media/posts/202408/17990277581693710.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0939",
@@ -12830,7 +13768,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18362431960106492.jpg",
       "media/posts/202408/18047275690857481.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0940",
@@ -12844,7 +13783,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18056643949734079.jpg",
       "media/posts/202408/17934971867885597.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0941",
@@ -12858,7 +13798,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18241591606282645.jpg",
       "media/posts/202408/17891648994064044.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0942",
@@ -12872,7 +13813,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18370425361096342.jpg",
       "media/posts/202408/18333696400125626.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0943",
@@ -12886,7 +13828,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17936968292884497.jpg",
       "media/posts/202408/18047818210884158.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0944",
@@ -12900,7 +13843,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18017246042405705.jpg",
       "media/posts/202408/18009454397619416.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0945",
@@ -12914,7 +13858,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18017977022204503.jpg",
       "media/posts/202408/18450116878062208.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0946",
@@ -12928,7 +13873,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17968941008780948.jpg",
       "media/posts/202408/18090596251480872.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0947",
@@ -12943,7 +13889,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18056943442676481.jpg",
       "media/posts/202408/18019949219164654.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0948",
@@ -12958,7 +13905,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18044293969766086.jpg",
       "media/posts/202408/18058427884730756.jpg"
     ],
-    "count": 3
+    "count": 3,
+    "category": "aircraft"
   },
   {
     "id": "post-0949",
@@ -12975,7 +13923,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17983045118710534.jpg",
       "media/posts/202408/18027446990258545.jpg"
     ],
-    "count": 5
+    "count": 5,
+    "category": "car"
   },
   {
     "id": "post-0950",
@@ -12989,7 +13938,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18020260961161612.jpg",
       "media/posts/202408/18456581461047558.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0951",
@@ -13002,7 +13952,8 @@ window.VMM_POSTS = [
     "images": [
       "media/other/17897811339044060.jpg"
     ],
-    "count": 1
+    "count": 1,
+    "category": "aircraft"
   },
   {
     "id": "post-0952",
@@ -13016,7 +13967,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18038415746088958.jpg",
       "media/posts/202408/17971175978762901.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0953",
@@ -13030,7 +13982,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18068687941516766.jpg",
       "media/posts/202408/18043255075801861.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0954",
@@ -13044,7 +13997,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18078863707503499.jpg",
       "media/posts/202408/18039465397982791.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0955",
@@ -13058,7 +14012,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18107871862408044.jpg",
       "media/posts/202408/17950913735715027.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0956",
@@ -13072,7 +14027,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18338071714132104.jpg",
       "media/posts/202408/17926046843826754.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0957",
@@ -13086,7 +14042,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18126305890329070.jpg",
       "media/posts/202408/17845746714278417.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0958",
@@ -13100,7 +14057,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18088303483473380.jpg",
       "media/posts/202408/18029821739189099.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0959",
@@ -13114,7 +14072,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18010337696538599.jpg",
       "media/posts/202408/18316926619152652.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0960",
@@ -13128,7 +14087,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18037623251059560.jpg",
       "media/posts/202408/18037694123015830.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0961",
@@ -13142,7 +14102,8 @@ window.VMM_POSTS = [
       "media/posts/202408/17863186281198331.jpg",
       "media/posts/202408/18010088513548013.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "military"
   },
   {
     "id": "post-0962",
@@ -13156,7 +14117,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18044499871926379.jpg",
       "media/posts/202408/17843181702292492.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0963",
@@ -13170,7 +14132,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18006659150631235.jpg",
       "media/posts/202408/18048541222873329.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0964",
@@ -13184,7 +14147,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18076051852521626.jpg",
       "media/posts/202408/18035933525508484.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0965",
@@ -13198,7 +14162,8 @@ window.VMM_POSTS = [
       "media/posts/202408/18069011797502066.jpg",
       "media/posts/202408/17912353310988893.jpg"
     ],
-    "count": 2
+    "count": 2,
+    "category": "aircraft"
   },
   {
     "id": "post-0966",
@@ -13214,6 +14179,7 @@ window.VMM_POSTS = [
       "media/posts/202408/18086802619468432.jpg",
       "media/posts/202408/18042980212801584.jpg"
     ],
-    "count": 4
+    "count": 4,
+    "category": "aircraft"
   }
 ];
