@@ -479,5 +479,1005 @@ window.VMM_TRANSLATIONS = {
     "it": {
       "caption": "Aereo d’assalto notturno, con linee molto pulite per essere un biplano. #1/72 #resinkit #Go145"
     }
+  },
+  "post-0101": {
+    "it": {
+      "caption": "Maggiori informazioni: https://www.youtube.com/watch?v=fWTOW-aZ8TM&ab_channel=EdNash%27sMilitaryMatters"
+    }
+  },
+  "post-0102": {
+    "it": {
+      "caption": "JG77 “Hertz-As”. Ottimo lavoro da parte di Heller nel produrre questa rara variante tarda del Me109."
+    }
+  },
+  "post-0103": {
+    "it": {
+      "caption": "Caccia leggero sperimentale del 1943."
+    }
+  },
+  "post-0104": {
+    "it": {
+      "caption": "Un altro soggetto innovativo, per l’epoca, proposto da FROG."
+    }
+  },
+  "post-0105": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0106": {
+    "it": {
+      "caption": "Pilotato da Emil Demuth, 3/JG1, Leck, maggio 1945."
+    }
+  },
+  "post-0107": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0108": {
+    "it": {
+      "caption": "Modello di dimensioni notevoli. In realtà non risulta esistere alcun codice di squadrone “ZH”; “ZK” apparteneva al 25th Sqn tra settembre 1940 e novembre 1942, ma operava dall’Inghilterra, quindi quella mimetica non sarebbe corretta."
+    }
+  },
+  "post-0109": {
+    "it": {
+      "caption": "Appena montato; modello di dimensioni davvero notevoli."
+    }
+  },
+  "post-0110": {
+    "it": {
+      "caption": "Come corse nel WRC 2000."
+    }
+  },
+  "post-0111": {
+    "it": {
+      "caption": "Aereo imponente per dimensioni e carico bellico."
+    }
+  },
+  "post-0112": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0113": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0114": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0115": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0116": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0117": {
+    "it": {
+      "caption": "Prototipo di aereo da ricognizione; primo volo nell’agosto 1947."
+    }
+  },
+  "post-0118": {
+    "it": {
+      "caption": "Progetto di caccia a reazione di fine guerra, pensato per il “Jägernotprogramm” del 1945 come caccia monoreattore d’emergenza."
+    }
+  },
+  "post-0119": {
+    "it": {
+      "caption": "1st Fighter Group, 94th Fighter Interceptor Squadron, Selfridge, Michigan, 1959."
+    }
+  },
+  "post-0120": {
+    "it": {
+      "caption": "Volevo vedere che aspetto avrebbe avuto un FW154 monoposto."
+    }
+  },
+  "post-0121": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0122": {
+    "it": {
+      "caption": "No. 812 Sqn, Fleet Air Arm, HMS Glory, Corea, 1951."
+    }
+  },
+  "post-0123": {
+    "it": {
+      "caption": "144th Sqn, RAF Coastal Command, Scozia, 1944/45."
+    }
+  },
+  "post-0124": {
+    "it": {
+      "caption": "Incompleto, come merita un aereo così sfortunato."
+    }
+  },
+  "post-0125": {
+    "it": {
+      "caption": "236 Sqn RAF, North Coates, giugno 1944."
+    }
+  },
+  "post-0126": {
+    "it": {
+      "caption": "Un delizioso piccolo convoglio stradale."
+    }
+  },
+  "post-0127": {
+    "it": {
+      "caption": "Purtroppo incompiuto."
+    }
+  },
+  "post-0128": {
+    "it": {
+      "caption": "Bloch MB200 in servizio ceco. Aspetto davvero severo."
+    }
+  },
+  "post-0129": {
+    "it": {
+      "caption": "La più grande nave da battaglia del mondo."
+    }
+  },
+  "post-0130": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0131": {
+    "it": {
+      "caption": "Numero 233, Aeronautica cobelligerante di Vichy, novembre 1942, Clermont-Ferrand."
+    }
+  },
+  "post-0132": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0133": {
+    "it": {
+      "caption": "Enorme portaerei basata su uno scafo classe Yamato. Fu affondata durante il trasferimento, dieci giorni dopo l’entrata in servizio, il 29 novembre 1944, da quattro siluri del sommergibile statunitense Archerfish."
+    }
+  },
+  "post-0134": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0135": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0136": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0137": {
+    "it": {
+      "caption": "Rappresenta un aereo tedesco catturato. Mi scuso per il modello incompleto, ancora in attesa dei tiranti."
+    }
+  },
+  "post-0138": {
+    "it": {
+      "caption": "43-34915, Jack Woolams, 1944: prototipo di caccia leggero."
+    }
+  },
+  "post-0139": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0140": {
+    "it": {
+      "caption": "Bel modello per mostrare l’abitacolo completamente visibile."
+    }
+  },
+  "post-0141": {
+    "it": {
+      "caption": "Come corse nel WRC 2011. Soggetto insolito e molto piacevole."
+    }
+  },
+  "post-0142": {
+    "it": {
+      "caption": "Costruita nel 1953 e affondata tra il 26 e il 27 novembre 1954. Maggiori informazioni: https://www.manstonhistory.org.uk/south-goodwin-lightship-disaster-2627th-november-1954/"
+    }
+  },
+  "post-0143": {
+    "it": {
+      "caption": "Come corse nel campionato All Japan GT 1999: vettura e livrea molto d’impatto."
+    }
+  },
+  "post-0144": {
+    "it": {
+      "caption": "Mansell, GP del Portogallo 1989."
+    }
+  },
+  "post-0145": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0146": {
+    "it": {
+      "caption": "Come corse nel Campionato del Mondo di Formula 1 2012."
+    }
+  },
+  "post-0147": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0148": {
+    "it": {
+      "caption": "In attesa delle decals per la liberazione di Mussolini al Gran Sasso."
+    }
+  },
+  "post-0149": {
+    "it": {
+      "caption": "Maggiori informazioni sul kit: https://kitchecker.com/reviews_2019_1/revell_03276.htm"
+    }
+  },
+  "post-0150": {
+    "it": {
+      "caption": "Un progetto di van assolutamente splendido, nato dall’inventiva di Tom Daniels: un vero trionfo di ingegneria e fantasia. E, come se non bastasse, include anche una motocicletta, perché naturalmente nessun custom van che si rispetti sarebbe completo senza."
+    }
+  },
+  "post-0151": {
+    "it": {
+      "caption": "Come corse nel WRC 2011."
+    }
+  },
+  "post-0152": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0153": {
+    "it": {
+      "caption": "Model year 2010. Attraente aspetto rétro."
+    }
+  },
+  "post-0154": {
+    "it": {
+      "caption": "Come corse Riccardo Patrese nel Campionato del Mondo di Formula 1 1990."
+    }
+  },
+  "post-0155": {
+    "it": {
+      "caption": "Supercar affascinante."
+    }
+  },
+  "post-0156": {
+    "it": {
+      "caption": "Tashkent, 1991."
+    }
+  },
+  "post-0157": {
+    "it": {
+      "caption": "349th Squadron, fine 1945, base aerea di Fassberg."
+    }
+  },
+  "post-0158": {
+    "it": {
+      "caption": "Modello 1994 #10 Tide T-Bird di Ricky Rudd."
+    }
+  },
+  "post-0159": {
+    "it": {
+      "caption": "WZ974, No. 827 Sqn, HMS Eagle, 1955. Aspetto intrigante; Trumpeter ha persino previsto gli ingranaggi per le eliche controrotanti."
+    }
+  },
+  "post-0160": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0161": {
+    "it": {
+      "caption": "Enorme carro dall’aspetto minaccioso, appena uscito dalla fabbrica. Storia completa: https://tanks-encyclopedia.com/e100-entwicklung-100/"
+    }
+  },
+  "post-0162": {
+    "it": {
+      "caption": "No. 5 Glider Training School, RAF Shobdon, Regno Unito, 1943."
+    }
+  },
+  "post-0163": {
+    "it": {
+      "caption": "Piccolo carro molto corazzato, davvero simpatico. Maggiori informazioni: https://tanks-encyclopedia.com/ww2/germany/panzer_i_ausff.php"
+    }
+  },
+  "post-0164": {
+    "it": {
+      "caption": "Carro da ricognizione pesantemente corazzato, con cingoli a maglie funzionanti: li adoro."
+    }
+  },
+  "post-0165": {
+    "it": {
+      "caption": "Come corse Ayrton Senna nel 1992."
+    }
+  },
+  "post-0166": {
+    "it": {
+      "caption": "#22 Joey Logano, Shell Pennzoil."
+    }
+  },
+  "post-0167": {
+    "it": {
+      "caption": "Ne furono costruiti solo due; sorprendentemente uno sopravvisse alla guerra ed è oggi esposto al museo dei carri di Mosca."
+    }
+  },
+  "post-0168": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0169": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0170": {
+    "it": {
+      "caption": "Insegne dell’asso italiano Francesco Baracca; il cavallino rampante fu poi ripreso dalla Ferrari."
+    }
+  },
+  "post-0171": {
+    "it": {
+      "caption": "Marina Militare Italiana, Corpus Christi NAS, 29 settembre 1952."
+    }
+  },
+  "post-0172": {
+    "it": {
+      "caption": "Come corse nel Campionato di Formula 1 1997."
+    }
+  },
+  "post-0173": {
+    "it": {
+      "caption": "Come corse nel Campionato di Formula 1 1993."
+    }
+  },
+  "post-0174": {
+    "it": {
+      "caption": "Faceva parte del kit “Mistel”."
+    }
+  },
+  "post-0175": {
+    "it": {
+      "caption": "Jasta 15, Chery-le-Pouilly, luglio 1918."
+    }
+  },
+  "post-0176": {
+    "it": {
+      "caption": "Vincitrice della Parigi-Dakar 1989."
+    }
+  },
+  "post-0177": {
+    "it": {
+      "caption": "Pilotato da Ernst Udet, Jasta 4, 1918."
+    }
+  },
+  "post-0178": {
+    "it": {
+      "caption": "Bel kit."
+    }
+  },
+  "post-0179": {
+    "it": {
+      "caption": "Livrea speciale IAF. Purtroppo incompleto."
+    }
+  },
+  "post-0180": {
+    "it": {
+      "caption": "Aeronautica ceca."
+    }
+  },
+  "post-0181": {
+    "it": {
+      "caption": "Bella livrea speciale dell’Aeronautica ceca."
+    }
+  },
+  "post-0182": {
+    "it": {
+      "caption": "Stagione WRC 2000, pilota Colin McRae."
+    }
+  },
+  "post-0183": {
+    "it": {
+      "caption": "Come corse nel campionato CART 1993."
+    }
+  },
+  "post-0184": {
+    "it": {
+      "caption": "Livrea WRC 1999."
+    }
+  },
+  "post-0185": {
+    "it": {
+      "caption": "Vincitrice del Rally dell’Acropoli 1983."
+    }
+  },
+  "post-0186": {
+    "it": {
+      "caption": "Corse alla 24 Ore di Le Mans 1997."
+    }
+  },
+  "post-0187": {
+    "it": {
+      "caption": "Corse nel WRC 1999."
+    }
+  },
+  "post-0188": {
+    "it": {
+      "caption": "VMSB-231, Pacifico meridionale, 1944."
+    }
+  },
+  "post-0189": {
+    "it": {
+      "caption": "Uccello raro: ne fu costruito uno solo. Maggiori informazioni: https://theaviationgeekclub.com/the-story-of-the-ya-10b-formerly-night-adverse-weather-a-10-the-only-the-only-two-seat-warthog-ever-built/"
+    }
+  },
+  "post-0190": {
+    "it": {
+      "caption": "Idea geniale, vero? Lanciare una berlina a velocità furibonda in pista fa davvero vibrare lo spirito."
+    }
+  },
+  "post-0191": {
+    "it": {
+      "caption": "Per Giove, la livrea Jägermeister non manca mai di deliziare la retina con il suo splendore assolutamente irresistibile."
+    }
+  },
+  "post-0192": {
+    "it": {
+      "caption": "Come corse nel JTCC 1995."
+    }
+  },
+  "post-0193": {
+    "it": {
+      "caption": "VF-5, 1938, USS Yorktown. Kit intrigante, con carrello retrattile funzionante. Bellissima livrea prebellica."
+    }
+  },
+  "post-0194": {
+    "it": {
+      "caption": "Corse nella stagione di Formula 1 1978."
+    }
+  },
+  "post-0195": {
+    "it": {
+      "caption": "Maggiori informazioni: https://www.youtube.com/watch?v=HIrJfwS-JDQ&ab_channel=CudaCody"
+    }
+  },
+  "post-0196": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0197": {
+    "it": {
+      "caption": "Vincitrice del Rally di Monte Carlo 1980."
+    }
+  },
+  "post-0198": {
+    "it": {
+      "caption": "Prodotta dal 1998 al 2005."
+    }
+  },
+  "post-0199": {
+    "it": {
+      "caption": "Classica livrea Gulf, come corse alla 24 Ore di Le Mans."
+    }
+  },
+  "post-0200": {
+    "it": {
+      "caption": "Stile incredibilmente avanzato e personale, eppure effettivamente prodotto in serie. Tuttavia, i SUV a due porte non sono molto popolari. Maggiori informazioni: https://www.youtube.com/watch?v=ZOszin9227Q&t=17s&ab_channel=DougDeMuro"
+    }
+  },
+  "post-0201": {
+    "it": {
+      "caption": "Kit in metallo."
+    }
+  },
+  "post-0202": {
+    "it": {
+      "caption": "Corse nel campionato di Formula 1 2005, pilota Kimi Räikkönen."
+    }
+  },
+  "post-0203": {
+    "it": {
+      "caption": "Conversione alla versione molto più gradevole, con nuova elica quadripala e presa d’aria inferiore della cappottatura."
+    }
+  },
+  "post-0204": {
+    "it": {
+      "caption": "Il modello mostra un velivolo RAF sulla linea di produzione, prima della verniciatura."
+    }
+  },
+  "post-0205": {
+    "it": {
+      "caption": "Versione bimotore migliorata del G91, molto più bella."
+    }
+  },
+  "post-0206": {
+    "it": {
+      "caption": "264 Sqn, Linton-on-Ouse, Regno Unito, 1957. Bel kit con tettucci e radome opzionali."
+    }
+  },
+  "post-0207": {
+    "it": {
+      "caption": "Scala insolita."
+    }
+  },
+  "post-0208": {
+    "it": {
+      "caption": "Lt. Günther von Büren, Jasta 18, Montingen, settembre 1918. https://www.facebook.com/photo/?fbid=945304484281153&set=a.459597029518570"
+    }
+  },
+  "post-0209": {
+    "it": {
+      "caption": "Frank Hawks volò con il suo Northrop Gamma 2A “Sky Chief” da Los Angeles a New York in un tempo record di 13 ore, 26 minuti e 15 secondi il 2 giugno 1933. Modello di Franco Donati."
+    }
+  },
+  "post-0210": {
+    "it": {
+      "caption": "Molto graziosa con la Union Jack sul tetto."
+    }
+  },
+  "post-0211": {
+    "it": {
+      "caption": "Team Chip Ganassi, pilota Alex Zanardi, vincitore del campionato CART 1996."
+    }
+  },
+  "post-0212": {
+    "it": {
+      "caption": "Pilotato dall’asso Lt. Don Gentile. Insegne molto colorate."
+    }
+  },
+  "post-0213": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0214": {
+    "it": {
+      "caption": "Come corse nel DTM 2009 con Tom Kristensen."
+    }
+  },
+  "post-0215": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0216": {
+    "it": {
+      "caption": "Come corse nel 2007 con Kimi Räikkönen, campione del mondo quell’anno. Da notare il particolare rosso Ferrari usato nel 2007."
+    }
+  },
+  "post-0217": {
+    "it": {
+      "caption": "Pilotato da Helmut Wick, Geschwaderkommodore del JG2 “Richthofen”. Secondo kit della mitica serie Airfix in scala 1/24."
+    }
+  },
+  "post-0218": {
+    "it": {
+      "caption": "Livrea di fine guerra. Maggiori informazioni: https://www.youtube.com/watch?v=JUziAyx6hG4"
+    }
+  },
+  "post-0219": {
+    "it": {
+      "caption": "Subaru World Rally Team 5 (Burns/Reid), maggio 1999, Tour de Corse - Rally de France, Corsica. Risultato: 7° posto. Livrea molto attraente."
+    }
+  },
+  "post-0220": {
+    "it": {
+      "caption": "Stile interessante. Maggiori informazioni: https://www.youtube.com/watch?v=DVva06i2mHM"
+    }
+  },
+  "post-0221": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0222": {
+    "it": {
+      "caption": "Appena uscito dalla fabbrica."
+    }
+  },
+  "post-0223": {
+    "it": {
+      "caption": "Maggiori informazioni: https://www.youtube.com/watch?v=EWhYSuO_F64&ab_channel=DEVGRU5022"
+    }
+  },
+  "post-0224": {
+    "it": {
+      "caption": "Corse nel campionato All Japan GT 1999."
+    }
+  },
+  "post-0225": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0226": {
+    "it": {
+      "caption": "Lo Scammell Scarab era un “cavallo meccanico” britannico a tre ruote, usato soprattutto per trasporti leggeri in città dagli anni Quaranta agli anni Sessanta. Spesso trainava rimorchi come quello di questo modello, con merci come barili e altri carichi. Maggiori informazioni: https://www.youtube.com/watch?v=GkwEfeE6GGs&ab_channel=ClassicVehicleChannel. Uno dei primi kit che ricordo."
+    }
+  },
+  "post-0227": {
+    "it": {
+      "caption": "Carro svedese."
+    }
+  },
+  "post-0228": {
+    "it": {
+      "caption": "Il codice 9K dovrebbe appartenere al KG51 Edelweiss."
+    }
+  },
+  "post-0229": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0230": {
+    "it": {
+      "caption": "Livrea insolita."
+    }
+  },
+  "post-0231": {
+    "it": {
+      "caption": "Vincitrice della classe GT a Le Mans nel 2006."
+    }
+  },
+  "post-0232": {
+    "it": {
+      "caption": "Auto interessante e bella livrea. Maggiori informazioni: https://www.youtube.com/watch?v=gsW39P0bgaM"
+    }
+  },
+  "post-0233": {
+    "it": {
+      "caption": "Auto introdotta nel 1996."
+    }
+  },
+  "post-0234": {
+    "it": {
+      "caption": "Sull’auto: https://www.youtube.com/watch?v=CyfdCS3deDc&ab_channel=RareCars"
+    }
+  },
+  "post-0235": {
+    "it": {
+      "caption": "SV:VS20, USS Princeton, 1956."
+    }
+  },
+  "post-0236": {
+    "it": {
+      "caption": "4th Wing, 3rd Squadron. Modello grande e livrea molto appariscente."
+    }
+  },
+  "post-0237": {
+    "it": {
+      "caption": "Elicottero operativo nella Seconda guerra mondiale. Kit delicato."
+    }
+  },
+  "post-0238": {
+    "it": {
+      "caption": "Purtroppo senza decals. Modello enorme in questa scala."
+    }
+  },
+  "post-0239": {
+    "it": {
+      "caption": "Come corse alla 24 Ore di Le Mans nel 1978. L’ala posteriore con winglets era magnifica dal punto di vista aerodinamico."
+    }
+  },
+  "post-0240": {
+    "it": {
+      "caption": "Corse a Le Mans nel 1990. Concetto aerodinamico interessante per l’epoca."
+    }
+  },
+  "post-0241": {
+    "it": {
+      "caption": "Soggetto interessante in questa piccola scala."
+    }
+  },
+  "post-0242": {
+    "it": {
+      "caption": "Piccolo modello grazioso con una livrea bellissima."
+    }
+  },
+  "post-0243": {
+    "it": {
+      "caption": "Campionato Gruppo C 1988-89."
+    }
+  },
+  "post-0244": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0245": {
+    "it": {
+      "caption": "Royal Iraqi Air Force, 1931-1958, 1 Sqn, Habbaniya."
+    }
+  },
+  "post-0246": {
+    "it": {
+      "caption": "DTM 2012, Martin Tomczyk. Iconica livrea BMW Motorsport."
+    }
+  },
+  "post-0247": {
+    "it": {
+      "caption": "Come corse nel Campionato del Mondo di Formula 1 1999."
+    }
+  },
+  "post-0248": {
+    "it": {
+      "caption": "Corse nella stagione di Formula 1 1982: Renault F1 Team 15, Alain Prost, luglio 1982, GP di Francia, Circuit Paul Ricard, Le Castellet. Risultato: 2°."
+    }
+  },
+  "post-0249": {
+    "it": {
+      "caption": "HWA Team 10, Gary Paffett, 2009."
+    }
+  },
+  "post-0250": {
+    "it": {
+      "caption": "First National City Bank, Elf Team Tyrrell 4, Patrick Depailler, maggio 1977, GP di Monaco. Risultato: ritirato. Testimonianza di una creatività ormai passata in Formula Uno."
+    }
+  },
+  "post-0251": {
+    "it": {
+      "caption": "Corse a Le Mans nel 1998; linee insolite e livrea colorata."
+    }
+  },
+  "post-0252": {
+    "it": {
+      "caption": "Bel kit in questa grande scala."
+    }
+  },
+  "post-0253": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0254": {
+    "it": {
+      "caption": "Il 262 appare molto meglio con l’abitacolo avanzato e probabilmente avrebbe potuto raggiungere numeri di Mach più elevati grazie a una minore resistenza d’onda, con valori migliori secondo la “regola delle aree”."
+    }
+  },
+  "post-0255": {
+    "it": {
+      "caption": "Sukhoi Design Bureau, 1977."
+    }
+  },
+  "post-0256": {
+    "it": {
+      "caption": "Elicottero stealth immaginario, davvero molto bello."
+    }
+  },
+  "post-0257": {
+    "it": {
+      "caption": "Vincitrice a Le Mans 2006 con Biela, Pirro e Werner; motore turbodiesel."
+    }
+  },
+  "post-0258": {
+    "it": {
+      "caption": "Evoluzione estrema della cellula del Me262, con motori alle radici alari e abitacolo incorporato nella deriva."
+    }
+  },
+  "post-0259": {
+    "it": {
+      "caption": "Corse nel 2009; per maggiori informazioni: https://www.wixy500.com/build-diary-2009-ferrari-f60-tamiya-120-scale/"
+    }
+  },
+  "post-0260": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0261": {
+    "it": {
+      "caption": "Incredibile biplano russo con ala inferiore retrattile."
+    }
+  },
+  "post-0262": {
+    "it": {
+      "caption": "Piccolo kit grazioso."
+    }
+  },
+  "post-0263": {
+    "it": {
+      "caption": "La famosa “Black Beauty” in tutto il suo splendore, vincitrice del Campionato di Formula 1 1978, in un’epoca in cui le F1 erano tutte diverse tra loro, al contrario di oggi."
+    }
+  },
+  "post-0264": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0265": {
+    "it": {
+      "caption": "Modello grande."
+    }
+  },
+  "post-0266": {
+    "it": {
+      "caption": "Bellissima auto iconica. Scala insolita; purtroppo incompleta."
+    }
+  },
+  "post-0267": {
+    "it": {
+      "caption": "La Lotus 56 fu progettata da Maurice Philippe come vettura Lotus per la 500 Miglia di Indianapolis 1968, sostituendo la fortunata Lotus 38. Basata sulla vettura a turbina STP Granatelli di Parnelli Jones, che aveva quasi vinto nel 1967, il team di Colin Chapman produsse un progetto ancora più innovativo. La 56 aveva una forma a cuneo su ruote, nello stesso spirito della successiva Lotus 72, anch’essa progettata da Philippe e Chapman. Il motore era una turbina a gas Pratt & Whitney da oltre 500 hp; per sfruttarne al meglio la potenza, la vettura aveva la trazione integrale, usata anche sulla Lotus 63 senza successo. In gara Joe Leonard era saldamente in testa a pochi giri dal termine quando il motore cedette. L’innovazione Lotus irritò l’ente regolatore americano, e poco dopo l’USAC dichiarò illegali le vetture a turbina e la trazione integrale, con grande frustrazione di Chapman."
+    }
+  },
+  "post-0268": {
+    "it": {
+      "caption": "Caccia bimotore elegante e slanciato."
+    }
+  },
+  "post-0269": {
+    "it": {
+      "caption": "Aereo dall’enorme apertura alare."
+    }
+  },
+  "post-0270": {
+    "it": {
+      "caption": "55 Escadrille, Brig de Bombardment, 1939. Da notare le insegne nazionali asimmetriche, presumibilmente pensate per confondere l’attaccante."
+    }
+  },
+  "post-0271": {
+    "it": {
+      "caption": "No. 845 NAS, B-N/XT456, 1966, HMS Bulwark."
+    }
+  },
+  "post-0272": {
+    "it": {
+      "caption": "Prima nave mercantile a propulsione nucleare, varata il 21 luglio 1959."
+    }
+  },
+  "post-0273": {
+    "it": {
+      "caption": "Deutsche Luft Hansa AG."
+    }
+  },
+  "post-0274": {
+    "it": {
+      "caption": "US Navy, Shanghai, Cina, 1945."
+    }
+  },
+  "post-0275": {
+    "it": {
+      "caption": "9676/39-F, giugno 1944, Seconda guerra mondiale, Operazione Overlord, Normandia, Francia."
+    }
+  },
+  "post-0276": {
+    "it": {
+      "caption": "320 Transport Squadron, 27 Transport Group, 35389 “Stella Mac” (SPLM C.S. Webster/FYC M.E. Janus), 1945, Le Bourget. Il kit forniva anche i galleggianti."
+    }
+  },
+  "post-0277": {
+    "it": {
+      "caption": "Mazda 787B, vincitrice a Le Mans 1991 con Weidler, Herbert e Gachot. Storica vittoria di un’auto con motore rotativo."
+    }
+  },
+  "post-0278": {
+    "it": {
+      "caption": "È mostrata anche un’enorme testata per la versione “Mistel”."
+    }
+  },
+  "post-0279": {
+    "it": {
+      "caption": "Regia Aeronautica, CAI, Belgio, 1941."
+    }
+  },
+  "post-0280": {
+    "it": {
+      "caption": "Primo tentativo di evidenziare pannelli in metallo naturale differenti."
+    }
+  },
+  "post-0281": {
+    "it": {
+      "caption": "Come corse a Le Mans nell’anno 2000."
+    }
+  },
+  "post-0282": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0283": {
+    "it": {
+      "caption": "Pilota Manuel Reuter. Le portiere ad ala di gabbiano funzionanti del modello sono notevoli."
+    }
+  },
+  "post-0284": {
+    "it": {
+      "caption": "Il mio primo ricordo di un kit, ma purtroppo con il primo esemplare ci giocai e lo distrussi."
+    }
+  },
+  "post-0285": {
+    "it": {
+      "caption": "Model year 1991."
+    }
+  },
+  "post-0286": {
+    "it": {
+      "caption": "GP di Silverstone, 7 aprile 1974."
+    }
+  },
+  "post-0287": {
+    "it": {
+      "caption": "Corse nella stagione del Campionato di Formula 1 2010."
+    }
+  },
+  "post-0288": {
+    "it": {
+      "caption": "Corse nella stagione del Campionato di Formula 1 dell’anno 2000."
+    }
+  },
+  "post-0289": {
+    "it": {
+      "caption": "Corse nel 1939."
+    }
+  },
+  "post-0290": {
+    "it": {
+      "caption": "Corse nella stagione del Campionato di Formula 1 2005, pilota Kimi Räikkönen."
+    }
+  },
+  "post-0291": {
+    "it": {
+      "caption": "Belle linee della vettura. La livrea celebra l’800° Gran Premio di Formula 1 della Ferrari; corse nella stagione 2010."
+    }
+  },
+  "post-0292": {
+    "it": {
+      "caption": "Splendido sviluppo aerodinamico della Porsche 935, Le Mans 1978."
+    }
+  },
+  "post-0293": {
+    "it": {
+      "caption": "Come corse nel Campionato GT giapponese 1995."
+    }
+  },
+  "post-0294": {
+    "it": {
+      "caption": "Grande moto vincente, kit enorme e davvero impressionante."
+    }
+  },
+  "post-0295": {
+    "it": {
+      "caption": "Maggiori informazioni: https://www.youtube.com/watch?v=HRuSEQCXun0&ab_channel=JoshBrinson"
+    }
+  },
+  "post-0296": {
+    "it": {
+      "caption": "Campionato di Formula 1 2003."
+    }
+  },
+  "post-0297": {
+    "it": {
+      "caption": "Campionato di Formula 1 1996, #16 Nick Heidfeld."
+    }
+  },
+  "post-0298": {
+    "it": {
+      "caption": "Stagione WRC 2000."
+    }
+  },
+  "post-0299": {
+    "it": {
+      "caption": "Cinquant’anni tra le due."
+    }
+  },
+  "post-0300": {
+    "it": {
+      "caption": "T. Mäkinen / R. Mannisenmäki, vincitrice del Rally di Monte Carlo, 18-21 gennaio 2001."
+    }
   }
 };
