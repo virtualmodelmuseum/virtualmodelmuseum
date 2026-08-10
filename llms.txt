@@ -1,0 +1,9 @@
+# Virtual Model Museum
+
+Virtual Model Museum is a family scale modelling archive with individual pages for aircraft, cars, military vehicles, motorcycles and ships.
+
+Main site: https://virtualmodelmuseum.github.io/virtualmodelmuseum/
+All model pages: https://virtualmodelmuseum.github.io/virtualmodelmuseum/models/
+Sitemap: https://virtualmodelmuseum.github.io/virtualmodelmuseum/sitemap.xml
+
+The collection includes kit names, scales, captions, dates and image galleries for 966 scale model posts.

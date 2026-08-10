@@ -1,0 +1,66 @@
+VIRTUAL MODEL MUSEUM - STRONG SEO STATIC PAGES UPDATE
+
+Questo aggiornamento crea una struttura molto piu' indicizzabile per Google:
+
+- 966 pagine statiche, una per ogni modello:
+  /models/nome-modello-post-0001/
+- pagina indice:
+  /models/
+- pagine categoria:
+  /categories/aircraft/
+  /categories/cars/
+  /categories/military-vehicles/
+  /categories/ships/
+  /categories/motorcycles/
+- sitemap.xml con tutte le pagine e le immagini principali
+- robots.txt aggiornato
+- dati strutturati JSON-LD su ogni pagina modello
+- breadcrumb JSON-LD
+- meta title e description unici
+- Open Graph e Twitter preview
+- llms.txt per leggibilita' da parte di strumenti AI
+- piccolo patch opzionale per aggiungere link interni dalla homepage
+
+Come applicarlo:
+
+1. Estrai questo ZIP.
+2. Copia questi elementi nella cartella principale del sito:
+   - models
+   - categories
+   - assets
+   - sitemap.xml
+   - robots.txt
+   - 404.html
+   - llms.txt
+   - APPLY_STRONG_SEO_HOMEPAGE_LINKS.bat
+   - apply_strong_seo_homepage_links.ps1
+
+3. Quando Windows chiede, scegli "Sostituisci i file nella destinazione".
+
+4. Fai doppio clic su:
+   APPLY_STRONG_SEO_HOMEPAGE_LINKS.bat
+
+5. Apri in locale:
+   models/index.html
+
+6. Se funziona, apri GitHub Desktop:
+   Summary: Add static SEO model pages
+   Commit to main
+   Push origin
+
+Dopo il push:
+
+1. Apri il sito online:
+   https://virtualmodelmuseum.github.io/virtualmodelmuseum/models/
+
+2. In Google Search Console:
+   - Sitemaps
+   - invia: sitemap.xml
+   - URL Inspection
+   - richiedi indicizzazione per:
+     https://virtualmodelmuseum.github.io/virtualmodelmuseum/
+     https://virtualmodelmuseum.github.io/virtualmodelmuseum/models/
+
+Nota:
+Questo aggiornamento non sostituisce il sito interattivo esistente.
+Aggiunge pagine statiche pensate per aiutare Google a capire e indicizzare meglio ogni modello.
