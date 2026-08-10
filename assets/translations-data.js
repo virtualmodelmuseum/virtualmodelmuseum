@@ -1479,5 +1479,3390 @@ window.VMM_TRANSLATIONS = {
     "it": {
       "caption": "T. Mäkinen / R. Mannisenmäki, vincitrice del Rally di Monte Carlo, 18-21 gennaio 2001."
     }
+  },
+  "post-0020": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0027": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0030": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0073": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0074": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0079": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0080": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0082": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0084": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0085": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0090": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0301": {
+    "it": {
+      "caption": "Livrea anno 2000."
+    }
+  },
+  "post-0302": {
+    "it": {
+      "caption": "Notevole trasformazione di una Peugeot 205 con passo allungato e motore centrale.\nMaggiori informazioni: https://www.youtube.com/watch?v=ivIvEkNQRio"
+    }
+  },
+  "post-0303": {
+    "it": {
+      "caption": "Stagione 2005 del Campionato del Mondo di F1."
+    }
+  },
+  "post-0304": {
+    "it": {
+      "caption": "WRC 2004, pilota Markus Grönholm."
+    }
+  },
+  "post-0305": {
+    "it": {
+      "caption": "Rallye des Garrigues Midi Libre Nimes 1986."
+    }
+  },
+  "post-0306": {
+    "it": {
+      "caption": "Safari Rally 2002."
+    }
+  },
+  "post-0307": {
+    "it": {
+      "caption": "Modello grande e bello."
+    }
+  },
+  "post-0308": {
+    "it": {
+      "caption": "Stagione di Formula 1 2002, Allan MsNish."
+    }
+  },
+  "post-0309": {
+    "it": {
+      "caption": "Best auto del 1982 campionato di F1 but unlucky."
+    }
+  },
+  "post-0310": {
+    "it": {
+      "caption": "Amazing moto e bel kit."
+    }
+  },
+  "post-0311": {
+    "it": {
+      "caption": "Livrea Nice assembled metal modello, beautiful."
+    }
+  },
+  "post-0312": {
+    "it": {
+      "caption": "IMSA 1986."
+    }
+  },
+  "post-0313": {
+    "it": {
+      "caption": "Norike Abe Le Mans 20 maggio 2001."
+    }
+  },
+  "post-0314": {
+    "it": {
+      "caption": "Troy Bayliss 2003."
+    }
+  },
+  "post-0315": {
+    "it": {
+      "caption": "Valentino Rossi Italian Gran Premio Mugello 2 giugno 2002."
+    }
+  },
+  "post-0316": {
+    "it": {
+      "caption": "Rossi 2001."
+    }
+  },
+  "post-0317": {
+    "it": {
+      "caption": "Loris Capirossi 2001."
+    }
+  },
+  "post-0318": {
+    "it": {
+      "caption": "Pilota: Thierry Boutsen, Spa Francorchamps 1988."
+    }
+  },
+  "post-0319": {
+    "it": {
+      "caption": "Campionato di F1 1985."
+    }
+  },
+  "post-0320": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0321": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0322": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0323": {
+    "it": {
+      "caption": "Il vecchio classico rivisitato, bella auto."
+    }
+  },
+  "post-0324": {
+    "it": {
+      "caption": "Valentino Rossi 2001.\nPiccolo kit grazioso."
+    }
+  },
+  "post-0325": {
+    "it": {
+      "caption": "Added bubble tettuccio e paddle blade elica."
+    }
+  },
+  "post-0326": {
+    "it": {
+      "caption": "Pilota: Andera DeCesaris F1 World Championship 1991."
+    }
+  },
+  "post-0327": {
+    "it": {
+      "caption": "Detailed decal insegne."
+    }
+  },
+  "post-0328": {
+    "it": {
+      "caption": "Sports coupe con iconic gull-ala doors."
+    }
+  },
+  "post-0329": {
+    "it": {
+      "caption": "2003 stile rétro pickup, piuttosto originale.\nMaggiori informazioni: https://www.youtube.com/watch?v=0-eWzZuXUQg&t=948s&ab_channel=DougDeMuro\nMaggiori informazioni: https://www.youtube.com/watch?v=JSQABPZ8y_8&ab_channel=Saabkyle04\nMaggiori informazioni: https://www.youtube.com/watch?v=kKM8I6G_dQw&ab_channel=TFLclassics"
+    }
+  },
+  "post-0330": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0331": {
+    "it": {
+      "caption": "Corse una Le Mans nel 1997."
+    }
+  },
+  "post-0332": {
+    "it": {
+      "caption": "Vincitrice Kleinschmidt-Pons. Paris-Dakar 2001.\nSnap-on kit. very colorata."
+    }
+  },
+  "post-0333": {
+    "it": {
+      "caption": "Corse una Le Mans nel 1979 Info: https://www.autothrottle.com/post/rzokmkm/.\nPurtroppo nella scatola del kit mancavano le decals."
+    }
+  },
+  "post-0334": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0335": {
+    "it": {
+      "caption": "Stagione F1 2003, 7 Jarno Trulli."
+    }
+  },
+  "post-0336": {
+    "it": {
+      "caption": "Di fine guerra tedesco medium autoro progetto.\nExperimenting con mimetica net."
+    }
+  },
+  "post-0337": {
+    "it": {
+      "caption": "marking as da soviet Russia invasion di Czechoslovakia Praga 20 agosto 1968."
+    }
+  },
+  "post-0338": {
+    "it": {
+      "caption": "revolutionary style con double headlight."
+    }
+  },
+  "post-0339": {
+    "it": {
+      "caption": "Piccolo kit grazioso devo controllare il company."
+    }
+  },
+  "post-0340": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0341": {
+    "it": {
+      "caption": "Heavy figther prototipo.\nUn altro metallo naturale cutie, che's more like lo."
+    }
+  },
+  "post-0342": {
+    "it": {
+      "caption": "Forward swept ala test aereo, primo volo 14. dicembre 1984."
+    }
+  },
+  "post-0343": {
+    "it": {
+      "caption": "#1/35 Express."
+    }
+  },
+  "post-0344": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0345": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0346": {
+    "it": {
+      "caption": "Guidata da Ayrton Senna in 1990.\nStagione di F1."
+    }
+  },
+  "post-0347": {
+    "it": {
+      "caption": "Come corse nel 2016."
+    }
+  },
+  "post-0348": {
+    "it": {
+      "caption": "Il sopra l’ala jettisonable tanks sono unique."
+    }
+  },
+  "post-0349": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0350": {
+    "it": {
+      "caption": "Buffa forma, insolito kit soggetto."
+    }
+  },
+  "post-0351": {
+    "it": {
+      "caption": "Fleet Requirements Unit VW967 1953 - Hurn Airport.\nBella aereo linee."
+    }
+  },
+  "post-0352": {
+    "it": {
+      "caption": "Cannone d’assalto progetto con una enorme gun, side mimetica attempting una resemble una brick wall."
+    }
+  },
+  "post-0353": {
+    "it": {
+      "caption": "Proposta per una antiautoro semovente."
+    }
+  },
+  "post-0354": {
+    "it": {
+      "caption": "Prototipo di heavy figther, settembre 1937 piuttosto una novel forma, alu finitura in tutto il suo splendore."
+    }
+  },
+  "post-0355": {
+    "it": {
+      "caption": "Finally una way una correctly represent alluminio naturale in modellos using kitchen foil, piuttosto happy about che."
+    }
+  },
+  "post-0356": {
+    "it": {
+      "caption": "Lieutnant Charles Nungesser Escadrille N.65 inverno 1916."
+    }
+  },
+  "post-0357": {
+    "it": {
+      "caption": "Bella aereo linee, reproduced by una grazioso minuscolo piccolo kit."
+    }
+  },
+  "post-0358": {
+    "it": {
+      "caption": "IMHO il modello forma resembles more una P51 H, il modello can well be 70 years old.\nModello di Franco Donati."
+    }
+  },
+  "post-0359": {
+    "it": {
+      "caption": "Conversione una represent una Italian Marina Militare elicottero, including Marte missile con launcher e decals, use di Humbrol arancione fluorescente vernice speciale."
+    }
+  },
+  "post-0360": {
+    "it": {
+      "caption": "Changed decals una represent una Aeronautica Militare Italiana aereo."
+    }
+  },
+  "post-0361": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0362": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0363": {
+    "it": {
+      "caption": "Versione monoposto."
+    }
+  },
+  "post-0364": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0365": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0366": {
+    "it": {
+      "caption": "Uno dei primi russo jet figthers."
+    }
+  },
+  "post-0367": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0368": {
+    "it": {
+      "caption": "Dorsal fairing added, unfortunately ancora senza decals."
+    }
+  },
+  "post-0369": {
+    "it": {
+      "caption": "Squadrone VF 213."
+    }
+  },
+  "post-0370": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0371": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0372": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0373": {
+    "it": {
+      "caption": "Versione aerosilurante del G55, one prototipo costruito."
+    }
+  },
+  "post-0374": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0375": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0376": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0377": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0378": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0379": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0380": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0381": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0382": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0383": {
+    "it": {
+      "caption": "Ultima evoluzione del P40."
+    }
+  },
+  "post-0384": {
+    "it": {
+      "caption": "Un altro meritorious soggetto choice da FROG una quell’epoca."
+    }
+  },
+  "post-0385": {
+    "it": {
+      "caption": "Much hopes on il kit but somewhat disappointed due unal difficulty di reproducing cromo e alluminio una quell’epoca."
+    }
+  },
+  "post-0386": {
+    "it": {
+      "caption": "Pilotato da Maj Preddy, ace in una day on 6 August 1944."
+    }
+  },
+  "post-0387": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0388": {
+    "it": {
+      "caption": "Piuttosto una avanzato forma per l’epoca."
+    }
+  },
+  "post-0389": {
+    "it": {
+      "caption": "Piuttosto una intrigante aereo, thanks Paolo per il kit."
+    }
+  },
+  "post-0390": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0391": {
+    "it": {
+      "caption": "Belle ali."
+    }
+  },
+  "post-0392": {
+    "it": {
+      "caption": "notevole dimensioni per una single motore aereo, kit trovato nel UK."
+    }
+  },
+  "post-0393": {
+    "it": {
+      "caption": "Superfast successore del Mosquito.\nI still remember il excessive thickness del modello's vertical piano di coda."
+    }
+  },
+  "post-0394": {
+    "it": {
+      "caption": "Nigel Walpole No72 SQN raf Germany Güterschloh aprile 1956."
+    }
+  },
+  "post-0395": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0396": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0397": {
+    "it": {
+      "caption": "Il mio preferito, ci ho giocato una lot con lo but lo managed una survive nevertheless, e con una stiff upper lip."
+    }
+  },
+  "post-0398": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0399": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0400": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0401": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0402": {
+    "it": {
+      "caption": "Modello costruito da Franco Donati."
+    }
+  },
+  "post-0403": {
+    "it": {
+      "caption": "Primo aereo a superare 400mph. Il kit fu pubblicato nel 1957 e costruito più o meno in quel periodo."
+    }
+  },
+  "post-0404": {
+    "it": {
+      "caption": "Il primo aereo modello ricordo, lo must have been bello flying in lo, confortevole e con la protezione di una completamente rotante torretta armata."
+    }
+  },
+  "post-0405": {
+    "it": {
+      "caption": "No. 830 NAS WN325 1956 Crisi di Suez - HMS Eagle Egypt.\nLivrea Nice aircraft shape e."
+    }
+  },
+  "post-0406": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0407": {
+    "it": {
+      "caption": "No.111 Squadron RFC Julis Palestine 1918."
+    }
+  },
+  "post-0408": {
+    "it": {
+      "caption": "My primo.\nModello realizzato in collaborazione con Franco Donati."
+    }
+  },
+  "post-0409": {
+    "it": {
+      "caption": "Mi chiedo perché mai l’abbia messo su galleggianti."
+    }
+  },
+  "post-0410": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0411": {
+    "it": {
+      "caption": "…e è proprio luis merry companion, il also raro Me109.\nModello di Franco Donati."
+    }
+  },
+  "post-0412": {
+    "it": {
+      "caption": "Sì, è proprio lui! Il primissimo kit Airfix di aereo in tutto il suo splendore.\nModello di Franco Donati."
+    }
+  },
+  "post-0413": {
+    "it": {
+      "caption": "Possibly e old small scala giapponese kit.\nModello di Franco Donati."
+    }
+  },
+  "post-0414": {
+    "it": {
+      "caption": "Battle del Bismarck Sea 2-4 marzo 1943 Modello by Franco Donati."
+    }
+  },
+  "post-0415": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0416": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0417": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0418": {
+    "it": {
+      "caption": "Conversione del kit Airfix by adding una new radome."
+    }
+  },
+  "post-0419": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0420": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0421": {
+    "it": {
+      "caption": "Primo modello bought by me at 'Modellolismo e Pesca'.\nModello costruito in cooperation con Franco Donati."
+    }
+  },
+  "post-0422": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0423": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0424": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0425": {
+    "it": {
+      "caption": "5180/18 Western Front Autumn 1918.\nLarge ground attack biplane con cantilever ali, bell’aereo forma."
+    }
+  },
+  "post-0426": {
+    "it": {
+      "caption": "Operation Steinbock 1944."
+    }
+  },
+  "post-0427": {
+    "it": {
+      "caption": "Scak#le: 1/48."
+    }
+  },
+  "post-0428": {
+    "it": {
+      "caption": "Insolito kit soggetto in those old tims."
+    }
+  },
+  "post-0429": {
+    "it": {
+      "caption": "Added underfuselage cannons."
+    }
+  },
+  "post-0430": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0431": {
+    "it": {
+      "caption": "Jagdstaffel (Jasta) 10 156/18 (ObLt. Erich Loewenhardt) agosto 1918 World War 1 - Chambré Airfield, Laon FR."
+    }
+  },
+  "post-0432": {
+    "it": {
+      "caption": "Pilotato da Ernst Udet Jasta4 June 1918."
+    }
+  },
+  "post-0433": {
+    "it": {
+      "caption": "bel kit per l’epoca."
+    }
+  },
+  "post-0434": {
+    "it": {
+      "caption": "3./SAGr. 125 JA+FH aprile 1943 - Konstanza RO."
+    }
+  },
+  "post-0435": {
+    "it": {
+      "caption": "Just before bailing out."
+    }
+  },
+  "post-0436": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0437": {
+    "it": {
+      "caption": "Primo encounter con il mysterious 81/82 colors."
+    }
+  },
+  "post-0438": {
+    "it": {
+      "caption": "Questo fu uno dei primi kits una represent some del raro birds del Second ,World War, apologies per il crude mottled effects e oversize wastika."
+    }
+  },
+  "post-0439": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0440": {
+    "it": {
+      "caption": "5180/18 Western Front Autumn 1918 Bello insolito modello."
+    }
+  },
+  "post-0441": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0442": {
+    "it": {
+      "caption": "Canopy fu fogged by glue, replacement part kindly provided by Airfix."
+    }
+  },
+  "post-0443": {
+    "it": {
+      "caption": "Primo kit comprato, at 'La Gioia dei Bimbi'.\nIl 75mm cannon looks disproportionate."
+    }
+  },
+  "post-0444": {
+    "it": {
+      "caption": "Added radome per FuG-240 \"Berlin\" radar."
+    }
+  },
+  "post-0445": {
+    "it": {
+      "caption": "Il side scanning radar makes il modello rather unique."
+    }
+  },
+  "post-0446": {
+    "it": {
+      "caption": "Some sort di Grenatenwerfer WG21 added under il ala.\n#1(82."
+    }
+  },
+  "post-0447": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0448": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0449": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0450": {
+    "it": {
+      "caption": "Feldfliegerabteilung (FFA) 2b (Ritter von Schleich/Eduard-Maria) agosto 1916.\nModello di Franco Donati."
+    }
+  },
+  "post-0451": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0452": {
+    "it": {
+      "caption": "Bel kit complete con detailed launching tower."
+    }
+  },
+  "post-0453": {
+    "it": {
+      "caption": "Easy but colorata e grazioso snap-on kit."
+    }
+  },
+  "post-0454": {
+    "it": {
+      "caption": "Kit motorizzato."
+    }
+  },
+  "post-0455": {
+    "it": {
+      "caption": "Changed ali e piano di coda."
+    }
+  },
+  "post-0456": {
+    "it": {
+      "caption": "Livrea as da John Players racing team 1968-1971."
+    }
+  },
+  "post-0457": {
+    "it": {
+      "caption": "Livrea as da Lotus racing nel'60s."
+    }
+  },
+  "post-0458": {
+    "it": {
+      "caption": "Il kit fu based on leaked spy photos e il modello forma fu updatd (added radome etc)."
+    }
+  },
+  "post-0459": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0460": {
+    "it": {
+      "caption": "Twin seat versione, il modello fu still based on speculations e spy photos."
+    }
+  },
+  "post-0461": {
+    "it": {
+      "caption": "Rather notevole e insolito modello."
+    }
+  },
+  "post-0462": {
+    "it": {
+      "caption": "Bell’aereo type, wooden constrution."
+    }
+  },
+  "post-0463": {
+    "it": {
+      "caption": "Avanzato versione con longer nose , FLIR e gun turret."
+    }
+  },
+  "post-0464": {
+    "it": {
+      "caption": "Also in questo case, una notevole kit in questa scala."
+    }
+  },
+  "post-0465": {
+    "it": {
+      "caption": "New nose added do depict una newer versione."
+    }
+  },
+  "post-0466": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0467": {
+    "it": {
+      "caption": "Old heller kit, bello memories in primo dealing con aerodynamic shapes."
+    }
+  },
+  "post-0468": {
+    "it": {
+      "caption": "These two modellos erano included nel Landkreuzer 'Ratte' modello kit."
+    }
+  },
+  "post-0469": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0470": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0471": {
+    "it": {
+      "caption": "Modello costruito da Franco Donati, old Airfix kit."
+    }
+  },
+  "post-0472": {
+    "it": {
+      "caption": "Modello build by Franco Donati. Noteworthy how il modello well survived my 'attentions'."
+    }
+  },
+  "post-0473": {
+    "it": {
+      "caption": "Hilarious progetto di una gigantic autoro, autorying una cruiser nave gun turret."
+    }
+  },
+  "post-0474": {
+    "it": {
+      "caption": "Insolito kit per l’epoca in questo grande scala."
+    }
+  },
+  "post-0475": {
+    "it": {
+      "caption": "Intricate e detailed kit per l’epoca."
+    }
+  },
+  "post-0476": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0477": {
+    "it": {
+      "caption": "Working transmossion chain."
+    }
+  },
+  "post-0478": {
+    "it": {
+      "caption": "Lolvey kit di una glamorous buffa auto by Tom Daniel."
+    }
+  },
+  "post-0479": {
+    "it": {
+      "caption": "Apologies, I will try una do something about lo."
+    }
+  },
+  "post-0480": {
+    "it": {
+      "caption": "old motorized autoro kit da una giapponese company."
+    }
+  },
+  "post-0481": {
+    "it": {
+      "caption": "Lovely kit in una insolito scala; pre-painted body, funzionante torsion bar suspensions."
+    }
+  },
+  "post-0482": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0483": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0484": {
+    "it": {
+      "caption": "USS Melvin (DD-680), Fletcher class destroyer US Navy.\nEnorme kit, can be used per radio control."
+    }
+  },
+  "post-0485": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0486": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0487": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0488": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0489": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0490": {
+    "it": {
+      "caption": "Insolito modello, bello low slung SPG."
+    }
+  },
+  "post-0491": {
+    "it": {
+      "caption": "Bella auto ancora oggi."
+    }
+  },
+  "post-0492": {
+    "it": {
+      "caption": "Insolito look, rather top heavy indeed."
+    }
+  },
+  "post-0493": {
+    "it": {
+      "caption": "Insolito aereo type."
+    }
+  },
+  "post-0494": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0495": {
+    "it": {
+      "caption": "Just progetto."
+    }
+  },
+  "post-0496": {
+    "it": {
+      "caption": "I wanted una check how una Pz IV con sloped armor would look like."
+    }
+  },
+  "post-0497": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0498": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0499": {
+    "it": {
+      "caption": "My Luft'46 mania."
+    }
+  },
+  "post-0500": {
+    "it": {
+      "caption": "604th Special Operations Sqn 3rd TFW Bien Hoa 1964."
+    }
+  },
+  "post-0501": {
+    "it": {
+      "caption": "Ultimo sviluppo del Me 109 con motore Junkers Jumo 211F. Prima della consegna alla IAF. Kit in plastica short-run."
+    }
+  },
+  "post-0502": {
+    "it": {
+      "caption": "Livrea per high altitude 'top cover' escort figthers."
+    }
+  },
+  "post-0503": {
+    "it": {
+      "caption": "Old Fujimi kit con motorized elica."
+    }
+  },
+  "post-0504": {
+    "it": {
+      "caption": "7/JG 54.\nOblt. Werner Pichon Kallau von Hofe.\nMensuvaara Finland 1942."
+    }
+  },
+  "post-0505": {
+    "it": {
+      "caption": "JG300."
+    }
+  },
+  "post-0506": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0507": {
+    "it": {
+      "caption": "Interessante progetto, only one prototipo costruito."
+    }
+  },
+  "post-0508": {
+    "it": {
+      "caption": "Yoshiro Aoki 352 FG Kanoya AB aprile 1945.\nFigther aereo con interessante aerodynamic progetto."
+    }
+  },
+  "post-0509": {
+    "it": {
+      "caption": "Livrea Very nice subject e kit, I like il colorful."
+    }
+  },
+  "post-0510": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0511": {
+    "it": {
+      "caption": "Kit motorizzato."
+    }
+  },
+  "post-0512": {
+    "it": {
+      "caption": "An notevole aereo ancora oggi.\n#1(48."
+    }
+  },
+  "post-0513": {
+    "it": {
+      "caption": "10(Pz.) StuKa Geschwader 9.\nESCI a quell’epoca aveva davvero una notevole gamma di kit in scala 1/48."
+    }
+  },
+  "post-0514": {
+    "it": {
+      "caption": "Un altro example del 'stealth-mania' del '80s."
+    }
+  },
+  "post-0515": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0516": {
+    "it": {
+      "caption": "Fictitios modello, il kit fu una bit flimsy (i will fix il barrel alignment)."
+    }
+  },
+  "post-0517": {
+    "it": {
+      "caption": "514th FS South Vietnamese AF.\nDimensioni notevoli in questa scala."
+    }
+  },
+  "post-0518": {
+    "it": {
+      "caption": "Very original kit, sorry per il foto da rifare."
+    }
+  },
+  "post-0519": {
+    "it": {
+      "caption": "Night attack versione, bello aerodynamic refinement del original StuKa concetto even though il fixed autorello still limited its performance."
+    }
+  },
+  "post-0520": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0521": {
+    "it": {
+      "caption": "Bello ERA details."
+    }
+  },
+  "post-0522": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0523": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0524": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0525": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0526": {
+    "it": {
+      "caption": "Zimmeritt added."
+    }
+  },
+  "post-0527": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0528": {
+    "it": {
+      "caption": "Bello type e forma."
+    }
+  },
+  "post-0529": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0530": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0531": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0532": {
+    "it": {
+      "caption": "Kit motorizzato."
+    }
+  },
+  "post-0533": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0534": {
+    "it": {
+      "caption": "Complete con trailer."
+    }
+  },
+  "post-0535": {
+    "it": {
+      "caption": "Piccolo kit grazioso much detailed."
+    }
+  },
+  "post-0536": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0537": {
+    "it": {
+      "caption": "Primo weathering try."
+    }
+  },
+  "post-0538": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0539": {
+    "it": {
+      "caption": "Grazioso insolito piccolo kit, insolito con those grande rockets added."
+    }
+  },
+  "post-0540": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0541": {
+    "it": {
+      "caption": "Improved fenders."
+    }
+  },
+  "post-0542": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0543": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0544": {
+    "it": {
+      "caption": "Some sandbags added."
+    }
+  },
+  "post-0545": {
+    "it": {
+      "caption": "Crazy ceco mimetica."
+    }
+  },
+  "post-0546": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0547": {
+    "it": {
+      "caption": "Il primissimo modello di una stealth aereo, compltely immaginario, apparently il leaks erano purposely misleading about stealth shapes."
+    }
+  },
+  "post-0548": {
+    "it": {
+      "caption": "Immaginario modello, at una time when il stealth mania exploded."
+    }
+  },
+  "post-0549": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0550": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0551": {
+    "it": {
+      "caption": "Bel kit con all il minuscolo ERA bricks una place."
+    }
+  },
+  "post-0552": {
+    "it": {
+      "caption": "Livrea Desert Storm."
+    }
+  },
+  "post-0553": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0554": {
+    "it": {
+      "caption": "Very powerful gun, Battle di Berlin insegne."
+    }
+  },
+  "post-0555": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0556": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0557": {
+    "it": {
+      "caption": "Primo kit Revell still based on spy photos."
+    }
+  },
+  "post-0558": {
+    "it": {
+      "caption": "GBA II/54-3 N1013 - 7 La Bul Fateuse (Sgt/C. Perrot de Thanneberg) Mai 1940 Seconda guerra mondiale»Battaglia di Francia - Roye.\nBell’aereo linee."
+    }
+  },
+  "post-0559": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0560": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0561": {
+    "it": {
+      "caption": "Matchbox had una great idea by including una small diorama base con il kit."
+    }
+  },
+  "post-0562": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0563": {
+    "it": {
+      "caption": "1 Esq 1 Peloton 4 Regiment de Courasseur 1 Division blindee Bitche 1978."
+    }
+  },
+  "post-0564": {
+    "it": {
+      "caption": "Primo figther versione, lo will later become il SR71 recon versione. Vecchio kit Revell."
+    }
+  },
+  "post-0565": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0566": {
+    "it": {
+      "caption": "Lybian livrea, trying per evitare il metallo naturale finitura which fu not satisfactory using il enamels available una quell’epoca."
+    }
+  },
+  "post-0567": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0568": {
+    "it": {
+      "caption": "Anno modellolo 1986, I drive che auto modello."
+    }
+  },
+  "post-0569": {
+    "it": {
+      "caption": "I in effetti drove il corresponding auto modello nel US."
+    }
+  },
+  "post-0570": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0571": {
+    "it": {
+      "caption": "Livrea Vietnam."
+    }
+  },
+  "post-0572": {
+    "it": {
+      "caption": "3 Komp 7 PzAufklBtl Augustdorf 1989.\nVery detailed suspension provided by il kit."
+    }
+  },
+  "post-0573": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0574": {
+    "it": {
+      "caption": "Israeli versione, open slast e back hump added per una late-versione type."
+    }
+  },
+  "post-0575": {
+    "it": {
+      "caption": "Livrea Israeli."
+    }
+  },
+  "post-0576": {
+    "it": {
+      "caption": "Livrea Vietnam."
+    }
+  },
+  "post-0577": {
+    "it": {
+      "caption": "Corse nel 1982-83 Endurance championship, white metal body."
+    }
+  },
+  "post-0578": {
+    "it": {
+      "caption": "Livrea Vietnam."
+    }
+  },
+  "post-0579": {
+    "it": {
+      "caption": "Very early kit Monogram appeared when no official livrea fu established yet, radome made openable."
+    }
+  },
+  "post-0580": {
+    "it": {
+      "caption": "Israeli versione."
+    }
+  },
+  "post-0581": {
+    "it": {
+      "caption": "322330/F6-O/Miss Mildred 1944 GB."
+    }
+  },
+  "post-0582": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0583": {
+    "it": {
+      "caption": "Questo fu una motorired giapponese autoro kit comprato long time ago, I will research per further details."
+    }
+  },
+  "post-0584": {
+    "it": {
+      "caption": "Andruet 'Biche' vincitrice 1973 Monteautolo rallye."
+    }
+  },
+  "post-0585": {
+    "it": {
+      "caption": "Purtroppo incompleto."
+    }
+  },
+  "post-0586": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0587": {
+    "it": {
+      "caption": "Il vecchio kit Airfix, modello by Franco Donati."
+    }
+  },
+  "post-0588": {
+    "it": {
+      "caption": "Magny Cours Sept 1991."
+    }
+  },
+  "post-0589": {
+    "it": {
+      "caption": "Purtroppo incompleto."
+    }
+  },
+  "post-0590": {
+    "it": {
+      "caption": "Extreme high altitude reconnaissance-bombardiere, conversione done when no kit existed yet."
+    }
+  },
+  "post-0591": {
+    "it": {
+      "caption": "I had il crazy idea di una 1/32 Spiteful when no kit del Spiteful ever existed e mi piaced questo type very much."
+    }
+  },
+  "post-0592": {
+    "it": {
+      "caption": "If una triplane flies well, una quintuplane would fly even better, right? You wouldn't believe but such una concoction fu in effetti costruito e flown, lo made two brief flights in ottobre 1917, obviously its flght characteristics erano abysmal e il monstrosity fu put una bed."
+    }
+  },
+  "post-0593": {
+    "it": {
+      "caption": "Questo è una immaginario modello, I wanted una check how incredibly modern una monoplane Fokker DVIII would look like, e indeed lo does."
+    }
+  },
+  "post-0594": {
+    "it": {
+      "caption": "Il kit in questa scala è piuttosto insolito e notevole, ready per undercover operations, questo gives e aura di mystery!"
+    }
+  },
+  "post-0595": {
+    "it": {
+      "caption": "Bello raro soggetto di un’autoro prototipo."
+    }
+  },
+  "post-0596": {
+    "it": {
+      "caption": "Livrea Incomplete LeMans 2017."
+    }
+  },
+  "post-0597": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0598": {
+    "it": {
+      "caption": "2018 modello year."
+    }
+  },
+  "post-0599": {
+    "it": {
+      "caption": "Livrea Nice lines e."
+    }
+  },
+  "post-0600": {
+    "it": {
+      "caption": "Marinefliegergeschwader 5 Bundesmarine Kiel 1985.\nInteressante aerodynamic concetto con cantilever ali e motores!"
+    }
+  },
+  "post-0601": {
+    "it": {
+      "caption": "Olympic Airways Athens 1974.\nBello Olympic livrea, hi Paolo."
+    }
+  },
+  "post-0602": {
+    "it": {
+      "caption": "202 Marinefliegergeschwader 3 Graf Zeppelin Nordholz 2002."
+    }
+  },
+  "post-0603": {
+    "it": {
+      "caption": "Di fine guerra livrea, night blue overall."
+    }
+  },
+  "post-0604": {
+    "it": {
+      "caption": "World speed record on 10 aprile 1933 by Francesco Agello 682,078 km/h, Desenzano del Garda.\nEye-catching modello con copper surface radiators."
+    }
+  },
+  "post-0605": {
+    "it": {
+      "caption": "Purtroppo incompleto."
+    }
+  },
+  "post-0606": {
+    "it": {
+      "caption": "Platzschutzstaffel JV44 Muenchen Riem 1945, red parte inferiore per evitare 'friendly' contraerea."
+    }
+  },
+  "post-0607": {
+    "it": {
+      "caption": "Bel kit which allows una build both il single e twin seat versions."
+    }
+  },
+  "post-0608": {
+    "it": {
+      "caption": "MM7844 costr. Macchi 73 Sq 9 Gr 4 Stormo CT, Africa Sett. Ten. Giulio Reiner."
+    }
+  },
+  "post-0609": {
+    "it": {
+      "caption": "Primo tentativo con ali in metallo naturale e piani di coda con foglio di alluminio."
+    }
+  },
+  "post-0610": {
+    "it": {
+      "caption": "sn2617 23 special warfare av detachment vietnam 1963, interessante soggetto per una 1/48 kit."
+    }
+  },
+  "post-0611": {
+    "it": {
+      "caption": "GR II/33 2eme Escadrille France 1940."
+    }
+  },
+  "post-0612": {
+    "it": {
+      "caption": "VF 162 CVA 34 USS Oriskany Gulf di Tonkin 1966."
+    }
+  },
+  "post-0613": {
+    "it": {
+      "caption": "Ferrara-Ziano di Fiemme 1976 Ferrara-Passo Mendola 1977 1978.\nS. Stefano campo estivo.\nIo e Sandro lo guidammo davvero… senza freni, proprio…"
+    }
+  },
+  "post-0614": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0615": {
+    "it": {
+      "caption": "Grupe Potez Aeronautica Repubblicana Spagnola Albacete 1937."
+    }
+  },
+  "post-0616": {
+    "it": {
+      "caption": "GC 2/1, 3 Esc. N-6 0-4 (N.317) giugno 1940 Seconda guerra mondiale»Battaglia di Francia."
+    }
+  },
+  "post-0617": {
+    "it": {
+      "caption": "4eme escadrille 32eme RAO 1931/32."
+    }
+  },
+  "post-0618": {
+    "it": {
+      "caption": "Aeronavale 1940."
+    }
+  },
+  "post-0619": {
+    "it": {
+      "caption": "Modellista: Franco Donati."
+    }
+  },
+  "post-0620": {
+    "it": {
+      "caption": "Groupe de Chasse 2/1, 3 Escadrille. N-6 0-4 (N.317) giugno 1940 Seconda guerra mondiale Battaglia di Francia."
+    }
+  },
+  "post-0621": {
+    "it": {
+      "caption": "Civil versione."
+    }
+  },
+  "post-0622": {
+    "it": {
+      "caption": "Aviacion Nacional Legionaria Grupo 7-G-14 Spanish civil war."
+    }
+  },
+  "post-0623": {
+    "it": {
+      "caption": "Magyar Királyi Honvéd Légierő 2.Palatabla Felderito Iskolszazad 1942.\nI did all il 3 variations di questo bello piccolo kit."
+    }
+  },
+  "post-0624": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0625": {
+    "it": {
+      "caption": "US Army Aviation Branch 160 SOAR (A) 91-26365 settembre 2001."
+    }
+  },
+  "post-0626": {
+    "it": {
+      "caption": "Folding rotor option."
+    }
+  },
+  "post-0627": {
+    "it": {
+      "caption": "525 FIS, 86 FG 56-1264/FC-264 (Lt.Col. Charles W. Autolson Jr.) settembre 1960 - Bitburg AB DE unfortunately I missed il tail white underground."
+    }
+  },
+  "post-0628": {
+    "it": {
+      "caption": "Intiguing kit con lots di display possibilities.\nIl articulated trailer always fascinated me."
+    }
+  },
+  "post-0629": {
+    "it": {
+      "caption": "WZ974 Number827 Sqn HMS Eagle 1955. Colorful Suez crisis insegne. Intrigante aereo linee e superbly motoreered kit, Trumpeter even provided il gears per contra-rotante elica movement."
+    }
+  },
+  "post-0630": {
+    "it": {
+      "caption": "M Flotille 12 F 1999.\nNoteworthy how Dassault managed una progetto una navalized versione, contrary una Eurofigther."
+    }
+  },
+  "post-0631": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0632": {
+    "it": {
+      "caption": "Historical primo british jet powered aereo."
+    }
+  },
+  "post-0633": {
+    "it": {
+      "caption": "432 TRW Udorn AFB Thailand 1970.\nInsolito variante del old DC3."
+    }
+  },
+  "post-0634": {
+    "it": {
+      "caption": "4407 CCTS, 1 SOW 52673 AH 1966 - Hurlburt Field, FL.\nBello insolito Skyraider variante."
+    }
+  },
+  "post-0635": {
+    "it": {
+      "caption": "Buon vecchio kit Airfix."
+    }
+  },
+  "post-0636": {
+    "it": {
+      "caption": "Operational trials con NJG3 at Stade, . con FiG218 radar stab antennas nel ala root. Notevole modello dimensioni in questa scala."
+    }
+  },
+  "post-0637": {
+    "it": {
+      "caption": "Mimetica taken dal coerrsponding autoro nel Armored Warfare' game.\n'1/35."
+    }
+  },
+  "post-0638": {
+    "it": {
+      "caption": "Primo non stop unrefuelled flight around il world, 14 una 23 dicembre 1986."
+    }
+  },
+  "post-0639": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0640": {
+    "it": {
+      "caption": "Immaginario prototipo livrea, il kit appeared before primo flght."
+    }
+  },
+  "post-0641": {
+    "it": {
+      "caption": "Marines livrea, unfortunately incompleto."
+    }
+  },
+  "post-0642": {
+    "it": {
+      "caption": "Sporting una retrattile hardtop in 1959!\nIl complex leverages sono reproduced nel kit."
+    }
+  },
+  "post-0643": {
+    "it": {
+      "caption": "1976 Giro d'Italia.\nRadical aerodynamic evolution del Lancia Stratos e amazing livrea: splendida auto overall."
+    }
+  },
+  "post-0644": {
+    "it": {
+      "caption": "Goodwrench Le Mans 2000, intricate livrea details."
+    }
+  },
+  "post-0645": {
+    "it": {
+      "caption": "Come corse nel 1977 DTM, il Jägermeister livery è always stunning."
+    }
+  },
+  "post-0646": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0647": {
+    "it": {
+      "caption": "Notevole areodynamic evolution del Porsche 911.\ngiapponese manufacturer, adhesives instead di decals."
+    }
+  },
+  "post-0648": {
+    "it": {
+      "caption": "1978 campionato di F1.\nRather basic kit."
+    }
+  },
+  "post-0649": {
+    "it": {
+      "caption": "My primo grande scala kit by Tamiya."
+    }
+  },
+  "post-0650": {
+    "it": {
+      "caption": "Corse nel DTM 1995, nice powerful auto."
+    }
+  },
+  "post-0651": {
+    "it": {
+      "caption": "vecchio kit Airfix.\nCostruito da Franco Donati."
+    }
+  },
+  "post-0652": {
+    "it": {
+      "caption": "I have just added il BMW Motorport colors."
+    }
+  },
+  "post-0653": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0654": {
+    "it": {
+      "caption": "Daytona 24hrs 1977.\nLivrea Classic BMW Motorport."
+    }
+  },
+  "post-0655": {
+    "it": {
+      "caption": "44 TFS, 355 TFW 59-1822 Polish Glider (Maj.Donald Kutyna) 1970 - Takhli Royal Thai AB."
+    }
+  },
+  "post-0656": {
+    "it": {
+      "caption": "35th TFW 562nd TFS George AFB California 1980."
+    }
+  },
+  "post-0657": {
+    "it": {
+      "caption": "USAAF 1943.\n#1/72 modellos."
+    }
+  },
+  "post-0658": {
+    "it": {
+      "caption": "Bello soggetto.\n#1/72 modello."
+    }
+  },
+  "post-0659": {
+    "it": {
+      "caption": "Vincitrice 1993 Monteautolo Rally.\nLivrea notevole.\n#1/24 modellos."
+    }
+  },
+  "post-0660": {
+    "it": {
+      "caption": "Piccolo kit grazioso:."
+    }
+  },
+  "post-0661": {
+    "it": {
+      "caption": "Grazioso buffa piccolo 4x4 kit."
+    }
+  },
+  "post-0662": {
+    "it": {
+      "caption": "Pre-painted.\n#1/72 Ray."
+    }
+  },
+  "post-0663": {
+    "it": {
+      "caption": "VPB-106 59398/X398 Tortilla Flat West Field, Tinian, Palawan PH."
+    }
+  },
+  "post-0664": {
+    "it": {
+      "caption": "Projected versione di una mid-motored Me309."
+    }
+  },
+  "post-0665": {
+    "it": {
+      "caption": "Iraqi Air Force."
+    }
+  },
+  "post-0666": {
+    "it": {
+      "caption": "Seven victories in 2003 F1 season."
+    }
+  },
+  "post-0667": {
+    "it": {
+      "caption": "Heeresflieger Waffenschule Bückenburg Dec 2000."
+    }
+  },
+  "post-0668": {
+    "it": {
+      "caption": "VFA-102 Diamondbacks 50th anniversary scheme 2005 NAF Atsugi Japan."
+    }
+  },
+  "post-0669": {
+    "it": {
+      "caption": "Interessante aerodynamic concetto."
+    }
+  },
+  "post-0670": {
+    "it": {
+      "caption": "Anno modellolo 2014."
+    }
+  },
+  "post-0671": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0672": {
+    "it": {
+      "caption": "Aircraft con bello clean linee. Insolito soggetto in questo grande scala."
+    }
+  },
+  "post-0673": {
+    "it": {
+      "caption": "Designed pst war in cooperation con Willy Messerschmitt.\n#1/72 Hobby."
+    }
+  },
+  "post-0674": {
+    "it": {
+      "caption": "Questo auto caused una sensation in year 2000 e inspired una retro mania which then quicly faded away soon afterwards."
+    }
+  },
+  "post-0675": {
+    "it": {
+      "caption": "Sherman autoro con improved british 17 pounder anti autoro gun.\nBello piccolo diorama included nel kit."
+    }
+  },
+  "post-0676": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0677": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0678": {
+    "it": {
+      "caption": "s.Pz.Jg.Abt. 654 France Juli 1944."
+    }
+  },
+  "post-0679": {
+    "it": {
+      "caption": "Aircraft autorier Soryu Pearl Harbour 7 Dec 1941, bello colourful insegne."
+    }
+  },
+  "post-0680": {
+    "it": {
+      "caption": "Very avanzato di fine guerra figther prototipo, vac-form kit."
+    }
+  },
+  "post-0681": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0682": {
+    "it": {
+      "caption": "No. 3 Sqn. 122 Wing NV784/JF-E 'Il Grand Charles' (Lt. Pierre Clostermann) 1945."
+    }
+  },
+  "post-0683": {
+    "it": {
+      "caption": "Christoph 10 D-HLEU Juli 1997 - CTT Krankenhaus Wittlich Old ADAC colour scheme."
+    }
+  },
+  "post-0684": {
+    "it": {
+      "caption": "Bel kit con full interior. Questo U-boot has been preserved e lo è now una floating museum che can be visited in Bremerhaven Germany."
+    }
+  },
+  "post-0685": {
+    "it": {
+      "caption": "12 Arm Div 43 Autoro Batt."
+    }
+  },
+  "post-0686": {
+    "it": {
+      "caption": "Pilota: Ken Block, special decals bought online."
+    }
+  },
+  "post-0687": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0688": {
+    "it": {
+      "caption": "Scele: 1/48.\nWeird twin motore versione del P40, One photo exists but probably just una mock-up."
+    }
+  },
+  "post-0689": {
+    "it": {
+      "caption": "Grazioso diorama con cobblestone street e telegraph pole included nel kit."
+    }
+  },
+  "post-0690": {
+    "it": {
+      "caption": "credo lo could have workerd very well."
+    }
+  },
+  "post-0691": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0692": {
+    "it": {
+      "caption": "With small diorama inclided nel kit."
+    }
+  },
+  "post-0693": {
+    "it": {
+      "caption": "Unfortunately il bella chequered nose insegne erano not included nel decals del kit."
+    }
+  },
+  "post-0694": {
+    "it": {
+      "caption": "Here con immaginario Luftwaffe insegne."
+    }
+  },
+  "post-0695": {
+    "it": {
+      "caption": "Purtroppo incompleto."
+    }
+  },
+  "post-0696": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0697": {
+    "it": {
+      "caption": "#1/72 Hobby."
+    }
+  },
+  "post-0698": {
+    "it": {
+      "caption": "Kampfgruppe zbV 107 ottobre 1940."
+    }
+  },
+  "post-0699": {
+    "it": {
+      "caption": "Il autoried fu never completed."
+    }
+  },
+  "post-0700": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0701": {
+    "it": {
+      "caption": "#1/72 Modellos."
+    }
+  },
+  "post-0702": {
+    "it": {
+      "caption": "Livrea speciale Austrian Airlines, 1996 Austrian Millenium.\nNotevole decals del kit."
+    }
+  },
+  "post-0703": {
+    "it": {
+      "caption": "Orljonok Kaspiisk base navale Dagestan 1992,.\nPiuttosto particolare soggetto."
+    }
+  },
+  "post-0704": {
+    "it": {
+      "caption": "Sukhoi Progetto Bureau 1977."
+    }
+  },
+  "post-0705": {
+    "it": {
+      "caption": "U2322 aprile 1945, very avanzato coastal U-boot."
+    }
+  },
+  "post-0706": {
+    "it": {
+      "caption": "Kit minuscolo, bell’aereo linee."
+    }
+  },
+  "post-0707": {
+    "it": {
+      "caption": "Jabo Geschwader 43 Oldenbourg 1993."
+    }
+  },
+  "post-0708": {
+    "it": {
+      "caption": "Proposto night figther versione del Go229.\n#1/72 2."
+    }
+  },
+  "post-0709": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0710": {
+    "it": {
+      "caption": "Swiss Air Ambulance Rega Zuerich Kloten Oct 2004."
+    }
+  },
+  "post-0711": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0712": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0713": {
+    "it": {
+      "caption": "mi sarebbe piaciuto molto unal il actual 1/10 Hotshot RC."
+    }
+  },
+  "post-0714": {
+    "it": {
+      "caption": "Part di Airfix Mistel kit con Messerschmitt Me328."
+    }
+  },
+  "post-0715": {
+    "it": {
+      "caption": "Livrea Unusual subject, nice."
+    }
+  },
+  "post-0716": {
+    "it": {
+      "caption": "Buon vecchio kit Airfix."
+    }
+  },
+  "post-0717": {
+    "it": {
+      "caption": "Intrigante kit, ora credo rather raro."
+    }
+  },
+  "post-0718": {
+    "it": {
+      "caption": "Flugschule Borkheide 1940."
+    }
+  },
+  "post-0719": {
+    "it": {
+      "caption": "Bello piccolo kit da una interessante company.\n#1/32 Owner Club."
+    }
+  },
+  "post-0720": {
+    "it": {
+      "caption": "Conversione da BAC Canberra kit Airfix, when no kit di questo versione fu available."
+    }
+  },
+  "post-0721": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0722": {
+    "it": {
+      "caption": "31 Pz Greece aprile 1941."
+    }
+  },
+  "post-0723": {
+    "it": {
+      "caption": "VMO-2 Al Jubail AB Desert Storm 1992."
+    }
+  },
+  "post-0724": {
+    "it": {
+      "caption": "85 Squadriglia."
+    }
+  },
+  "post-0725": {
+    "it": {
+      "caption": "Rather insolito soggetto per un modello kit."
+    }
+  },
+  "post-0726": {
+    "it": {
+      "caption": "Reconnaissance versione, authentic mimetica NAG 6 (White)22, W.Nr. 518839 März 1945 Burg/Magdeburg."
+    }
+  },
+  "post-0727": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0728": {
+    "it": {
+      "caption": "#1/72 Boss."
+    }
+  },
+  "post-0729": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0730": {
+    "it": {
+      "caption": "Livrea I like una lot il colouful US pre-war."
+    }
+  },
+  "post-0731": {
+    "it": {
+      "caption": "4-blade elica added una check how lo would look like.\n#1/48 Monogram."
+    }
+  },
+  "post-0732": {
+    "it": {
+      "caption": "Spanish civil war.\n'1/48."
+    }
+  },
+  "post-0733": {
+    "it": {
+      "caption": "Metallo naturale undersurface as in di fine guerra tedesco mimetica directives."
+    }
+  },
+  "post-0734": {
+    "it": {
+      "caption": "Splendida livrea e very bello racer linee captured by il vecchio kit Airfix."
+    }
+  },
+  "post-0735": {
+    "it": {
+      "caption": "Primo sperimentale giapponese jet figther, 1st prototipo agosto 1945."
+    }
+  },
+  "post-0736": {
+    "it": {
+      "caption": "Livrea JASDF Rescue Training Sqn. 83-3203 Hamamatsu Minami, lovely."
+    }
+  },
+  "post-0737": {
+    "it": {
+      "caption": "Intrigante kit."
+    }
+  },
+  "post-0738": {
+    "it": {
+      "caption": "#1/48 Modellos."
+    }
+  },
+  "post-0739": {
+    "it": {
+      "caption": "Axle: 1/72.\nDi fine guerra mimetica."
+    }
+  },
+  "post-0740": {
+    "it": {
+      "caption": "Prototipo aereo 1948, grazioso minuscolo parasite figther."
+    }
+  },
+  "post-0741": {
+    "it": {
+      "caption": "Bello insolito modello, radome on top del fin è amazing, neat piccolo scala.\n#1/288 Express."
+    }
+  },
+  "post-0742": {
+    "it": {
+      "caption": "Landstreitkräfte der NVA (East tedesco Army 1956-1990) 1989."
+    }
+  },
+  "post-0743": {
+    "it": {
+      "caption": "Apologies per il inverted invasion strips."
+    }
+  },
+  "post-0744": {
+    "it": {
+      "caption": "Sperimentale aereo costruito in 1948."
+    }
+  },
+  "post-0745": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0746": {
+    "it": {
+      "caption": "South African Air Force."
+    }
+  },
+  "post-0747": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0748": {
+    "it": {
+      "caption": "US Coast Guard Test Pilota School 1997 - Patuxent River, MD."
+    }
+  },
+  "post-0749": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0750": {
+    "it": {
+      "caption": "51806 Nguy Hiem, Vietnam."
+    }
+  },
+  "post-0751": {
+    "it": {
+      "caption": "Livrea Nice airplane lines e nice."
+    }
+  },
+  "post-0752": {
+    "it": {
+      "caption": "Primo US jet prototipo aereo.\n#1/72 Hobby."
+    }
+  },
+  "post-0753": {
+    "it": {
+      "caption": "Study di una mid emotored Mustang, nver realised, I wantd una see how lo looks."
+    }
+  },
+  "post-0754": {
+    "it": {
+      "caption": "Christoph 16 D-HAIT agosto 2001 - Krankenhaus Winterberg, Saarbrücken."
+    }
+  },
+  "post-0755": {
+    "it": {
+      "caption": "1st prototipo maggio 1995."
+    }
+  },
+  "post-0756": {
+    "it": {
+      "caption": "Flak Abt. 279 25 PzDiv Heeresgruppe Mitte, Oder Spring 1945."
+    }
+  },
+  "post-0757": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0758": {
+    "it": {
+      "caption": "Piccolo kit grazioso e forma."
+    }
+  },
+  "post-0759": {
+    "it": {
+      "caption": "234Sqn Bentwaters UK Dec 1944.\nCode AZ-P."
+    }
+  },
+  "post-0760": {
+    "it": {
+      "caption": "234Sqn Bentwaters UK Dec 1944."
+    }
+  },
+  "post-0761": {
+    "it": {
+      "caption": "Danish Air Force."
+    }
+  },
+  "post-0762": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0763": {
+    "it": {
+      "caption": "Purtroppo incompleto."
+    }
+  },
+  "post-0764": {
+    "it": {
+      "caption": "Aeronautica Nazionale Repubblicana sperimentale mimetica."
+    }
+  },
+  "post-0765": {
+    "it": {
+      "caption": "MM91114 1 Squadriglia 2 Gruppo Caccia 'Montefusco' Torino Caselle Autunn 1944."
+    }
+  },
+  "post-0766": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0767": {
+    "it": {
+      "caption": "334th FS Maj. James Jabara 27-7-1953."
+    }
+  },
+  "post-0768": {
+    "it": {
+      "caption": "II Gruppe StukaGeschwader 9."
+    }
+  },
+  "post-0769": {
+    "it": {
+      "caption": "Special versione con 'V' tail, progetto study."
+    }
+  },
+  "post-0770": {
+    "it": {
+      "caption": "VMA 223 El Toro 1953."
+    }
+  },
+  "post-0771": {
+    "it": {
+      "caption": "1 Squadriglia 1 Gruppo Caccia Terrestri MM92219 Magg. Adriano Visconti."
+    }
+  },
+  "post-0772": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0773": {
+    "it": {
+      "caption": "Livrea raced in DTM 2002, nice."
+    }
+  },
+  "post-0774": {
+    "it": {
+      "caption": "corse in DTM 2002."
+    }
+  },
+  "post-0775": {
+    "it": {
+      "caption": "DTM 2002 PM Magazin pilota Timo Scheider."
+    }
+  },
+  "post-0776": {
+    "it": {
+      "caption": "Pilota: Bob Wollek 1976 DRM (Deutsche Rennwagen Meistershchaft) Kremer Racing. Nice livery."
+    }
+  },
+  "post-0777": {
+    "it": {
+      "caption": "Insolito 1/20 scala per un’auto."
+    }
+  },
+  "post-0778": {
+    "it": {
+      "caption": "Very futuristic aerodynamic concetto per una supersonic figther, modello autocostruito in balsa, at least per questo scala no plastic modello available yet."
+    }
+  },
+  "post-0779": {
+    "it": {
+      "caption": "Jagdgeschwader 300."
+    }
+  },
+  "post-0780": {
+    "it": {
+      "caption": "Conversione da Me109 G una Me109 K (motore cowling, tettuccio, U/C wheels fairing)."
+    }
+  },
+  "post-0781": {
+    "it": {
+      "caption": "As flown by Obltnt Josef Priller Stab JG26."
+    }
+  },
+  "post-0782": {
+    "it": {
+      "caption": "Buffa piccolo 4x4 motorized kit."
+    }
+  },
+  "post-0783": {
+    "it": {
+      "caption": "as corse in DTM 2002."
+    }
+  },
+  "post-0784": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0785": {
+    "it": {
+      "caption": "Radiator cowling re-done in balsa una improve original kit's forma."
+    }
+  },
+  "post-0786": {
+    "it": {
+      "caption": "Rubber tires erano provided con il kit, still standing up una now."
+    }
+  },
+  "post-0787": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0788": {
+    "it": {
+      "caption": "DTM 2002 Playstation2 (no3 Laurent Aiello)."
+    }
+  },
+  "post-0789": {
+    "it": {
+      "caption": "1987 F1 Campionato del Mondo."
+    }
+  },
+  "post-0790": {
+    "it": {
+      "caption": "Iconic e hilarious progetto by Tom Daniels."
+    }
+  },
+  "post-0791": {
+    "it": {
+      "caption": "Grazioso piccolo auto, open or closed versione."
+    }
+  },
+  "post-0792": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0793": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0794": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0795": {
+    "it": {
+      "caption": "For some reason il front part did not reproduce correctly il original (BMW 'nieren' missing)."
+    }
+  },
+  "post-0796": {
+    "it": {
+      "caption": "Splendida bella linee."
+    }
+  },
+  "post-0797": {
+    "it": {
+      "caption": "Bella auto."
+    }
+  },
+  "post-0798": {
+    "it": {
+      "caption": "Livrea DTM 1994 Sponsor D2, impressive.\n#1/24 'Tamiya."
+    }
+  },
+  "post-0799": {
+    "it": {
+      "caption": "Il auto fu una sensation when launched."
+    }
+  },
+  "post-0800": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0801": {
+    "it": {
+      "caption": "Anno modellolo 1985, beautiful auto, kit bought nel US."
+    }
+  },
+  "post-0802": {
+    "it": {
+      "caption": "Anno modellolo 1984, cute little kit, bought nel US."
+    }
+  },
+  "post-0803": {
+    "it": {
+      "caption": "DTM 1994 pilota: Manuel Reuter."
+    }
+  },
+  "post-0804": {
+    "it": {
+      "caption": "grazioso piccolo kit, mi piace il detailed parte inferiore e il option di closed or open versione."
+    }
+  },
+  "post-0805": {
+    "it": {
+      "caption": "GP del Brasile 1980."
+    }
+  },
+  "post-0806": {
+    "it": {
+      "caption": "1 (Nelson Piquet) giugno 1982 Canadian Gran Premio - Montreal CA (Result: 1)."
+    }
+  },
+  "post-0807": {
+    "it": {
+      "caption": "1988 F1 World Campione."
+    }
+  },
+  "post-0808": {
+    "it": {
+      "caption": "1990 F1 Campionato del Mondo, auto progettata da che genius di Adrian Newey."
+    }
+  },
+  "post-0809": {
+    "it": {
+      "caption": "Purtroppo incompleto."
+    }
+  },
+  "post-0810": {
+    "it": {
+      "caption": "Conversione una 'chin' type mantelletto del cannone."
+    }
+  },
+  "post-0811": {
+    "it": {
+      "caption": "Sponsor Skoal Bandit pilota:Harry Gant, kit comprato nel US."
+    }
+  },
+  "post-0812": {
+    "it": {
+      "caption": "Come corse con Bill Elliott NASCAR championship 1984, kit bought nel US."
+    }
+  },
+  "post-0813": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0814": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0815": {
+    "it": {
+      "caption": "White metal body."
+    }
+  },
+  "post-0816": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0817": {
+    "it": {
+      "caption": "Corse nel 2000 F1 championship."
+    }
+  },
+  "post-0818": {
+    "it": {
+      "caption": "US sedan una appeal il European market."
+    }
+  },
+  "post-0819": {
+    "it": {
+      "caption": "È sorprendente che questa auto sia stata davvero prodotta in serie e venduta: che macchina."
+    }
+  },
+  "post-0820": {
+    "it": {
+      "caption": "2002 modello year.\nBel kit including hardtop."
+    }
+  },
+  "post-0821": {
+    "it": {
+      "caption": "- Ford Escort Castrol, conversione da kit Airfix, I corse una lot con lo all’epoca, uno dei primi conversions.\n- Alpine Le Mans."
+    }
+  },
+  "post-0822": {
+    "it": {
+      "caption": "- Ferrari GTO (acetate) has not yellowed over all these years.\n- Lotus Europa, incompleto conversione da Poliauto body, sponsor Minolta pilota Harald Ertl."
+    }
+  },
+  "post-0823": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0824": {
+    "it": {
+      "caption": "no.22 Martini Le Mans vincitrice 1971."
+    }
+  },
+  "post-0825": {
+    "it": {
+      "caption": "Jeff Burton NASCAR championship 1997."
+    }
+  },
+  "post-0826": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0827": {
+    "it": {
+      "caption": "Pilota: Bobby Labonte NASCAR 1999."
+    }
+  },
+  "post-0828": {
+    "it": {
+      "caption": "mi piaced il aero concetto very much so I converted il Porsche 936/77 una 936/78, when no kit fu available. Then Tamiya came up con che very kit."
+    }
+  },
+  "post-0829": {
+    "it": {
+      "caption": "NASCAR 1998 championship, Goodwrench - pilota:Dale Earnhardt.\nBel kit con intricate inner detail."
+    }
+  },
+  "post-0830": {
+    "it": {
+      "caption": "Balsa kit.\nModello di Franco Donati."
+    }
+  },
+  "post-0831": {
+    "it": {
+      "caption": "Interessante kit in questo grande scala, autocostruito IR exhaust suppression device."
+    }
+  },
+  "post-0832": {
+    "it": {
+      "caption": "Incompleto."
+    }
+  },
+  "post-0833": {
+    "it": {
+      "caption": "Michelin Pilota Team Ford 1 (Malcolm Wilson - Bryan Thomas) 1994 Stena Sealink Ulster Rally (Result: 1)."
+    }
+  },
+  "post-0834": {
+    "it": {
+      "caption": "Modellol year 1991-92."
+    }
+  },
+  "post-0835": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0836": {
+    "it": {
+      "caption": "Livrea Nice."
+    }
+  },
+  "post-0837": {
+    "it": {
+      "caption": "Corse nel 1988 F1 championship.\nUnfortunately not il correct green hue I'm afraid."
+    }
+  },
+  "post-0838": {
+    "it": {
+      "caption": "Corse nel 1992 F1 season."
+    }
+  },
+  "post-0839": {
+    "it": {
+      "caption": "Livrea notevole."
+    }
+  },
+  "post-0840": {
+    "it": {
+      "caption": "Caused una lot di sensation as 'superauto'."
+    }
+  },
+  "post-0841": {
+    "it": {
+      "caption": "Corse nel 1988 Fuji World Endurance Championship."
+    }
+  },
+  "post-0842": {
+    "it": {
+      "caption": "2 Giuseppe \"Nino\" Farina 1950 Italian Gran Premio - Italy (Result: 1st)."
+    }
+  },
+  "post-0843": {
+    "it": {
+      "caption": "GP del Brasile 1980."
+    }
+  },
+  "post-0844": {
+    "it": {
+      "caption": "Some trick una allow vinyl track droop..."
+    }
+  },
+  "post-0845": {
+    "it": {
+      "caption": "Come corse nel 1979 F1 championship."
+    }
+  },
+  "post-0846": {
+    "it": {
+      "caption": "Costruito per ferrari's 50th anniversary, il kè nicely costruito una allow both closed e open versions."
+    }
+  },
+  "post-0847": {
+    "it": {
+      "caption": "Pilota: Gerd Körber.\nUnfortunately il vinyl tires aged piuttosto badly.\nModello di Franco Donati."
+    }
+  },
+  "post-0848": {
+    "it": {
+      "caption": "Primo kit in una very grande scala per l’epoca, It fu una event per il modellolers'community.\nModello di Franco Donati."
+    }
+  },
+  "post-0849": {
+    "it": {
+      "caption": "Corse nel 1977 F1 season.\nParticolare auto as lo won on its debut race, simple but efficient auto, 3 wins in che season."
+    }
+  },
+  "post-0850": {
+    "it": {
+      "caption": "Worls campione in 1972. Possibly il best Formula 1 ever, corse da 1970 una 1975. 2 Pilota's Campionato del Mondos e 3 Constructor's World chamionships won. In 1975 she fu even still primo per una few laps in Monaco GP."
+    }
+  },
+  "post-0851": {
+    "it": {
+      "caption": "Corse nel 1977 f1 season, primo example di una wing auto using il auto body una enhance aerodynamic downforce."
+    }
+  },
+  "post-0852": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0853": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0854": {
+    "it": {
+      "caption": "Modello di Franco Pavani."
+    }
+  },
+  "post-0855": {
+    "it": {
+      "caption": "Come corse nel 1983."
+    }
+  },
+  "post-0856": {
+    "it": {
+      "caption": "Modello di Franco Pavani."
+    }
+  },
+  "post-0857": {
+    "it": {
+      "caption": "Modello di Franco Pavani."
+    }
+  },
+  "post-0858": {
+    "it": {
+      "caption": "Modello di Franco Pavani."
+    }
+  },
+  "post-0859": {
+    "it": {
+      "caption": "Modello di Franco Pavani."
+    }
+  },
+  "post-0860": {
+    "it": {
+      "caption": "Street versione, notevole modello."
+    }
+  },
+  "post-0861": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0862": {
+    "it": {
+      "caption": "unfortunately incompleto."
+    }
+  },
+  "post-0863": {
+    "it": {
+      "caption": "As flown by Italian Regia Aeronautica."
+    }
+  },
+  "post-0864": {
+    "it": {
+      "caption": "Modello di Franco Donati."
+    }
+  },
+  "post-0865": {
+    "it": {
+      "caption": "Modello di Franco Pavani."
+    }
+  },
+  "post-0866": {
+    "it": {
+      "caption": "as in service con Aeronautica Militare Italiana."
+    }
+  },
+  "post-0867": {
+    "it": {
+      "caption": "365 Squadriglia Regia Aeronautica.\n#1/72 'Airfix."
+    }
+  },
+  "post-0868": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0869": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0870": {
+    "it": {
+      "caption": "Costruito da Franco Pavani."
+    }
+  },
+  "post-0871": {
+    "it": {
+      "caption": "Costruito da Franco Pavani."
+    }
+  },
+  "post-0872": {
+    "it": {
+      "caption": "Finnish Airf Force, postwar insigna."
+    }
+  },
+  "post-0873": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0874": {
+    "it": {
+      "caption": "Costruito at una time when F1 auto projects sought new ideas, nowadays all F1 autos look il same."
+    }
+  },
+  "post-0875": {
+    "it": {
+      "caption": "bought in 1972, its price una quell’epoca fu 3.5 Euros!!\n#1/12 'Tamiya."
+    }
+  },
+  "post-0876": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0877": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0878": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0879": {
+    "it": {
+      "caption": "1975 F1 world campione."
+    }
+  },
+  "post-0880": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0881": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0882": {
+    "it": {
+      "caption": "Notevole kit in enorme 1/8 scala, bella auto as well."
+    }
+  },
+  "post-0883": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0884": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0885": {
+    "it": {
+      "caption": "VMA 332 Korea 1953."
+    }
+  },
+  "post-0886": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0887": {
+    "it": {
+      "caption": "mi piaced una know how una Corsair would have looked like con una avanzato cockpit una obviate visibility issues."
+    }
+  },
+  "post-0888": {
+    "it": {
+      "caption": "Il primo volo del X-32A (designed per CTOL e autorier trials) took place on 18 settembre 2000, da Boeing's Palmdale plant una Edwards Air Force Base."
+    }
+  },
+  "post-0889": {
+    "it": {
+      "caption": "Scakle: 1/72.\nVA 1151996 Eagles Autorier Air Wing 5 USS Independence accidentally shot down by giapponese destroyer on 4 giugno 1996."
+    }
+  },
+  "post-0890": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0891": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0892": {
+    "it": {
+      "caption": "Bu No 88459 tested at Goodyear e NAS Patuxent River 10/45 6/46.\n#1/72 Hobby."
+    }
+  },
+  "post-0893": {
+    "it": {
+      "caption": "6th Prototipo agosto 1945.\n'1/72 'MPM."
+    }
+  },
+  "post-0894": {
+    "it": {
+      "caption": "3rd prototipo Yokosuka 1945.\n1/72 'MPM."
+    }
+  },
+  "post-0895": {
+    "it": {
+      "caption": "LS."
+    }
+  },
+  "post-0896": {
+    "it": {
+      "caption": "302 Air Wing Atsugi air base."
+    }
+  },
+  "post-0897": {
+    "it": {
+      "caption": "302 Kokutai 3 Hikotai Lt Yasuzo Nagame agosto 1945 Atsugi AB."
+    }
+  },
+  "post-0898": {
+    "it": {
+      "caption": "Zuikaku aereo autorier 1944."
+    }
+  },
+  "post-0899": {
+    "it": {
+      "caption": "343 Naval Kokutai (ala) 701st Figther Hikotai (SQ) Flt Leutnant Oshibuki Kanoya AB 1945."
+    }
+  },
+  "post-0900": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0901": {
+    "it": {
+      "caption": "Prototipo, aereo bimotore, volato nel dicembre 1943."
+    }
+  },
+  "post-0902": {
+    "it": {
+      "caption": "244 Sentai agosto 1945.\nLivrea Piuttosto intriguing e colorful."
+    }
+  },
+  "post-0903": {
+    "it": {
+      "caption": "Bel kit, il fusoliera fu moulded in clear plastic una show il interior."
+    }
+  },
+  "post-0904": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0905": {
+    "it": {
+      "caption": "Proposto mimetica taken da autori tedeschi 'ambush mimetica' per evitare di essere individuato una terra."
+    }
+  },
+  "post-0906": {
+    "it": {
+      "caption": "Air-una-ait proposto mimetica, non verniciata natural wood parte inferiore."
+    }
+  },
+  "post-0907": {
+    "it": {
+      "caption": "Československé letectvo (Aeronautica cecoslovacca 1918-1939) Vojenské Letecké učiliště (Military Air Force School) Prostějov c 216."
+    }
+  },
+  "post-0908": {
+    "it": {
+      "caption": "Aeronautica Regală Română (Aeronautica Reale Rumena 1915-1941) Esc. 53, Grupul 7 Vânătoare 109 (Constantin Pomut/Wilhelm Steinmann) Ploesti."
+    }
+  },
+  "post-0909": {
+    "it": {
+      "caption": "#1/72 'Premiere."
+    }
+  },
+  "post-0910": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0911": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0912": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0913": {
+    "it": {
+      "caption": "Mosca, 1946.\nL’ingestione dei gas dei cannoni evidentemente non fu considerata un problema dal progettista."
+    }
+  },
+  "post-0914": {
+    "it": {
+      "caption": "Kharkiv Russia 1943."
+    }
+  },
+  "post-0915": {
+    "it": {
+      "caption": "Formosa, 1945."
+    }
+  },
+  "post-0916": {
+    "it": {
+      "caption": "A Flygflöttilj 6 2nd Sqn."
+    }
+  },
+  "post-0917": {
+    "it": {
+      "caption": "Conversione da Ar 240 kit Revell."
+    }
+  },
+  "post-0918": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0919": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0920": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0921": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0922": {
+    "it": {
+      "caption": "I wanted una check how il aereo con una bubble tettuccio would look like...."
+    }
+  },
+  "post-0923": {
+    "it": {
+      "caption": "Prototipo con enorme inline motore Chrysler XI 2220."
+    }
+  },
+  "post-0924": {
+    "it": {
+      "caption": "VF-172 Blue Bolts R-210 | 124969 (Lt. G.Y. Warren) ottobre 1951 Korean War» - USS Essex KR."
+    }
+  },
+  "post-0925": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0926": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0927": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0928": {
+    "it": {
+      "caption": "Bello insolito soggetto per un kit."
+    }
+  },
+  "post-0929": {
+    "it": {
+      "caption": "Conversione da Panther una Cougar when no Cougar kit fu available."
+    }
+  },
+  "post-0930": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0931": {
+    "it": {
+      "caption": "Marinefliegergeschwader 3 Schleswig 1958."
+    }
+  },
+  "post-0932": {
+    "it": {
+      "caption": "VMF(N) 513 USMC South Korea agosto 1953, bello soggetto per un modello kit."
+    }
+  },
+  "post-0933": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0934": {
+    "it": {
+      "caption": "120 Sqn Nederlands East Indies AF Australia 1944."
+    }
+  },
+  "post-0935": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0936": {
+    "it": {
+      "caption": "Notevole kit in enorme scala."
+    }
+  },
+  "post-0937": {
+    "it": {
+      "caption": "759 Sqn Fleet Figther School RNAS Eastleigh 1940."
+    }
+  },
+  "post-0938": {
+    "it": {
+      "caption": "132 Sq 3 jet AB Turkish Air Force1975.\n#1/72 Modellos."
+    }
+  },
+  "post-0939": {
+    "it": {
+      "caption": "US Navy Shanghai China 1945."
+    }
+  },
+  "post-0940": {
+    "it": {
+      "caption": "1934 - marzo Field, CA 95 Pursuit Squadron, 17 Pursuit Group 62."
+    }
+  },
+  "post-0941": {
+    "it": {
+      "caption": "Piuttosto intrigante forma e rather avanzato aereo per its times.\n#1/72 VK Modellos."
+    }
+  },
+  "post-0942": {
+    "it": {
+      "caption": "604th Special Operations Sqn 3rd TFW Bien Hoa 1964."
+    }
+  },
+  "post-0943": {
+    "it": {
+      "caption": "It fu volato nel Vietnam as observation aereo."
+    }
+  },
+  "post-0944": {
+    "it": {
+      "caption": "Jagdstaffel (Jasta) 2 Boelcke (Lt. Werner Voss) giugno 1917 World War 1»Western Front - Pronville FR, very colorata modello, fusoliera tries una depict natural wood."
+    }
+  },
+  "post-0945": {
+    "it": {
+      "caption": "As flown by il famous 'Red Baron', Manfred von Richthofen."
+    }
+  },
+  "post-0946": {
+    "it": {
+      "caption": "Pilotato da german ace Werner Voss on his ultimo flight on 23 September 1917."
+    }
+  },
+  "post-0947": {
+    "it": {
+      "caption": "Un altro bello idea per una immaginario 'Luft46' soggetto."
+    }
+  },
+  "post-0948": {
+    "it": {
+      "caption": "Kut: Frog (?).\nNote il hilarious loadout: 2 RATO rockets, 2 external tanks, 1 SC500 bomb e ... una V1, taking off vould make il poor bligther in lo sweating profusely."
+    }
+  },
+  "post-0949": {
+    "it": {
+      "caption": "Bella auto, insolito 1/16 scala."
+    }
+  },
+  "post-0950": {
+    "it": {
+      "caption": "Glite una serve as aerodynamic proof di concetto del projected P13a jet figther, costruito by Darmstadt e Munich technical univerity students, captured at Prien (bavaria) in 1945."
+    }
+  },
+  "post-0951": {
+    "it": {
+      "caption": "Progetto di vertical take off e landing jet figther, doubtful lo would have worked."
+    }
+  },
+  "post-0952": {
+    "it": {
+      "caption": "Progetto di night figther versione di do 335, Buon vecchio Frog kit."
+    }
+  },
+  "post-0953": {
+    "it": {
+      "caption": "Progetto di una single motored jet figther in 1944 Modello done at una time when no kit fu yet available, very interessante aerodynamic concetto."
+    }
+  },
+  "post-0954": {
+    "it": {
+      "caption": "Conversione done when no Spiteful kit fu available."
+    }
+  },
+  "post-0955": {
+    "it": {
+      "caption": "Ground attack progetto con mixed propulsion nel typical B&V asymmetric layout."
+    }
+  },
+  "post-0956": {
+    "it": {
+      "caption": "Evolution progetto del Me162B but still con most if il inherent limitations in terms di gamma, but still mi piace il teardrop tettuccio very much."
+    }
+  },
+  "post-0957": {
+    "it": {
+      "caption": "B&W progetto submitted per il Volksjäger competition in settembre 1944, very interessante progetto could bave been superior unal actual vincitrice He 162."
+    }
+  },
+  "post-0958": {
+    "it": {
+      "caption": "progetto di una single motored jet figther 1944, very avanzato aerodynamics per l’epoca, even if il T-tail could have given problems."
+    }
+  },
+  "post-0959": {
+    "it": {
+      "caption": "Progetto di una jet dive bombardiere, pilota flying lo in una prone position."
+    }
+  },
+  "post-0960": {
+    "it": {
+      "caption": "Conversione una night figther dal kit Airfix, antennas unfortunately gone after all questo time."
+    }
+  },
+  "post-0961": {
+    "it": {
+      "caption": "It would have taken il poor pilota piuttosto some guts una fly questo thing.\n#1/72 Hobby."
+    }
+  },
+  "post-0962": {
+    "it": {
+      "caption": "Conversione da kit Airfix."
+    }
+  },
+  "post-0963": {
+    "it": {
+      "caption": "Revell.\nJet figther progetto 1944."
+    }
+  },
+  "post-0964": {
+    "it": {
+      "caption": "Il world's primo true jet figther, primo powered flight on 30 marzo 1941."
+    }
+  },
+  "post-0965": {
+    "it": {
+      "caption": ""
+    }
+  },
+  "post-0966": {
+    "it": {
+      "caption": ""
+    }
   }
 };

@@ -1,0 +1,26 @@
+VIRTUAL MODEL MUSEUM - TRADUZIONE ITALIANA COMPLETA 0001-0966 - V2
+
+Questo pacchetto porta la lingua IT fino a tutti i 966 post presenti in posts-data.js.
+
+Contiene:
+- assets/translations-data.js: traduzioni italiane per tutti i post.
+- assets/app.js: piccola correzione per gestire correttamente didascalie intenzionalmente vuote.
+- italian_translations_complete_0001_0966.csv: tabella completa per controllo/revisione.
+- italian_translations_review_english_residue.csv: post in cui puo' restare qualche termine inglese da verificare.
+
+Nota importante:
+I primi lotti fino a post-0300 sono quelli gia' preparati e piu' rifiniti.
+Dal post-0301 al post-0966 questa e' una prima bozza italiana completa riveduta automaticamente, pensata per eliminare il fallback inglese e rendere il sito interamente navigabile in IT. Va considerata una base da rivedere con calma, soprattutto nei testi tecnici o nelle frasi molto colloquiali.
+
+Come applicarlo:
+1. Estrai questo ZIP.
+2. Copia la cartella assets nella cartella principale del sito.
+3. Quando Windows chiede, scegli "Sostituisci i file nella destinazione".
+4. Apri index.html in locale.
+5. Scegli IT e scorri vari punti della galleria.
+6. In GitHub Desktop:
+   Summary: Complete Italian captions
+   Commit to main
+   Push origin
+
+Se trovi una traduzione da correggere, puoi usare editor.html e poi esportare di nuovo translations-data.js.
