@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://virtualmodelmuseum.github.io/virtualmodelmuseum/sitemap.txt
+Sitemap: https://virtualmodelmuseum.github.io/virtualmodelmuseum/sitemap-pages.xml
 Sitemap: https://virtualmodelmuseum.github.io/virtualmodelmuseum/sitemap.xml
