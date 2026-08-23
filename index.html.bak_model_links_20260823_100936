@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<link rel="stylesheet" href="assets/hero.css">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Virtual Model Museum - Scale Models, Aircraft, Cars and Military Vehicles</title>
+  <meta name="description" content="A family scale modelling archive begun nearly seventy years ago: aircraft, motor cars, military vehicles, Donati company models, kits, captions and photographs.">
+  <link rel="stylesheet" href="assets/style.css">
+  <!-- VMM SEO START -->
+  <link rel="canonical" href="https://virtualmodelmuseum.github.io/virtualmodelmuseum/">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="scale models, scale modelling, model aircraft, model cars, military vehicles, plastic kits, model kits, Donati, Ferrara, diorama, model collection">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Virtual Model Museum">
+  <meta property="og:title" content="Virtual Model Museum - Scale Models, Aircraft, Cars and Military Vehicles">
+  <meta property="og:description" content="A family scale modelling archive begun nearly seventy years ago: aircraft, motor cars, military vehicles, Donati company models, kits, captions and photographs.">
+  <meta property="og:url" content="https://virtualmodelmuseum.github.io/virtualmodelmuseum/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Virtual Model Museum - Scale Models, Aircraft, Cars and Military Vehicles">
+  <meta name="twitter:description" content="A family scale modelling archive begun nearly seventy years ago: aircraft, motor cars, military vehicles, kits, captions and photographs.">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Virtual Model Museum",
+    "url": "https://virtualmodelmuseum.github.io/virtualmodelmuseum/",
+    "description": "A family scale modelling archive begun nearly seventy years ago: aircraft, motor cars, military vehicles, Donati company models, kits, captions and photographs.",
+    "inLanguage": ["en", "it", "fe", "de", "fr", "es", "sv", "cs", "ru", "ja", "zh"],
+    "about": ["Scale modelling", "Model aircraft", "Model cars", "Military vehicles", "Plastic model kits", "Donati company models", "Ferrara"]
+  }
+  </script>
+  <!-- VMM SEO END -->
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+        <nav class="language-bar" aria-label="Language selector">
+      <button class="lang-button active" type="button" data-lang="en" aria-pressed="true"><span class="lang-code">GB</span><span>English</span></button>
+      <button class="lang-button" type="button" data-lang="it" aria-pressed="false"><span class="lang-code">IT</span><span>Italiano</span></button>
+      <button class="lang-button" type="button" data-lang="fe" aria-pressed="false"><span class="lang-code">FE</span><span>Frar&eacute;s</span></button>
+      <button class="lang-button" type="button" data-lang="de" aria-pressed="false"><span class="lang-code">DE</span><span>Deutsch</span></button>
+      <button class="lang-button" type="button" data-lang="fr" aria-pressed="false"><span class="lang-code">FR</span><span>Fran&ccedil;ais</span></button>
+      <button class="lang-button" type="button" data-lang="ru" aria-pressed="false"><span class="lang-code">RU</span><span>&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</span></button>
+      <button class="lang-button" type="button" data-lang="ja" aria-pressed="false"><span class="lang-code">JP</span><span>&#26085;&#26412;&#35486;</span></button>
+      <button class="lang-button" type="button" data-lang="zh" aria-pressed="false"><span class="lang-code">CN</span><span>&#20013;&#25991;</span></button>
+      <button class="lang-button" type="button" data-lang="es" aria-pressed="false"><span class="lang-code">ES</span><span>Espa&ntilde;ol</span></button>
+      <button class="lang-button" type="button" data-lang="sv" aria-pressed="false"><span class="lang-code">SV</span><span>Svenska</span></button>
+      <button class="lang-button" type="button" data-lang="cs" aria-pressed="false"><span class="lang-code">CS</span><span>&#268;e&#353;tina</span></button>
+    </nav>
+
+    <p class="kicker" data-i18n="kicker">Welcome to my collection!</p>
+    <h1>Virtual Model Museum</h1>
+    <p class="intro" data-i18n="intro1">This collection was begun by my father nearly seventy years ago, and has been quietly gathering character ever since.</p>
+    <p class="intro" data-i18n="intro2">The aim is not to parade perfection, but to offer a fond look at the many agreeable corners of scale modelling: aircraft, motor cars, military vehicles, and those small mechanical characters that make the hobby so endlessly charming.</p>
+    <aside id="contactTop" class="top-contact-box" aria-label="Contact">
+      <div class="top-contact-copy">
+        <p class="top-contact-kicker" data-contact-key="kicker">Contact</p>
+        <p class="top-contact-title" data-contact-key="title">Questions, corrections, or model memories?</p>
+        <p class="top-contact-text" data-contact-key="body">Recognise a kit, spot a historical detail, or simply fancy a word about scale modelling? I would be delighted to hear from you.</p>
+      </div>
+      <a class="top-contact-button vmm-contact-mail" href="mailto:virtualmodelmuseum@gmail.com?subject=Virtual%20Model%20Museum" data-contact-key="button">Contact the collection</a>
+    </aside>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="controls" data-i18n-attr="aria-label:controlsLabel" aria-label="Gallery controls">
+    <input id="search" type="search" data-i18n-attr="placeholder:searchPlaceholder" placeholder="Search model, kit, scale or text..." autocomplete="off">
+    <select id="yearFilter"><option value="" data-i18n="allYears">All years</option></select>
+    <select id="scaleFilter"><option value="" data-i18n="allScales">All scales</option></select>
+    <select id="categoryFilter">
+      <option value="" data-i18n="allCategories">All categories</option>
+      <option value="aircraft" data-i18n="categoryAircraft">Aircraft</option>
+      <option value="car" data-i18n="categoryCars">Cars & road vehicles</option>
+      <option value="military" data-i18n="categoryMilitary">Military vehicles</option>
+      <option value="motorcycle" data-i18n="categoryMotorcycles">Motorcycles</option>
+      <option value="ship" data-i18n="categoryShips">Ships</option>
+      <option value="_blank" data-i18n="categoryUnclassified">To check</option>
+    </select>
+    <button id="reset" type="button" data-i18n="reset">Reset</button>
+  </section>
+
+  <section class="summary">
+    <span id="postCount"></span>
+    <span id="imageCount"></span>
+  </section>
+
+  <section id="pinnedGrid" class="pinned-grid" data-i18n-attr="aria-label:featuredLabel" aria-label="Featured Donati models"></section>
+  <section id="grid" class="grid" data-i18n-attr="aria-label:galleryLabel" aria-label="Model gallery"></section>
+</main>
+
+<div id="viewer" class="viewer" hidden>
+  <button id="closeViewer" class="viewer-close" data-i18n-attr="aria-label:close" aria-label="Close">×</button>
+  <button id="prev" class="viewer-arrow viewer-prev" data-i18n-attr="aria-label:previousPhoto" aria-label="Previous photo">‹</button>
+  <figure class="viewer-card">
+    <div class="viewer-image-wrap"><img id="viewerImage" alt=""></div>
+    <figcaption class="viewer-info">
+      <div class="viewer-meta"><span id="viewerDate"></span><span id="viewerCounter"></span></div>
+      <h2 id="viewerTitle"></h2>
+      <div id="viewerTags" class="tags"></div>
+      <p id="viewerCaption"></p>
+    </figcaption>
+  </figure>
+  <button id="next" class="viewer-arrow viewer-next" data-i18n-attr="aria-label:nextPhoto" aria-label="Next photo">›</button>
+</div>
+
+<footer class="footer" data-i18n="footer">
+  Virtual Model Museum — a static archive of scale modelling.
+</footer>
+
+<script src="assets/posts-data.js"></script>
+<script src="assets/translations-data.js"></script>
+<script src="assets/extra-translations-es-sv-cs.js"></script>
+<script src="assets/ferrarese.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/language-label-fix.js"></script>
+<script src="assets/contact-top.js"></script>
+<script src="assets/hero.js"></script>
+</body>
+</html>
+

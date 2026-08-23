@@ -1,0 +1,74 @@
+/* Virtual Model Museum - internal model links for SEO */
+.vmm-model-links{
+  width:min(1180px, calc(100% - 28px));
+  margin:2rem auto 2.4rem;
+  padding:1rem;
+  border:1px solid rgba(255,255,255,.13);
+  border-radius:20px;
+  background:rgba(27,29,34,.82);
+  box-shadow:0 14px 38px rgba(0,0,0,.22);
+}
+
+.vmm-model-links-head{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:1rem;
+  margin-bottom:.85rem;
+}
+
+.vmm-model-links h2{
+  margin:0;
+  font-size:1.15rem;
+}
+
+.vmm-model-links p{
+  margin:0;
+  color:var(--muted, #b9b3aa);
+  font-size:.92rem;
+}
+
+.vmm-model-links-list{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.45rem;
+  max-height:260px;
+  overflow:auto;
+  padding:.15rem .15rem .4rem;
+}
+
+.vmm-model-links-list a{
+  display:inline-block;
+  max-width:100%;
+  padding:.34rem .55rem;
+  border:1px solid rgba(255,255,255,.13);
+  border-radius:999px;
+  background:rgba(36,39,46,.72);
+  color:inherit;
+  text-decoration:none;
+  font-size:.86rem;
+  white-space:nowrap;
+}
+
+.vmm-model-links-list a:hover{
+  filter:brightness(1.14);
+  text-decoration:none;
+}
+
+@media (max-width:720px){
+  .vmm-model-links{
+    width:calc(100% - 18px);
+    margin:1.3rem auto 1.7rem;
+    padding:.8rem;
+    border-radius:16px;
+  }
+  .vmm-model-links-head{
+    display:block;
+  }
+  .vmm-model-links p{
+    margin-top:.35rem;
+  }
+  .vmm-model-links-list{
+    max-height:220px;
+  }
+}
